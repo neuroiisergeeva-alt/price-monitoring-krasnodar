@@ -13,7 +13,6 @@ on:
 permissions:
   contents: write
   pages: write
-  id-token: write
   issues: write
 concurrency:
   group: price-report
@@ -22,9 +21,6 @@ jobs:
   publish:
     runs-on: ubuntu-latest
     timeout-minutes: 30
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v6
       - uses: actions/setup-node@v4
@@ -38,26 +34,23 @@ jobs:
       - name: Прочитать цены
         if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.refresh)
         run: npm run refresh
-      - name: Сохранить историю
-        if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.refresh)
+      - run: npm run check
+      - run: npm run build
+      - name: Сохранить историю и готовую страницу
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data
+          git add data assets index.html .nojekyll
           if ! git diff --cached --quiet; then
-            git commit -m "Обновление цен и истории [skip ci]"
+            git commit -m "Обновление отчета и готовой страницы [skip ci]"
             git push
           fi
+      - name: Опубликовать GitHub Pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/request-pages-build.mjs
       - name: Уведомление об изменениях и сбоях
         if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.refresh)
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: node scripts/notify.mjs
-      - run: npm run check
-      - run: npm run build
-      - uses: actions/configure-pages@v5
-      - uses: actions/upload-pages-artifact@v4
-        with:
-          path: dist
-      - uses: actions/deploy-pages@v4
-        id: deployment

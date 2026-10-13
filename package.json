@@ -4,7 +4,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "node scripts/publish-data.mjs && vite build",
+    "build": "node scripts/publish-data.mjs && vite build && node scripts/install-static.mjs",
     "refresh": "node scripts/refresh.mjs",
     "check": "tsc --noEmit"
   },
