@@ -26,5 +26,18 @@ with concurrent.futures.ThreadPoolExecutor(max_workers=6) as ex:
  for i,(r,task) in enumerate(zip(ex.map(read,[x[0] for x in more]),more)):
   r['sourceUrl']=task[1];pages.append(r)
   if i%25==0:print('Terem read',i+1,flush=True)
-out={'at':time.strftime('%Y-%m-%dT%H:%M:%SZ',time.gmtime()),'ownListings':ownLists,'own':ownPages,'terem':pages}
-pathlib.Path('.tmp/crimea-crawl.json').write_text(json.dumps(out,ensure_ascii=False));print('DONE',len(ownPages),len(pages),'failures',sum(not p['complete'] for p in ownPages+pages),flush=True)
+packageLinks={}
+for p in pages:
+ for block in re.split(r'<div\s+class=["\']product-thumb uni-item["\'][^>]*>',p.get('html',''))[1:]:
+  a=re.search(r'class=["\']product-thumb__name["\'][^>]*href=["\']([^"\']+)["\'][^>]*>(.*?)</a>',block,re.S)
+  if not a:continue
+  title=html.unescape(re.sub('<[^>]+>','',a[2]))
+  if re.search(r'\*\s*\d+\s*шт',title):packageLinks[html.unescape(a[1])]=title
+print('Package cards to verify',len(packageLinks),flush=True)
+packageCards=[]
+with concurrent.futures.ThreadPoolExecutor(max_workers=10) as ex:
+ for i,(r,u) in enumerate(zip(ex.map(read,packageLinks),packageLinks)):
+  r['title']=packageLinks[u];r['at']=time.strftime('%Y-%m-%dT%H:%M:%SZ',time.gmtime());packageCards.append(r)
+  if i%50==0:print('Package cards read',i+1,flush=True)
+out={'at':time.strftime('%Y-%m-%dT%H:%M:%SZ',time.gmtime()),'ownListings':ownLists,'own':ownPages,'terem':pages,'packageCards':packageCards}
+pathlib.Path('.tmp/crimea-crawl.json').write_text(json.dumps(out,ensure_ascii=False));print('DONE',len(ownPages),len(pages),'failures',sum(not p['complete'] for p in ownPages+pages+packageCards),flush=True)
