@@ -29,3 +29,6 @@ Settings → Pages → Build and deployment → Source: Deploy from a branch →
 ## Локальная работа
 
 Node22+, Python3.12+, curl. `npm install`; `pip install openpyxl==3.1.5`; `npm run check`; `npm run build`. `npm run refresh` читает источники и сохраняет историю в data/*.json.gz. Секреты ChatGPT/Sites и чужие учетные данные в проект не включаются.
+
+
+После публикации обновите открытую таблицу сочетанием Ctrl+F5, чтобы браузер загрузил новую версию страницы и стилей.
