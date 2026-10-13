@@ -191,6 +191,56 @@
       "difference": 433.55555555555543,
       "change": null,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=800"
+    },
+    {
+      "item": "Вагонка Штиль 13×122×6 м, сорт AB",
+      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/vagonka-shtil-el-sosna/:13:122:6:AB:main:10:",
+      "unit": "м²",
+      "ours": 924,
+      "competitor": 688.2062146892656,
+      "difference": 235.7937853107344,
+      "change": null,
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2932"
+    },
+    {
+      "item": "Вагонка Штиль 13×122×3 м, сорт AB",
+      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/vagonka-shtil-el-sosna/:13:122:3:AB:main:10:",
+      "unit": "м²",
+      "ours": 891,
+      "competitor": 705.861581920904,
+      "difference": 185.13841807909603,
+      "change": null,
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2782"
+    },
+    {
+      "item": "Вагонка Штиль 13×122×2.5 м, сорт AB",
+      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/vagonka-shtil-el-sosna/:13:122:2.5:AB:main:10:",
+      "unit": "м²",
+      "ours": 924,
+      "competitor": 706.4406779661017,
+      "difference": 217.5593220338983,
+      "change": null,
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2767"
+    },
+    {
+      "item": "Вагонка Штиль 13×122×2 м, сорт AB",
+      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/vagonka-shtil-el-sosna/:13:122:2:AB:main:10:",
+      "unit": "м²",
+      "ours": 924,
+      "competitor": 461.44067796610176,
+      "difference": 462.55932203389824,
+      "change": null,
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2616"
+    },
+    {
+      "item": "Вагонка Штиль 13×122×3 м, сорт BC",
+      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/vagonka-shtil-el-sosna/:13:122:3:BC:main:10:",
+      "unit": "м²",
+      "ours": 680,
+      "competitor": 476.1456371625863,
+      "difference": 203.8543628374137,
+      "change": null,
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1217"
     }
   ],
   "errors": [
