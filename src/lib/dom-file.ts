@@ -1,0 +1,8 @@
+import {normalizePrice,GROUPS,type PriceItem} from './prices';
+import {DOM_ORIGIN} from './dom';
+export type DomFileRow={sheet:string;row:number;title:string;group:string;thickness:number;width:number;length:number;grade:string;wood:string;rawPrice:number;rawUnit:string;pack:number;sourceRow:string[];sourceNotes:string[];unitAmbiguous?:boolean;fromPrice?:boolean;wholesaleRawPrice?:number;filePriceCell?:string;construction?:string};
+export function parseDomFile(rows:DomFileRow[],fileName:string,at:string):PriceItem[]{return rows.map(r=>{
+ if(!GROUPS.some(g=>g[0]===r.group)||!r.sheet||!Number.isInteger(r.row)||r.row<1||!Number.isFinite(r.rawPrice)||r.rawPrice<=0||r.thickness<=0||r.width<=0||r.length<0||!['м²','м³','пог. м','шт.','уп.'].includes(r.rawUnit)||r.pack<=0)throw Error('Некорректная строка Excel');
+ const unit=r.rawUnit==='уп.'?'м²':r.rawUnit as PriceItem['unit'];const n=r.unitAmbiguous?{price:r.rawPrice,formula:'Единица цены в источнике не указана; пересчет требует подтверждения'}:normalizePrice(r.rawPrice,r.rawUnit,r.pack,r.thickness,r.width,r.length,unit);
+ return {...r,seller:'dom',itemId:'dom-file:'+encodeURIComponent(fileName+'|'+r.sheet+'|'+r.row+'|'+r.length),url:DOM_ORIGIN+'/files/Price_2023_DomStroy_Krasnodar.xlsx',unit,...n,sourceKind:'file',fileName,fileSheet:r.sheet,fileRow:r.row,at,promo:false,stock:'Наличие по файлу не подтверждено',edge:'обычный',construction:r.construction||'не указана',sourceNotes:[...r.sourceNotes,'Прайс загружен пользователем. Дата публикации файла не указана; имя2023 и техническая дата изменения не подтверждают актуальность цены. Свежая розница сайта имеет приоритет.']} as PriceItem;
+ });}

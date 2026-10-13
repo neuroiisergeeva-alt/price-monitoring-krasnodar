@@ -1,0 +1,1 @@
+import fs from 'node:fs';import zlib from 'node:zlib';fs.mkdirSync('public',{recursive:true});const report=fs.existsSync('data/report.json.gz')?JSON.parse(zlib.gunzipSync(fs.readFileSync('data/report.json.gz'))):null;if(!report)throw Error('Нет сохраненного отчета');fs.writeFileSync('public/data.json',JSON.stringify(report));

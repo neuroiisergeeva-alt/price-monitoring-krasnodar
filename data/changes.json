@@ -1,0 +1,284 @@
+{
+  "at": "2026-10-13T08:11:22.012Z",
+  "moves": [],
+  "errors": [
+    {
+      "seller": "tech",
+      "group": "Каталог Технодрев",
+      "url": "https://krn.texnodrev.ru/store/catalog/derevo_1/",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Страниц каталога 4; карточек 45. Чтение неполное; старые наблюдения сохранены"
+    },
+    {
+      "seller": "tech",
+      "group": "Каталог Технодрев",
+      "url": "https://krn.texnodrev.ru/store/catalog/derevo_1/",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://krn.texnodrev.ru/store/catalog/derevo_1/?PAGEN_1=4\ncurl: (22) The requested URL returned error: 500\n"
+    },
+    {
+      "seller": "les",
+      "group": "Евровагонка",
+      "url": "https://www.les-kraft.ru/catalog/k-9401331-vagonka_yevro",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401331-vagonka_yevro\ncurl: (22) The requested URL returned error: 403\n"
+    },
+    {
+      "seller": "les",
+      "group": "Вагонка Штиль",
+      "url": "https://www.les-kraft.ru/catalog/k-9401337-vagonka_shtil",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401337-vagonka_shtil\ncurl: (22) The requested URL returned error: 403\n"
+    },
+    {
+      "seller": "les",
+      "group": "Доска пола",
+      "url": "https://www.les-kraft.ru/catalog/k-9401341-doska_pola",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401341-doska_pola\ncurl: (22) The requested URL returned error: 403\n"
+    },
+    {
+      "seller": "les",
+      "group": "Палубная доска",
+      "url": "https://www.les-kraft.ru/catalog/k-9401342-terrasnaya_doska",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401342-terrasnaya_doska\ncurl: (22) The requested URL returned error: 403\n"
+    },
+    {
+      "seller": "les",
+      "group": "Имитация бруса",
+      "url": "https://www.les-kraft.ru/catalog/k-9401339-imitatsiya_brusa",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401339-imitatsiya_brusa\ncurl: (22) The requested URL returned error: 403\n"
+    },
+    {
+      "seller": "les",
+      "group": "Блок-хаус",
+      "url": "https://www.les-kraft.ru/catalog/k-9401340-blok_khaus",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401340-blok_khaus\ncurl: (22) The requested URL returned error: 403\n"
+    },
+    {
+      "seller": "les",
+      "group": "Планкен скошенный",
+      "url": "https://www.les-kraft.ru/catalog/k-9401343-planken",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401343-planken\ncurl: (22) The requested URL returned error: 403\n"
+    },
+    {
+      "seller": "les",
+      "group": "Рейка строганая",
+      "url": "https://www.les-kraft.ru/catalog/k-9401372-reyka_brusok_strogannaya",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401372-reyka_brusok_strogannaya\ncurl: (22) The requested URL returned error: 403\n"
+    },
+    {
+      "seller": "les",
+      "group": "Доска строганая",
+      "url": "https://www.les-kraft.ru/catalog/k-9401377-doska_strogannaya",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401377-doska_strogannaya\ncurl: (22) The requested URL returned error: 403\n"
+    },
+    {
+      "seller": "les",
+      "group": "Доска обрезная",
+      "url": "https://www.les-kraft.ru/catalog/k-9401387-pilomaterial",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401387-pilomaterial\ncurl: (22) The requested URL returned error: 403\n"
+    },
+    {
+      "seller": "les",
+      "group": "Мебельный щит",
+      "url": "https://www.les-kraft.ru/catalog/k-9401385-mebelny_shchit_sosna_yel",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401385-mebelny_shchit_sosna_yel\ncurl: (22) The requested URL returned error: 403\n"
+    },
+    {
+      "seller": "les",
+      "group": "Клеёный брус",
+      "url": "https://www.les-kraft.ru/catalog/k-9401382-kleyeny_brus_sosna_yel",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401382-kleyeny_brus_sosna_yel\ncurl: (22) The requested URL returned error: 403\n"
+    },
+    {
+      "seller": "les",
+      "group": "Наличник",
+      "url": "https://www.les-kraft.ru/catalog/k-9401346-nalichniki",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401346-nalichniki\ncurl: (22) The requested URL returned error: 403\n"
+    },
+    {
+      "seller": "les",
+      "group": "Плинтус",
+      "url": "https://www.les-kraft.ru/catalog/k-9401347-plintusa",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401347-plintusa\ncurl: (22) The requested URL returned error: 403\n"
+    },
+    {
+      "seller": "les",
+      "group": "Раскладка / нащельник",
+      "url": "https://www.les-kraft.ru/catalog/k-9401349-pritvory_raskladki",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401349-pritvory_raskladki\ncurl: (22) The requested URL returned error: 403\n"
+    },
+    {
+      "seller": "les",
+      "group": "Уголок",
+      "url": "https://www.les-kraft.ru/catalog/k-9401348-ugolki",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401348-ugolki\ncurl: (22) The requested URL returned error: 403\n"
+    },
+    {
+      "seller": "les",
+      "group": "Штапик",
+      "url": "https://www.les-kraft.ru/catalog/k-9401350-shtapik",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401350-shtapik\ncurl: (22) The requested URL returned error: 403\n"
+    },
+    {
+      "seller": "les",
+      "group": "Дверная коробка",
+      "url": "https://www.les-kraft.ru/catalog/k-9401410-korobochny_pogonazh",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401410-korobochny_pogonazh\ncurl: (22) The requested URL returned error: 403\n"
+    },
+    {
+      "seller": "les",
+      "group": "Тетива",
+      "url": "https://www.les-kraft.ru/catalog/k-9401394-tetiva",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401394-tetiva\ncurl: (22) The requested URL returned error: 403\n"
+    },
+    {
+      "seller": "les",
+      "group": "Полог",
+      "url": "https://www.les-kraft.ru/catalog/k-9401403-polok",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401403-polok\ncurl: (22) The requested URL returned error: 403\n"
+    },
+    {
+      "seller": "les",
+      "group": "Поручни",
+      "url": "https://www.les-kraft.ru/catalog/k-9401397-poruchni_podbalyasenniki",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401397-poruchni_podbalyasenniki\ncurl: (22) The requested URL returned error: 403\n"
+    },
+    {
+      "seller": "les",
+      "group": "Ступени",
+      "url": "https://www.les-kraft.ru/catalog/k-9401392-stupeni",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401392-stupeni\ncurl: (22) The requested URL returned error: 403\n"
+    },
+    {
+      "seller": "les",
+      "group": "Балясины",
+      "url": "https://www.les-kraft.ru/catalog/k-9401398-balyasiny",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401398-balyasiny\ncurl: (22) The requested URL returned error: 403\n"
+    },
+    {
+      "seller": "les",
+      "group": "Брус строганый",
+      "url": "https://www.les-kraft.ru/catalog/k-9401379-brus_stroganny",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401379-brus_stroganny\ncurl: (22) The requested URL returned error: 403\n"
+    },
+    {
+      "seller": "les",
+      "group": "Столбы для лестниц",
+      "url": "https://www.les-kraft.ru/catalog/k-9401399-stolby_zakhodnyye",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401399-stolby_zakhodnyye\ncurl: (22) The requested URL returned error: 403\n"
+    },
+    {
+      "group": "Мебельный щит",
+      "url": "https://www.les-kraft.ru/catalog/k-9401386-mebelny_shchit_listvennitsa",
+      "seller": "les",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401386-mebelny_shchit_listvennitsa\ncurl: (22) The requested URL returned error: 403\n"
+    },
+    {
+      "group": "Каталог ДомСтрой",
+      "url": "https://krasnodar.domstroiekb.ru/services/pilomaterialyi_i_listovyie_materialyi/evrovagonka/",
+      "seller": "dom",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://krasnodar.domstroiekb.ru/services/pilomaterialyi_i_listovyie_materialyi/evrovagonka/\ncurl: (22) The requested URL returned error: 502\n"
+    },
+    {
+      "group": "Евровагонка",
+      "url": "https://www.les-kraft.ru/catalog/k-9401402-vagonka",
+      "seller": "les",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401402-vagonka\ncurl: (22) The requested URL returned error: 403\n"
+    },
+    {
+      "seller": "les-file",
+      "group": "Excel Лескрафт",
+      "url": "https://www.les-kraft.ru/prices",
+      "ok": false,
+      "count": 0,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/prices\ncurl: (22) The requested URL returned error: 403\n"
+    }
+  ]
+}
