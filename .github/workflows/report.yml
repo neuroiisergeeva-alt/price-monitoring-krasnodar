@@ -1,4 +1,4 @@
-name: Цены Краснодар — обновление и публикация
+name: Цены Краснодар и Крым — обновление и публикация
 on:
   push:
     branches: [main]
@@ -33,14 +33,17 @@ jobs:
       - run: pip install openpyxl==3.1.5
       - name: Прочитать цены
         if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.refresh)
-        run: npm run refresh
+        run: |
+          npm run refresh
+          python scripts/crawl-crimea.py
+          node scripts/import-crimea.mjs
       - run: npm run check
       - run: npm run build
       - name: Сохранить историю и готовую страницу
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data assets index.html .nojekyll
+          git add data assets index.html crimea .nojekyll
           if ! git diff --cached --quiet; then
             git commit -m "Обновление отчета и готовой страницы [skip ci]"
             git push
@@ -53,4 +56,6 @@ jobs:
         if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.refresh)
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: node scripts/notify.mjs
+        run: |
+          node scripts/notify.mjs
+          node scripts/notify-crimea.mjs

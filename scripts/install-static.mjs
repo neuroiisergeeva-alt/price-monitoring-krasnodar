@@ -1,1 +1,3 @@
 import fs from 'node:fs';const html=fs.readFileSync('dist/frontend.html','utf8');if(html.includes('/src/main.tsx')||!html.includes('./assets/'))throw Error('Вместо сборки получен исходный HTML');fs.writeFileSync('dist/index.html',html);fs.rmSync('dist/frontend.html');fs.writeFileSync('index.html',html);fs.mkdirSync('assets',{recursive:true});fs.cpSync('dist/assets','assets',{recursive:true});fs.writeFileSync('.nojekyll','');
+
+const ch=fs.readFileSync('dist/crimea-template.html','utf8').replaceAll('./assets/','../assets/');fs.mkdirSync('dist/crimea',{recursive:true});fs.mkdirSync('crimea',{recursive:true});fs.writeFileSync('dist/crimea/index.html',ch);fs.writeFileSync('crimea/index.html',ch);fs.rmSync('dist/crimea-template.html');
