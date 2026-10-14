@@ -1,4 +1,4 @@
-import urllib.request,pathlib,re,html,json,concurrent.futures,time
+import urllib.parse,urllib.request,pathlib,re,html,json,concurrent.futures,time
 OWN='https://xn----7sbatncqcefhpkufy2nd.xn--p1ai';TER='https://terem-krym.ru';folder=pathlib.Path('.tmp');folder.mkdir(exist_ok=True)
 roots=['vagonka','brus','doska_polovaya','doska_palubnaya','doska_terrasnaya','doska_strogannaya','planken','elementy-dlya-lestnic','izdelija_dlja_bani/pogonazh','plintusa','ugolki_naruzhnie','polok','pilomaterial_suhoy_obreznoy','pilomaterial_obreznoy']
 def read(u):
@@ -16,11 +16,11 @@ for p in ownLists:
   if not re.search(r'/page/|/feed/|products-category',u) and u.startswith(OWN):links.add(u)
 print('Own listings',len(ownLists),'products',len(links),flush=True)
 with concurrent.futures.ThreadPoolExecutor(max_workers=6) as ex: ownPages=list(ex.map(read,sorted(links)))
-with concurrent.futures.ThreadPoolExecutor(max_workers=6) as ex: first=list(ex.map(read,[TER+'/catalog/'+s for s in roots]))
+with concurrent.futures.ThreadPoolExecutor(max_workers=6) as ex: first=list(ex.map(read,[TER+'/catalog/'+s for s in roots]+[TER+'/index.php?route=product/search&search='+urllib.parse.quote('имитация')]))
 pages=[];more=[]
 for p in first:
  p['sourceUrl']=p['url'];pages.append(p);ns=[int(n) for n in re.findall(r'[?&](?:amp;)?page=(\d+)',p.get('html',''))];maxn=max(ns,default=1)
- for i in range(2,maxn+1):more.append((p['url'].rstrip('/')+'/?page='+str(i),p['url']))
+ for i in range(2,maxn+1):more.append(((p['url']+'&page='+str(i) if '?' in p['url'] else p['url'].rstrip('/')+'/?page='+str(i)),p['url']))
 print('Terem roots',len(first),'other pages',len(more),flush=True)
 with concurrent.futures.ThreadPoolExecutor(max_workers=6) as ex:
  for i,(r,task) in enumerate(zip(ex.map(read,[x[0] for x in more]),more)):

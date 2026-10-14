@@ -1,0 +1,575 @@
+{
+  "at": "2026-10-14T14:55:46Z",
+  "source": "https://terem-krym.ru/index.php?route=product/search&search=%D0%B8%D0%BC%D0%B8%D1%82%D0%B0%D1%86%D0%B8%D1%8F",
+  "sources": [
+    {
+      "source": "https://terem-krym.ru/index.php?route=product/search&search=%D0%B8%D0%BC%D0%B8%D1%82%D0%B0%D1%86%D0%B8%D1%8F",
+      "status": "ok",
+      "pages": 4,
+      "rows": 34,
+      "details": "Имитация найдена через поиск сайта. Отличающиеся сечения требуют подтверждения."
+    }
+  ],
+  "checks": [
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1819",
+      "status": "ok",
+      "pack": 7,
+      "price": 5820,
+      "stock": "В наличии: 5 упак"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1958",
+      "status": "ok",
+      "pack": 7,
+      "price": 6414,
+      "stock": "В наличии: 9 упак"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1991",
+      "status": "ok",
+      "pack": 7,
+      "price": 6985,
+      "stock": "В наличии: 217 упак"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1807",
+      "status": "ok",
+      "pack": 5,
+      "price": 5222,
+      "stock": "В наличии: 69 упак"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1852",
+      "status": "ok",
+      "pack": 5,
+      "price": 5744,
+      "stock": "В наличии: 16 упак"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1997",
+      "status": "ok",
+      "pack": 5,
+      "price": 6265,
+      "stock": "В наличии: 298.4 упак"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1843",
+      "status": "ok",
+      "pack": 4,
+      "price": 5879,
+      "stock": "В наличии: 31 упак"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1688",
+      "status": "ok",
+      "pack": 3,
+      "price": 4654,
+      "stock": "В наличии: 9 упак"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1894",
+      "status": "ok",
+      "pack": 3,
+      "price": 5078,
+      "stock": "В наличии: 2 упак"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1945",
+      "status": "ok",
+      "pack": 4,
+      "price": 7054,
+      "stock": "В наличии: 219 упак"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1187",
+      "status": "ok",
+      "pack": 7,
+      "price": 1610,
+      "stock": "В наличии: 2 упак"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1162",
+      "status": "ok",
+      "pack": 4,
+      "price": 1673,
+      "stock": "В наличии: 1 упак"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1741&page=2",
+      "status": "ok",
+      "pack": 6,
+      "price": 4067,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1885&page=2",
+      "status": "ok",
+      "pack": 6,
+      "price": 4841,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1886&page=2",
+      "status": "ok",
+      "pack": 6,
+      "price": 5750,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1464&page=2",
+      "status": "ok",
+      "pack": 6,
+      "price": 2400,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=652&page=2",
+      "status": "ok",
+      "pack": 6,
+      "price": 659,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1395&page=2",
+      "status": "ok",
+      "pack": 6,
+      "price": 2276,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1123&page=2",
+      "status": "ok",
+      "pack": 6,
+      "price": 1343,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2042&page=2",
+      "status": "ok",
+      "pack": 8,
+      "price": 9900,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1825&page=3",
+      "status": "ok",
+      "pack": 6,
+      "price": 4829,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1865&page=3",
+      "status": "ok",
+      "pack": 9,
+      "price": 5385,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2721&page=3",
+      "status": "ok",
+      "pack": 7,
+      "price": 2328,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2783&page=3",
+      "status": "ok",
+      "pack": 7,
+      "price": 2911,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1680&page=3",
+      "status": "ok",
+      "pack": 7,
+      "price": 3492,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1730&page=3",
+      "status": "ok",
+      "pack": 7,
+      "price": 4657,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1798&page=3",
+      "status": "ok",
+      "pack": 6,
+      "price": 4997,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1816&page=3",
+      "status": "ok",
+      "pack": 6,
+      "price": 5996,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3215&page=3",
+      "status": "ok",
+      "pack": 5,
+      "price": 3132,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3220&page=3",
+      "status": "ok",
+      "pack": 5,
+      "price": 4061,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3217&page=3",
+      "status": "ok",
+      "pack": 4,
+      "price": 3528,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1717&page=3",
+      "status": "ok",
+      "pack": 4,
+      "price": 4513,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2694&page=4",
+      "status": "ok",
+      "pack": 2,
+      "price": 1508,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2560&page=4",
+      "status": "ok",
+      "pack": 3,
+      "price": 847,
+      "stock": "Нет в наличии"
+    }
+  ],
+  "candidates": [
+    {
+      "our": "Имитация бруса 16×146×3 м, сорт C",
+      "offers": [
+        {
+          "title": "Имитация бруса сосна/ель \"АВ\" 16*143(135)*3000мм*7шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1680&page=3",
+          "price": 1162.8371628371629,
+          "unit": "м²",
+          "pack": 7,
+          "stock": "Нет в наличии",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "our": "Имитация бруса 16×146×6 м, сорт ABC",
+      "offers": [
+        {
+          "title": "Имитация бруса сосна/ель \"АВ\" 16*143(135)*6000мм*7шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1991",
+          "price": 1163.003663003663,
+          "unit": "м²",
+          "pack": 7,
+          "stock": "В наличии: 217 упак",
+          "verified": true
+        },
+        {
+          "title": "Имитация бруса сосна/ель \"АВ\" 16*143(135)*6000мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1816&page=3",
+          "price": 1164.724164724165,
+          "unit": "м²",
+          "pack": 6,
+          "stock": "Нет в наличии",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "our": "Имитация бруса 16×146×3 м, сорт AB",
+      "offers": [
+        {
+          "title": "Имитация бруса сосна/ель \"АВ\" 16*143(135)*3000мм*7шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1680&page=3",
+          "price": 1162.8371628371629,
+          "unit": "м²",
+          "pack": 7,
+          "stock": "Нет в наличии",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "our": "Имитация бруса 16×146×6 м, сорт AB",
+      "offers": [
+        {
+          "title": "Имитация бруса сосна/ель \"АВ\" 16*143(135)*6000мм*7шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1991",
+          "price": 1163.003663003663,
+          "unit": "м²",
+          "pack": 7,
+          "stock": "В наличии: 217 упак",
+          "verified": true
+        },
+        {
+          "title": "Имитация бруса сосна/ель \"АВ\" 16*143(135)*6000мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1816&page=3",
+          "price": 1164.724164724165,
+          "unit": "м²",
+          "pack": 6,
+          "stock": "Нет в наличии",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "our": "Имитация бруса 20×146×3 м, сорт C",
+      "offers": [
+        {
+          "title": "Имитация бруса сосна/ель \"АВ\" 21*143(135)*3000мм*5шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3215&page=3",
+          "price": 1460.13986013986,
+          "unit": "м²",
+          "pack": 5,
+          "stock": "Нет в наличии",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "our": "Имитация бруса 20×146×6 м, сорт ABC",
+      "offers": [
+        {
+          "title": "Имитация бруса сосна/ель \"АВ\" 21*143(135)*6000мм*5шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1997",
+          "price": 1460.3729603729605,
+          "unit": "м²",
+          "pack": 5,
+          "stock": "В наличии: 298.4 упак",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "our": "Имитация бруса 20×146×2 м, сорт AB",
+      "offers": []
+    },
+    {
+      "our": "Имитация бруса 20×146×2.5 м, сорт AB",
+      "offers": []
+    },
+    {
+      "our": "Имитация бруса 20×146×3 м, сорт AB",
+      "offers": [
+        {
+          "title": "Имитация бруса сосна/ель \"АВ\" 21*143(135)*3000мм*5шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3215&page=3",
+          "price": 1460.13986013986,
+          "unit": "м²",
+          "pack": 5,
+          "stock": "Нет в наличии",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "our": "Имитация бруса 20×146×4 м, сорт AB",
+      "offers": [
+        {
+          "title": "Имитация бруса сосна/ель \"АВ\" 21*143(135)*4000мм*5шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3220&page=3",
+          "price": 1419.9300699300702,
+          "unit": "м²",
+          "pack": 5,
+          "stock": "Нет в наличии",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "our": "Имитация бруса 20×146×5 м, сорт AB",
+      "offers": [
+        {
+          "title": "Имитация бруса сосна/ель \"АВ\" 21*143(135)*5000мм*5шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1807",
+          "price": 1460.699300699301,
+          "unit": "м²",
+          "pack": 5,
+          "stock": "В наличии: 69 упак",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "our": "Имитация бруса 20×146×6 м, сорт AB",
+      "offers": [
+        {
+          "title": "Имитация бруса сосна/ель \"АВ\" 21*143(135)*6000мм*5шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1997",
+          "price": 1460.3729603729605,
+          "unit": "м²",
+          "pack": 5,
+          "stock": "В наличии: 298.4 упак",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "our": "Имитация бруса 20×175×3 м, сорт AB",
+      "offers": []
+    },
+    {
+      "our": "Имитация бруса 20×175×5 м, сорт AB",
+      "offers": []
+    },
+    {
+      "our": "Имитация бруса 20×175×6 м, сорт AB",
+      "offers": []
+    },
+    {
+      "our": "Имитация бруса 20×196×3 м, сорт C",
+      "offers": [
+        {
+          "title": "Имитация бруса сосна/ель \"АВ\" 21*193(185)*3000мм*4шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3217&page=3",
+          "price": 1523.3160621761658,
+          "unit": "м²",
+          "pack": 4,
+          "stock": "Нет в наличии",
+          "verified": true
+        },
+        {
+          "title": "Имитация бруса сосна/ель \"С\" 21*193(185)*3000мм*3шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2560&page=4",
+          "price": 487.62233736327,
+          "unit": "м²",
+          "pack": 3,
+          "stock": "Нет в наличии",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "our": "Имитация бруса 20×196×6 м, сорт ABC",
+      "offers": [
+        {
+          "title": "Имитация бруса сосна/ель \"АВ\" 21*193(185)*6000мм*3шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1894",
+          "price": 1461.7156016119748,
+          "unit": "м²",
+          "pack": 3,
+          "stock": "В наличии: 2 упак",
+          "verified": true
+        },
+        {
+          "title": "Имитация бруса сосна/ель \"АВ\" 21*193(185)*6000мм*4шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1945",
+          "price": 1522.8842832469777,
+          "unit": "м²",
+          "pack": 4,
+          "stock": "В наличии: 219 упак",
+          "verified": true
+        },
+        {
+          "title": "Имитация бруса сосна/ель \"АВ\" 21*193(185)*6000мм*2шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2694&page=4",
+          "price": 651.1226252158895,
+          "unit": "м²",
+          "pack": 2,
+          "stock": "Нет в наличии",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "our": "Имитация бруса 20×196×2.5 м, сорт AB",
+      "offers": []
+    },
+    {
+      "our": "Имитация бруса 20×196×3 м, сорт AB",
+      "offers": [
+        {
+          "title": "Имитация бруса сосна/ель \"АВ\" 21*193(185)*3000мм*4шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3217&page=3",
+          "price": 1523.3160621761658,
+          "unit": "м²",
+          "pack": 4,
+          "stock": "Нет в наличии",
+          "verified": true
+        },
+        {
+          "title": "Имитация бруса сосна/ель \"С\" 21*193(185)*3000мм*3шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2560&page=4",
+          "price": 487.62233736327,
+          "unit": "м²",
+          "pack": 3,
+          "stock": "Нет в наличии",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "our": "Имитация бруса 20×196×4 м, сорт AB",
+      "offers": [
+        {
+          "title": "Имитация бруса сосна/ель \"АВ\" 21*193(185)*4000мм*4шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1717&page=3",
+          "price": 1461.4637305699482,
+          "unit": "м²",
+          "pack": 4,
+          "stock": "Нет в наличии",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "our": "Имитация бруса 20×196×5 м, сорт AB",
+      "offers": [
+        {
+          "title": "Имитация бруса сосна/ель \"АВ\" 21*193(185)*5000мм*4шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1843",
+          "price": 1523.0569948186528,
+          "unit": "м²",
+          "pack": 4,
+          "stock": "В наличии: 31 упак",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "our": "Имитация бруса 20×196×6 м, сорт AB",
+      "offers": [
+        {
+          "title": "Имитация бруса сосна/ель \"АВ\" 21*193(185)*6000мм*3шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1894",
+          "price": 1461.7156016119748,
+          "unit": "м²",
+          "pack": 3,
+          "stock": "В наличии: 2 упак",
+          "verified": true
+        },
+        {
+          "title": "Имитация бруса сосна/ель \"АВ\" 21*193(185)*6000мм*4шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1945",
+          "price": 1522.8842832469777,
+          "unit": "м²",
+          "pack": 4,
+          "stock": "В наличии: 219 упак",
+          "verified": true
+        },
+        {
+          "title": "Имитация бруса сосна/ель \"АВ\" 21*193(185)*6000мм*2шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2694&page=4",
+          "price": 651.1226252158895,
+          "unit": "м²",
+          "pack": 2,
+          "stock": "Нет в наличии",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}
