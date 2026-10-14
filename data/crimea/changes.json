@@ -155,5 +155,13 @@
       "rows": 576,
       "details": "{\"verified\":574,\"errors\":[{\"url\":\"https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2818\",\"title\":\"Вагонка штиль сосна/ель \\\"АВ\\\" 13*118(110)*3000мм*10шт\",\"status\":\"error\",\"details\":\"Error: Название содержит 10 досок, но цена карточки подписана за шт; единицу нужно уточнить\"},{\"url\":\"https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2634\",\"title\":\"Планкен скошенный Сосна \\\"АВ\\\" 20*140*3000мм*5шт\",\"status\":\"error\",\"details\":\"Error: Площадь упаковки в калькуляторе 0.42 м² не соответствует 5 доскам: 2.1000 м². Требуется уточнение единицы/упаковки\"}]}"
     }
-  ]
+  ],
+  "pks": {
+    "at": "2026-10-14T11:01:33Z",
+    "region": "Симферополь",
+    "offers": 34,
+    "priced": 29,
+    "pendingUnits": 29,
+    "rawMoves": []
+  }
 }
