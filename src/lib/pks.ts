@@ -27,6 +27,7 @@ export function pksScenarios(p:PriceItem,target:PriceItem['unit']){if(!(p.rawPri
 // Explicit user instructions on 14.10.2026. No other SKU inherits its price basis.
 export function pksUserRule(p:PriceItem){
  if(p.seller!=='pks'||p.grade!=='AB')return null;
+ if(p.group==='Имитация бруса'&&((p.thickness===16&&p.width===146&&[3,6].includes(p.length))||(p.thickness===20&&p.width===146&&p.length===6)))return {unit:'уп.',count:p.thickness===16?7:5,label:'Цена за упаковку подтверждена пользователем 14.10.2026: '+(p.thickness===16?7:5)+' досок; пересчет по полной ширине конкурента',conditional:false};
  if(p.group==='Доска строганая'&&p.thickness===45&&p.width===145&&p.length===6)return {unit:'шт.',count:1,label:'Цена за одну доску подтверждена пользователем 14.10.2026',conditional:false};
  if(p.group==='Брусок строганый'&&p.thickness===20&&p.width===40&&p.length===3)return {unit:'шт.',count:1,label:'Цена за один брусок подтверждена пользователем 14.10.2026; сравниваем с нашей рейкой того же сечения',conditional:false};
  if(p.group==='Евровагонка'&&p.thickness===12.5&&p.width===96&&p.length===2)return {unit:'шт.',count:1,label:'Цена за одну доску подтверждена пользователем 14.10.2026',conditional:false};
