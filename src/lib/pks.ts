@@ -26,15 +26,16 @@ export function pksInUnit(p:PriceItem,target:PriceItem['unit']):PriceItem{if(p.u
 export function pksScenarios(p:PriceItem,target:PriceItem['unit']){if(!(p.rawPrice>0))return[];const options:[string,number,string][]=[['шт.',1,'Если цена за одну доску']];if(p.publishedPackCount)options.push(['уп.',p.publishedPackCount,'Если цена за упаковку '+p.publishedPackCount+' шт.']);return options.flatMap(([rawUnit,pack,label])=>{try{const result=normalizePrice(p.rawPrice,rawUnit,pack,p.thickness,p.width,p.length,target);return[{label,...result}]}catch{return[]}});}
 // Explicit user instructions on 14.10.2026. No other SKU inherits its price basis.
 export function pksUserRule(p:PriceItem){
- if(p.seller!=='pks'||p.grade!=='AB')return null;
+ if(p.seller!=='pks')return null;
+ if(p.group==='Евровагонка'&&p.grade==='AB'&&p.thickness===12.5&&p.width===96&&p.length===2)return {unit:'шт.',count:1,label:'Цена за одну доску подтверждена пользователем 14.10.2026; упаковка содержит 10 досок по уточнению 15.10.2026, но цена этой позиции за штуку',conditional:false};
+ if(p.grade!=='AB')return null;
  if(p.group==='Имитация бруса'&&((p.thickness===16&&p.width===146&&[3,6].includes(p.length))||(p.thickness===20&&p.width===146&&p.length===6)))return {unit:'уп.',count:p.thickness===16?7:5,label:'Цена за упаковку подтверждена пользователем 14.10.2026: '+(p.thickness===16?7:5)+' досок; пересчет по полной ширине конкурента',conditional:false};
  if(p.group==='Доска строганая'&&p.thickness===45&&[95,195].includes(p.width)&&p.length===6)return {unit:'шт.',count:1,label:'Цена за одну доску подтверждена пользователем 15.10.2026',conditional:false};
  if(p.group==='Доска строганая'&&p.thickness===45&&p.width===145&&p.length===6)return {unit:'шт.',count:1,label:'Цена за одну доску подтверждена пользователем 14.10.2026',conditional:false};
  if(p.group==='Брусок строганый'&&p.thickness===20&&p.width===40&&p.length===3)return {unit:'шт.',count:1,label:'Цена за один брусок подтверждена пользователем 14.10.2026; сравниваем с нашей рейкой того же сечения',conditional:false};
- if(p.group==='Евровагонка'&&p.thickness===12.5&&p.width===96&&p.length===2)return {unit:'шт.',count:1,label:'Цена за одну доску подтверждена пользователем 14.10.2026',conditional:false};
  if(p.group==='Вагонка Штиль'&&p.thickness===13&&p.width===122&&[3,6].includes(p.length))return {unit:'уп.',count:10,label:'По указанию пользователя 14.10.2026 считаем цену за упаковку 10 досок; допущение, а не подтвержденная единица сайта',conditional:true};
  return null;
 }
-export function applyPksUserRule(p:PriceItem):PriceItem{const rule=pksUserRule(p);if(!rule)return p;return {...p,rawUnit:rule.unit,pack:rule.count,unitAmbiguous:false,...normalizePrice(p.rawPrice,rule.unit,rule.count,p.thickness,p.width,p.length,p.unit),sourceNotes:[...(p.sourceNotes||[]).filter(n=>!n.startsWith('Цена за одну доску подтверждена')&&!n.startsWith('Цена за один брусок подтверждена')&&!n.startsWith('По указанию пользователя')),rule.label]};}
+export function applyPksUserRule(p:PriceItem):PriceItem{if(p.seller==='pks'&&p.group==='Евровагонка')p={...p,publishedPackCount:10,sourceNotes:[...(p.sourceNotes||[]).filter(n=>!n.startsWith('Состав упаковки подтвержден')), 'Состав упаковки подтвержден пользователем 15.10.2026: 10 досок. Это количество не определяет единицу опубликованной цены; для 2 м АВ сохранена подтвержденная цена за штуку.']};const rule=pksUserRule(p);if(!rule)return p;return {...p,rawUnit:rule.unit,pack:rule.count,unitAmbiguous:false,...normalizePrice(p.rawPrice,rule.unit,rule.count,p.thickness,p.width,p.length,p.unit),sourceNotes:[...(p.sourceNotes||[]).filter(n=>!n.startsWith('Цена за одну доску подтверждена')&&!n.startsWith('Цена за один брусок подтверждена')&&!n.startsWith('По указанию пользователя')&&!n.startsWith('Уточнение пользователя')),rule.label]};}
 
 export function pksNear(o:PriceItem,p:PriceItem){return pksNotes(o,p)===null?pksCandidates(o,p,true):null;}

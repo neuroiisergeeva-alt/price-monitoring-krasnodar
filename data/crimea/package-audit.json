@@ -1,5 +1,5 @@
 {
-  "at": "2026-10-13T12:07:00Z",
+  "at": "2026-10-15T10:11:05Z",
   "rows": [
     {
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2101",
@@ -5178,6 +5178,411 @@
       "oldPack": 8,
       "calculatedArea": 2.72,
       "declaredArea": 2.72
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1819",
+      "title": "Имитация бруса сосна/ель \"АВ\" 16*143(135)*5000мм*7шт",
+      "status": "ok",
+      "pack": 7,
+      "oldPack": 7,
+      "calculatedArea": 5.005,
+      "declaredArea": 5.01
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1958",
+      "title": "Имитация бруса сосна/ель \"АВ\" 16*143(135)*5500мм*7шт",
+      "status": "ok",
+      "pack": 7,
+      "oldPack": 7,
+      "calculatedArea": 5.5055,
+      "declaredArea": 5.51
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1991",
+      "title": "Имитация бруса сосна/ель \"АВ\" 16*143(135)*6000мм*7шт",
+      "status": "ok",
+      "pack": 7,
+      "oldPack": 7,
+      "calculatedArea": 6.006,
+      "declaredArea": 6.01
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1807",
+      "title": "Имитация бруса сосна/ель \"АВ\" 21*143(135)*5000мм*5шт",
+      "status": "ok",
+      "pack": 5,
+      "oldPack": 5,
+      "calculatedArea": 3.575,
+      "declaredArea": 3.58
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1852",
+      "title": "Имитация бруса сосна/ель \"АВ\" 21*143(135)*5500мм*5шт",
+      "status": "ok",
+      "pack": 5,
+      "oldPack": 5,
+      "calculatedArea": 3.9325,
+      "declaredArea": 3.93
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1997",
+      "title": "Имитация бруса сосна/ель \"АВ\" 21*143(135)*6000мм*5шт",
+      "status": "ok",
+      "pack": 5,
+      "oldPack": 5,
+      "calculatedArea": 4.29,
+      "declaredArea": 4.29
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1843",
+      "title": "Имитация бруса сосна/ель \"АВ\" 21*193(185)*5000мм*4шт",
+      "status": "ok",
+      "pack": 4,
+      "oldPack": 4,
+      "calculatedArea": 3.86,
+      "declaredArea": 3.86
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1688",
+      "title": "Имитация бруса сосна/ель \"АВ\" 21*193(185)*5500мм*3шт",
+      "status": "ok",
+      "pack": 3,
+      "oldPack": 3,
+      "calculatedArea": 3.1845,
+      "declaredArea": 3.18
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1894",
+      "title": "Имитация бруса сосна/ель \"АВ\" 21*193(185)*6000мм*3шт",
+      "status": "ok",
+      "pack": 3,
+      "oldPack": 3,
+      "calculatedArea": 3.474,
+      "declaredArea": 3.47
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1945",
+      "title": "Имитация бруса сосна/ель \"АВ\" 21*193(185)*6000мм*4шт",
+      "status": "ok",
+      "pack": 4,
+      "oldPack": 4,
+      "calculatedArea": 4.632,
+      "declaredArea": 4.63
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1187",
+      "title": "Имитация бруса сосна/ель \"С\" 16*143(135)*2000мм*7шт",
+      "status": "ok",
+      "pack": 7,
+      "oldPack": 7,
+      "calculatedArea": 2.002,
+      "declaredArea": 2
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1162",
+      "title": "Имитация бруса сосна/ель \"С\" 21*193(185)*2000мм*4шт",
+      "status": "ok",
+      "pack": 4,
+      "oldPack": 4,
+      "calculatedArea": 1.544,
+      "declaredArea": 1.54
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1741",
+      "title": "Имитация бруса лиственница \"А\" 25*138(130)*2100мм*6шт",
+      "status": "ok",
+      "pack": 6,
+      "oldPack": 6,
+      "calculatedArea": 1.7388000000000001,
+      "declaredArea": 1.74
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1885",
+      "title": "Имитация бруса лиственница \"А\" 25*138(130)*2500мм*6шт",
+      "status": "ok",
+      "pack": 6,
+      "oldPack": 6,
+      "calculatedArea": 2.07,
+      "declaredArea": 2.07
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1886",
+      "title": "Имитация бруса лиственница \"А\" 25*138(130)*3000мм*6шт",
+      "status": "ok",
+      "pack": 6,
+      "oldPack": 6,
+      "calculatedArea": 2.484,
+      "declaredArea": 2.48
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1464",
+      "title": "Имитация бруса лиственница \"В 25*138(130)*2100мм*6шт",
+      "status": "ok",
+      "pack": 6,
+      "oldPack": 6,
+      "calculatedArea": 1.7388000000000001,
+      "declaredArea": 1.74
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=652",
+      "title": "Имитация бруса лиственница \"В\" 20*138(130)*1000мм*6шт",
+      "status": "ok",
+      "pack": 6,
+      "oldPack": 6,
+      "calculatedArea": 0.828,
+      "declaredArea": 0.83
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1395",
+      "title": "Имитация бруса лиственница \"В\" 20*138(130)*2000мм*6шт",
+      "status": "ok",
+      "pack": 6,
+      "oldPack": 6,
+      "calculatedArea": 1.656,
+      "declaredArea": 1.66
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1123",
+      "title": "Имитация бруса лиственница \"Экстра\" 20*138(130)*1000мм*6шт",
+      "status": "ok",
+      "pack": 6,
+      "oldPack": 6,
+      "calculatedArea": 0.828,
+      "declaredArea": 0.83
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2042",
+      "title": "Имитация бруса лиственница \"Экстра\" 20*143(135)*4000мм*8шт",
+      "status": "ok",
+      "pack": 8,
+      "oldPack": 8,
+      "calculatedArea": 4.576,
+      "declaredArea": 4.58
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1825",
+      "title": "Имитация бруса лиственница \"Элит\" 25*138(130)*2100мм*6шт",
+      "status": "ok",
+      "pack": 6,
+      "oldPack": 6,
+      "calculatedArea": 1.7388000000000001,
+      "declaredArea": 1.74
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1865",
+      "title": "Имитация бруса сосна/ель \"АВ\" 14*146(138)*4000мм*9шт",
+      "status": "ok",
+      "pack": 9,
+      "oldPack": 9,
+      "calculatedArea": 5.256,
+      "declaredArea": 5.26
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2721",
+      "title": "Имитация бруса сосна/ель \"АВ\" 16*143(135)*2000мм*7шт",
+      "status": "ok",
+      "pack": 7,
+      "oldPack": 7,
+      "calculatedArea": 2.002,
+      "declaredArea": 2
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2783",
+      "title": "Имитация бруса сосна/ель \"АВ\" 16*143(135)*2500мм*7шт",
+      "status": "ok",
+      "pack": 7,
+      "oldPack": 7,
+      "calculatedArea": 2.5025,
+      "declaredArea": 2.5
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1730",
+      "title": "Имитация бруса сосна/ель \"АВ\" 16*143(135)*4000мм*7шт",
+      "status": "ok",
+      "pack": 7,
+      "oldPack": 7,
+      "calculatedArea": 4.004,
+      "declaredArea": 4
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1798",
+      "title": "Имитация бруса сосна/ель \"АВ\" 16*143(135)*5000мм*6шт",
+      "status": "ok",
+      "pack": 6,
+      "oldPack": 6,
+      "calculatedArea": 4.29,
+      "declaredArea": 4.29
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1816",
+      "title": "Имитация бруса сосна/ель \"АВ\" 16*143(135)*6000мм*6шт",
+      "status": "ok",
+      "pack": 6,
+      "oldPack": 6,
+      "calculatedArea": 5.148,
+      "declaredArea": 5.15
+    },
+    {
+      "url": "https://terem-krym.ru/catalog/imitaciya-brusa/sosna/imitatsiya-brusa-sosnael-av-211431353000mm5sht",
+      "title": "Имитация бруса сосна/ель \"АВ\" 21*143(135)*3000мм*5шт",
+      "status": "ok",
+      "pack": 5,
+      "oldPack": 5,
+      "calculatedArea": 2.145,
+      "declaredArea": 2.15
+    },
+    {
+      "url": "https://terem-krym.ru/catalog/imitaciya-brusa/sosna/imitatsiya-brusa-sosnael-av-211431354000mm5sht",
+      "title": "Имитация бруса сосна/ель \"АВ\" 21*143(135)*4000мм*5шт",
+      "status": "ok",
+      "pack": 5,
+      "oldPack": 5,
+      "calculatedArea": 2.86,
+      "declaredArea": 2.86
+    },
+    {
+      "url": "https://terem-krym.ru/catalog/imitaciya-brusa/sosna/imitatsiya-brusa-sosnael-av-211931853000mm4sht",
+      "title": "Имитация бруса сосна/ель \"АВ\" 21*193(185)*3000мм*4шт",
+      "status": "ok",
+      "pack": 4,
+      "oldPack": 4,
+      "calculatedArea": 2.316,
+      "declaredArea": 2.32
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1717",
+      "title": "Имитация бруса сосна/ель \"АВ\" 21*193(185)*4000мм*4шт",
+      "status": "ok",
+      "pack": 4,
+      "oldPack": 4,
+      "calculatedArea": 3.088,
+      "declaredArea": 3.09
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2694",
+      "title": "Имитация бруса сосна/ель \"АВ\" 21*193(185)*6000мм*2шт",
+      "status": "ok",
+      "pack": 2,
+      "oldPack": 2,
+      "calculatedArea": 2.316,
+      "declaredArea": 2.32
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2560",
+      "title": "Имитация бруса сосна/ель \"С\" 21*193(185)*3000мм*3шт",
+      "status": "ok",
+      "pack": 3,
+      "oldPack": 3,
+      "calculatedArea": 1.737,
+      "declaredArea": 1.74
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1285",
+      "title": "Планкен скошенный лиственница \"В\" 20*140*3000мм*6шт НК",
+      "status": "ok",
+      "pack": 6,
+      "oldPack": 6,
+      "calculatedArea": 2.52,
+      "declaredArea": 2.52
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2806",
+      "title": "Блок - хаус сосна/ель \"АВ\" 21*98(90)*4000мм*6шт",
+      "status": "ok",
+      "pack": 6,
+      "oldPack": 6,
+      "calculatedArea": 2.352,
+      "declaredArea": 2.35
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2900",
+      "title": "Блок - хаус сосна/ель \"АВ\" 21*98(90)*5000мм*6шт",
+      "status": "ok",
+      "pack": 6,
+      "oldPack": 6,
+      "calculatedArea": 2.94,
+      "declaredArea": 2.94
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1775",
+      "title": "Блок - хаус сосна/ель \"АВ\" 21*98(90)*6000мм*6шт",
+      "status": "ok",
+      "pack": 6,
+      "oldPack": 6,
+      "calculatedArea": 3.528,
+      "declaredArea": 3.53
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1859",
+      "title": "Блок - хаус сосна/ель \"АВ\" 28*143(135)*5500мм*4шт",
+      "status": "ok",
+      "pack": 4,
+      "oldPack": 4,
+      "calculatedArea": 3.146,
+      "declaredArea": 3.15
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2001",
+      "title": "Блок - хаус сосна/ель \"АВ\" 28*143(135)*6000мм*4шт",
+      "status": "ok",
+      "pack": 4,
+      "oldPack": 4,
+      "calculatedArea": 3.432,
+      "declaredArea": 3.43
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2088",
+      "title": "Блок - хаус сосна/ель \"АВ\" 28*143(135)*6000мм*5шт",
+      "status": "ok",
+      "pack": 5,
+      "oldPack": 5,
+      "calculatedArea": 4.29,
+      "declaredArea": 4.29
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3179",
+      "title": "Блок - хаус сосна/ель \"С\" 21*98(90)*2500мм*6шт",
+      "status": "ok",
+      "pack": 6,
+      "oldPack": 6,
+      "calculatedArea": 1.47,
+      "declaredArea": 1.47
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3219",
+      "title": "Блок - хаус сосна/ель \"АВ\" 28*143(135)*3000мм*5шт",
+      "status": "ok",
+      "pack": 5,
+      "oldPack": 5,
+      "calculatedArea": 2.145,
+      "declaredArea": 2.15
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3178",
+      "title": "Блок - хаус сосна/ель \"АВ\" 28*143(135)*4000мм*5шт",
+      "status": "ok",
+      "pack": 5,
+      "oldPack": 5,
+      "calculatedArea": 2.86,
+      "declaredArea": 2.86
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3224",
+      "title": "Блок - хаус сосна/ель \"АВ\" 28*143(135)*5000мм*5шт",
+      "status": "ok",
+      "pack": 5,
+      "oldPack": 5,
+      "calculatedArea": 3.575,
+      "declaredArea": 3.58
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1495",
+      "title": "Блок - хаус сосна/ель \"С\" 21*98(90)*6000мм*6шт",
+      "status": "ok",
+      "pack": 6,
+      "oldPack": 6,
+      "calculatedArea": 3.528,
+      "declaredArea": 3.53
     }
   ]
 }

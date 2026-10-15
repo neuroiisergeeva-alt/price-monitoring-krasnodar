@@ -1,5 +1,5 @@
 {
-  "at": "2026-10-13T12:07:00Z",
+  "at": "2026-10-15T10:11:05Z",
   "changes": [],
   "higher": [
     {
@@ -7,8 +7,10 @@
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/brusok-stroganyj-el-sosna/:30:40:0:AB:main:1:",
       "unit": "пог. м",
       "ours": 70,
-      "competitor": 59.333333333333336,
-      "difference": 10.666666666666664,
+      "competitor": 69.33333333333333,
+      "difference": 0.6666666666666714,
+      "availability": "В наличии: 1327 шт",
+      "referenceWithoutStock": false,
       "change": null,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=206"
     },
@@ -17,28 +19,22 @@
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/brusok-stroganyj-el-sosna/:30:50:0:AB:main:1:",
       "unit": "пог. м",
       "ours": 88,
-      "competitor": 74.33333333333333,
-      "difference": 13.666666666666671,
+      "competitor": 87,
+      "difference": 1,
+      "availability": "В наличии: 165 шт",
+      "referenceWithoutStock": false,
       "change": null,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=315"
-    },
-    {
-      "item": "Брусок строганый 40×40 мм, длина не указана, сорт BC",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/brusok-stroganyj-el-sosna/:40:40:0:BC:main:1:",
-      "unit": "пог. м",
-      "ours": 80,
-      "competitor": 66.66666666666667,
-      "difference": 13.333333333333329,
-      "change": null,
-      "url": "https://terem-krym.ru/catalog/brus/sosna/brusok-sosna-s-40403000mm-profilir-okpd2-kod-16102"
     },
     {
       "item": "Брусок строганый 40×50 мм, длина не указана, сорт AB",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/brusok-stroganyj-el-sosna/:40:50:0:AB:main:1:",
       "unit": "пог. м",
       "ours": 117,
-      "competitor": 99,
-      "difference": 18,
+      "competitor": 115.66666666666667,
+      "difference": 1.3333333333333286,
+      "availability": "В наличии: 2703 шт",
+      "referenceWithoutStock": false,
       "change": null,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=420"
     },
@@ -47,8 +43,10 @@
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/brusok-stroganyj-el-sosna/:40:50:0:BC:main:1:",
       "unit": "пог. м",
       "ours": 100,
-      "competitor": 79.66666666666667,
-      "difference": 20.33333333333333,
+      "competitor": 93.33333333333333,
+      "difference": 6.666666666666671,
+      "availability": "В наличии: 2024 шт",
+      "referenceWithoutStock": false,
       "change": null,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=281"
     },
@@ -57,58 +55,154 @@
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/brusok-stroganyj-el-sosna/:50:70:0:AB:main:1:",
       "unit": "пог. м",
       "ours": 205,
-      "competitor": 173.33333333333334,
-      "difference": 31.666666666666657,
+      "competitor": 202.66666666666666,
+      "difference": 2.333333333333343,
+      "availability": "В наличии: 757 шт",
+      "referenceWithoutStock": false,
       "change": null,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=565"
+    },
+    {
+      "item": "Доска строганая 45×145×6 м, сорт AB",
+      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/doska-stroganaya-el-sosna/:45:145:6:AB:main:1:",
+      "unit": "шт.",
+      "ours": 2248,
+      "competitor": 2105,
+      "difference": 143,
+      "availability": "В наличии: 269 шт",
+      "referenceWithoutStock": false,
+      "change": null,
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1317"
+    },
+    {
+      "item": "Доска строганая 45×195×6 м, сорт AB",
+      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/doska-stroganaya-el-sosna/:45:195:6:AB:main:1:",
+      "unit": "шт.",
+      "ours": 3024,
+      "competitor": 2831,
+      "difference": 193,
+      "availability": "В наличии: 198 шт",
+      "referenceWithoutStock": false,
+      "change": null,
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1503"
+    },
+    {
+      "item": "Имитация бруса 16×146×6 м, сорт AB",
+      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/imitacziya-brusa-el-sosna/:16:146:6:AB:main:7:",
+      "unit": "м²",
+      "ours": 1203,
+      "competitor": 1163.003663003663,
+      "difference": 39.99633699633705,
+      "availability": "В наличии: 217 упак",
+      "referenceWithoutStock": false,
+      "change": null,
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1991"
+    },
+    {
+      "item": "Имитация бруса 20×196×6 м, сорт AB",
+      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/imitacziya-brusa-el-sosna/:20:196:6:AB:main:3:",
+      "unit": "м²",
+      "ours": 1504,
+      "competitor": 1461.7156016119748,
+      "difference": 42.28439838802524,
+      "availability": "В наличии: 2 упак",
+      "referenceWithoutStock": false,
+      "change": null,
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1894"
     },
     {
       "item": "Палубная доска 45×145×6 м, сорт AB",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/palubnaya-doska-el-sosna/:45:145:6:AB:main:1:",
       "unit": "м²",
       "ours": 2583,
-      "competitor": 2067.816091954023,
-      "difference": 515.1839080459772,
+      "competitor": 2419.5402298850577,
+      "difference": 163.45977011494233,
+      "availability": "В наличии: 189 шт",
+      "referenceWithoutStock": false,
       "change": null,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1293"
     },
     {
-      "item": "Вагонка Штиль 13×122×6 м, сорт AB",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/vagonka-shtil-el-sosna/:13:122:6:AB:main:10:",
+      "item": "Планкен прямой 20×96×3 м, сорт C",
+      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/planken-pryamoj-el-sosna/:20:96:3:C:main:1:",
       "unit": "м²",
-      "ours": 924,
-      "competitor": 813.0885122410546,
-      "difference": 110.91148775894544,
+      "ours": 997,
+      "competitor": 940.7407407407406,
+      "difference": 56.25925925925935,
+      "availability": "В наличии: 839 шт",
+      "referenceWithoutStock": false,
       "change": null,
-      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1875"
+      "url": "https://terem-krym.ru/tovar/3699"
     },
     {
-      "item": "Вагонка Штиль 13×122×3 м, сорт AB",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/vagonka-shtil-el-sosna/:13:122:3:AB:main:10:",
+      "item": "Планкен прямой 20×145×6 м, сорт ABC",
+      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/planken-pryamoj-el-sosna/:20:145:6:ABC:main:1:",
       "unit": "м²",
-      "ours": 891,
-      "competitor": 812.93157564344,
-      "difference": 78.06842435655994,
+      "ours": 1122,
+      "competitor": 1004.7619047619048,
+      "difference": 117.23809523809518,
+      "availability": "В наличии: 7 шт",
+      "referenceWithoutStock": false,
       "change": null,
-      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1498"
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=721"
     },
     {
-      "item": "Вагонка Штиль 13×122×2.5 м, сорт AB",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/vagonka-shtil-el-sosna/:13:122:2.5:AB:main:10:",
+      "item": "Планкен прямой 20×90 мм, длина не указана, сорт BC",
+      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/planken-pryamoj-listvennicza/:20:90:0:BC:main:1::range:2:4",
       "unit": "м²",
-      "ours": 924,
-      "competitor": 821.8455743879474,
-      "difference": 102.15442561205259,
+      "ours": 2125,
+      "competitor": 1876.388888888889,
+      "difference": 248.6111111111111,
+      "availability": "В наличии: 4.333 упак",
+      "referenceWithoutStock": false,
       "change": null,
-      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1370"
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3041"
+    },
+    {
+      "item": "Планкен скошенный 20×96 мм, длина не указана, сорт BC",
+      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/planken-skoshennyj-listvennicza/:20:96:0:BC:main:1::range:2:4",
+      "unit": "м²",
+      "ours": 2125,
+      "competitor": 1876.488095238095,
+      "difference": 248.51190476190504,
+      "availability": "В наличии: 61 упак",
+      "referenceWithoutStock": false,
+      "change": null,
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1823"
+    },
+    {
+      "item": "Рейка строганая 20×40 мм, длина не указана, сорт AB",
+      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/rejka-stroganaya-el-sosna/:20:40:0:AB:main:1:",
+      "unit": "пог. м",
+      "ours": 49,
+      "competitor": 46.333333333333336,
+      "difference": 2.6666666666666643,
+      "availability": "В наличии: 2431 шт",
+      "referenceWithoutStock": false,
+      "change": null,
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=209"
+    },
+    {
+      "item": "Рейка строганая 20×40 мм, длина не указана, сорт BC",
+      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/rejka-stroganaya-el-sosna/:20:40:0:BC:main:1:",
+      "unit": "пог. м",
+      "ours": 40,
+      "competitor": 37.333333333333336,
+      "difference": 2.6666666666666643,
+      "availability": "В наличии: 1544 шт",
+      "referenceWithoutStock": false,
+      "change": null,
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=23"
     },
     {
       "item": "Вагонка Штиль 13×122×3 м, сорт BC",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/vagonka-shtil-el-sosna/:13:122:3:BC:main:10:",
       "unit": "м²",
       "ours": 680,
-      "competitor": 476.1456371625863,
-      "difference": 203.8543628374137,
+      "competitor": 557.1249215317013,
+      "difference": 122.87507846829874,
+      "availability": "В наличии: 526 упак",
+      "referenceWithoutStock": false,
       "change": null,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1217"
     }
@@ -150,10 +244,45 @@
       "title": "Вагонка Штиль (лиственница)"
     },
     {
+      "source": "https://terem-krym.ru/catalog/plintusa",
+      "status": "error",
+      "pages": 1,
+      "rows": 0,
+      "details": "https://terem-krym.ru/catalog/plintusa: HTTP Error 404: Not Found"
+    },
+    {
+      "source": "https://terem-krym.ru/catalog/ugolki_naruzhnie",
+      "status": "error",
+      "pages": 1,
+      "rows": 0,
+      "details": "https://terem-krym.ru/catalog/ugolki_naruzhnie: HTTP Error 404: Not Found"
+    },
+    {
+      "source": "https://terem-krym.ru/index.php?route=product/search&search=%D0%94%D0%BE%D1%81%D0%BA%D0%B0%20%D0%BF%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0%D1%8F",
+      "status": "error",
+      "pages": 1,
+      "rows": 0,
+      "details": "Нет распознанных предложений"
+    },
+    {
+      "source": "https://terem-krym.ru/index.php?route=product/search&search=%D0%A8%D1%82%D0%B0%D0%BF%D0%B8%D0%BA",
+      "status": "error",
+      "pages": 1,
+      "rows": 0,
+      "details": "Нет распознанных предложений"
+    },
+    {
+      "source": "https://terem-krym.ru/index.php?route=product/search&search=%D0%9A%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%B0",
+      "status": "error",
+      "pages": 1,
+      "rows": 0,
+      "details": "Нет распознанных предложений"
+    },
+    {
       "source": "Терем — проверка каждой упаковки по карточке",
       "status": "error",
-      "rows": 576,
-      "details": "{\"verified\":574,\"errors\":[{\"url\":\"https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2818\",\"title\":\"Вагонка штиль сосна/ель \\\"АВ\\\" 13*118(110)*3000мм*10шт\",\"status\":\"error\",\"details\":\"Error: Название содержит 10 досок, но цена карточки подписана за шт; единицу нужно уточнить\"},{\"url\":\"https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2634\",\"title\":\"Планкен скошенный Сосна \\\"АВ\\\" 20*140*3000мм*5шт\",\"status\":\"error\",\"details\":\"Error: Площадь упаковки в калькуляторе 0.42 м² не соответствует 5 доскам: 2.1000 м². Требуется уточнение единицы/упаковки\"}]}"
+      "rows": 621,
+      "details": "{\"verified\":619,\"errors\":[{\"url\":\"https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2818\",\"title\":\"Вагонка штиль сосна/ель \\\"АВ\\\" 13*118(110)*3000мм*10шт\",\"status\":\"error\",\"details\":\"Error: Название содержит 10 досок, но цена карточки подписана за шт; единицу нужно уточнить\"},{\"url\":\"https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2634\",\"title\":\"Планкен скошенный Сосна \\\"АВ\\\" 20*140*3000мм*5шт\",\"status\":\"error\",\"details\":\"Error: Площадь упаковки в калькуляторе 0.42 м² не соответствует 5 доскам: 2.1000 м². Требуется уточнение единицы/упаковки\"}]}"
     }
   ],
   "pks": {

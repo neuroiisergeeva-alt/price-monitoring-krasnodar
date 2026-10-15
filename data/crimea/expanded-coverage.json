@@ -1,0 +1,5204 @@
+{
+  "at": "2026-10-15T10:11:32.344Z",
+  "summary": [
+    {
+      "group": "Блок-хаус",
+      "ours": 19,
+      "matched": 0,
+      "reference": 7,
+      "missing": 12
+    },
+    {
+      "group": "Доска пола",
+      "ours": 37,
+      "matched": 0,
+      "reference": 20,
+      "missing": 17
+    },
+    {
+      "group": "Евровагонка",
+      "ours": 25,
+      "matched": 3,
+      "reference": 11,
+      "missing": 11
+    },
+    {
+      "group": "Клеёный брус",
+      "ours": 16,
+      "matched": 0,
+      "reference": 4,
+      "missing": 12
+    },
+    {
+      "group": "Лестничные площадки",
+      "ours": 12,
+      "matched": 0,
+      "reference": 8,
+      "missing": 4
+    },
+    {
+      "group": "Ступени",
+      "ours": 15,
+      "matched": 0,
+      "reference": 4,
+      "missing": 11
+    },
+    {
+      "group": "Мебельный щит",
+      "ours": 14,
+      "matched": 0,
+      "reference": 5,
+      "missing": 9
+    },
+    {
+      "group": "Планкен прямой",
+      "ours": 19,
+      "matched": 7,
+      "reference": 4,
+      "missing": 8
+    },
+    {
+      "group": "Планкен скошенный",
+      "ours": 14,
+      "matched": 5,
+      "reference": 5,
+      "missing": 4
+    },
+    {
+      "group": "Наличник",
+      "ours": 4,
+      "matched": 0,
+      "reference": 2,
+      "missing": 2
+    },
+    {
+      "group": "Плинтус",
+      "ours": 9,
+      "matched": 0,
+      "reference": 8,
+      "missing": 1
+    },
+    {
+      "group": "Уголок",
+      "ours": 5,
+      "matched": 0,
+      "reference": 4,
+      "missing": 1
+    },
+    {
+      "group": "Штапик",
+      "ours": 1,
+      "matched": 0,
+      "reference": 0,
+      "missing": 1
+    },
+    {
+      "group": "Дверная коробка",
+      "ours": 2,
+      "matched": 0,
+      "reference": 0,
+      "missing": 2
+    },
+    {
+      "group": "Раскладка / нащельник",
+      "ours": 3,
+      "matched": 0,
+      "reference": 3,
+      "missing": 0
+    },
+    {
+      "group": "Рейка строганая",
+      "ours": 10,
+      "matched": 5,
+      "reference": 3,
+      "missing": 2
+    },
+    {
+      "group": "Столбы для лестниц",
+      "ours": 3,
+      "matched": 0,
+      "reference": 3,
+      "missing": 0
+    },
+    {
+      "group": "Балясины",
+      "ours": 4,
+      "matched": 0,
+      "reference": 3,
+      "missing": 1
+    }
+  ],
+  "coverage": [
+    {
+      "title": "Балясины 45×45×0.9 м, сорт A",
+      "group": "Балясины",
+      "wood": "ель/сосна",
+      "unit": "шт.",
+      "matches": [],
+      "references": [
+        {
+          "title": "Балясина №10 \"Витая\" хв. пород 45*45*900мм",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=345",
+          "price": 324,
+          "stock": "В наличии: 41 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш A; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Уточнить рисунок и форму изделия."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Балясины 50×50×0.9 м, сорт A",
+      "group": "Балясины",
+      "wood": "ель/сосна",
+      "unit": "шт.",
+      "matches": [],
+      "references": [
+        {
+          "title": "Балясина №1 \"Англия\" хв. пород 50*50*900мм",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=344",
+          "price": 374,
+          "stock": "В наличии: 46 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш A; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Уточнить рисунок и форму изделия."
+          ]
+        },
+        {
+          "title": "Балясина №2 \"Грань витая\" хв. пород 50*50*900мм",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=358",
+          "price": 382,
+          "stock": "В наличии: 54 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш A; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Уточнить рисунок и форму изделия."
+          ]
+        },
+        {
+          "title": "Балясина №3 \"Яблоко\" хв. пород 50*50*900мм",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=375",
+          "price": 374,
+          "stock": "В наличии: 9 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш A; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Уточнить рисунок и форму изделия."
+          ]
+        },
+        {
+          "title": "Балясина №4 \"Симметрия витая\" хв. пород 50*50*900мм",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=348",
+          "price": 337,
+          "stock": "В наличии: 18 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш A; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Уточнить рисунок и форму изделия."
+          ]
+        },
+        {
+          "title": "Балясина №5 \"Симметрия\" хв. пород 50*50*900мм",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=341",
+          "price": 330,
+          "stock": "В наличии: 7 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш A; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Уточнить рисунок и форму изделия."
+          ]
+        },
+        {
+          "title": "Балясина №6 \"Рим\" хв. пород 50*50*900мм",
+          "url": "https://terem-krym.ru/tovar/9941",
+          "price": 337,
+          "stock": "В наличии: 9 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш A; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Уточнить рисунок и форму изделия."
+          ]
+        },
+        {
+          "title": "Балясина №7 \"Симметрия бочка витая\" хв пород 50*50*900мм",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=376",
+          "price": 337,
+          "stock": "В наличии: 2 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш A; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Уточнить рисунок и форму изделия."
+          ]
+        },
+        {
+          "title": "Балясина №9 \"Бочка витая\" хв. пород 50*50*900мм",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=352",
+          "price": 337,
+          "stock": "В наличии: 6 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш A; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Уточнить рисунок и форму изделия."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Балясины 60×60×0.9 м, сорт A",
+      "group": "Балясины",
+      "wood": "ель/сосна",
+      "unit": "шт.",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Балясины 45×45×0.9 м, сорт AB",
+      "group": "Балясины",
+      "wood": "ель/сосна",
+      "unit": "шт.",
+      "matches": [],
+      "references": [
+        {
+          "title": "Балясина №10 \"Витая\" хв. пород 45*45*900мм",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=345",
+          "price": 324,
+          "stock": "В наличии: 41 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Уточнить рисунок и форму изделия."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Блок-хаус 21×96×3 м, сорт C",
+      "group": "Блок-хаус",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Блок-хаус 21×96×3 м, сорт AB",
+      "group": "Блок-хаус",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Блок-хаус 21×96×6 м, сорт AB",
+      "group": "Блок-хаус",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Блок - хаус сосна/ель \"АВ\" 21*98(90)*6000мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1775",
+          "price": 1421.7687074829932,
+          "stock": "В наличии: 89 упак",
+          "notes": null
+        },
+        {
+          "title": "Блок - хаус сосна/ель \"С\" 21*98(90)*6000мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1495",
+          "price": 865.3628117913833,
+          "stock": "Нет в наличии",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "title": "Блок-хаус 28×145×2 м, сорт C",
+      "group": "Блок-хаус",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Блок-хаус 28×145×3 м, сорт C",
+      "group": "Блок-хаус",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Блок - хаус сосна/ель \"АВ\" 28*143(135)*3000мм*5шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3219",
+          "price": 1855.4778554778554,
+          "stock": "Нет в наличии",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "title": "Блок-хаус 28×145×6 м, сорт ABC",
+      "group": "Блок-хаус",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Блок - хаус сосна/ель \"АВ\" 28*143(135)*6000мм*4шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2001",
+          "price": 1855.4778554778554,
+          "stock": "В наличии: 1 упак",
+          "notes": null
+        },
+        {
+          "title": "Блок - хаус сосна/ель \"АВ\" 28*143(135)*6000мм*5шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2088",
+          "price": 1855.710955710956,
+          "stock": "В наличии: 22 упак",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "title": "Блок-хаус 28×145×3 м, сорт AB",
+      "group": "Блок-хаус",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Блок - хаус сосна/ель \"АВ\" 28*143(135)*3000мм*5шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3219",
+          "price": 1855.4778554778554,
+          "stock": "Нет в наличии",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "title": "Блок-хаус 28×145×4 м, сорт AB",
+      "group": "Блок-хаус",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Блок - хаус сосна/ель \"АВ\" 28*143(135)*4000мм*5шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3178",
+          "price": 1855.594405594406,
+          "stock": "Нет в наличии",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "title": "Блок-хаус 28×145×5 м, сорт AB",
+      "group": "Блок-хаус",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Блок - хаус сосна/ель \"АВ\" 28*143(135)*5000мм*5шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3224",
+          "price": 1855.6643356643358,
+          "stock": "Нет в наличии",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "title": "Блок-хаус 28×145×6 м, сорт AB",
+      "group": "Блок-хаус",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Блок - хаус сосна/ель \"АВ\" 28*143(135)*6000мм*4шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2001",
+          "price": 1855.4778554778554,
+          "stock": "В наличии: 1 упак",
+          "notes": null
+        },
+        {
+          "title": "Блок - хаус сосна/ель \"АВ\" 28*143(135)*6000мм*5шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2088",
+          "price": 1855.710955710956,
+          "stock": "В наличии: 22 упак",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "title": "Блок-хаус 36×175×3 м, сорт C",
+      "group": "Блок-хаус",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Блок-хаус 36×175×6 м, сорт ABC",
+      "group": "Блок-хаус",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Блок-хаус 36×175×3 м, сорт AB",
+      "group": "Блок-хаус",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Блок-хаус 36×175×5 м, сорт AB",
+      "group": "Блок-хаус",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Блок-хаус 36×175×6 м, сорт AB",
+      "group": "Блок-хаус",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Блок-хаус 36×195×3 м, сорт C",
+      "group": "Блок-хаус",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Блок-хаус 36×195×6 м, сорт ABC",
+      "group": "Блок-хаус",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Блок-хаус 36×195×3 м, сорт AB",
+      "group": "Блок-хаус",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Блок-хаус 36×195×6 м, сорт AB",
+      "group": "Блок-хаус",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Доска пола 21×96×3 м, сорт C",
+      "group": "Доска пола",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Доска пола 21×96×6 м, сорт ABC",
+      "group": "Доска пола",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Доска пола 21×96×3 м, сорт AB",
+      "group": "Доска пола",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Доска пола 21×96×6 м, сорт AB",
+      "group": "Доска пола",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Доска пола 28×96×3 м, сорт C",
+      "group": "Доска пола",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Доска пола 28×96×6 м, сорт ABC",
+      "group": "Доска пола",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Доска пола 28×96×3 м, сорт AB",
+      "group": "Доска пола",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Доска пола 28×96×4 м, сорт AB",
+      "group": "Доска пола",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Доска пола 28×96×6 м, сорт AB",
+      "group": "Доска пола",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Доска пола 28×122×3 м, сорт C",
+      "group": "Доска пола",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Доска пола сосна/ель \"АВ\" 28*116(110)*3000мм*5шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2815",
+          "price": 1428.7356321839081,
+          "stock": "Нет в наличии",
+          "notes": null
+        },
+        {
+          "title": "Доска пола сосна/ель \"АВ\" 28*120(112)*3000мм*5шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2804",
+          "price": 1268.888888888889,
+          "stock": "Нет в наличии",
+          "notes": null
+        },
+        {
+          "title": "Доска пола сосна/ель \"С\" 28*120(112)*3000мм*5шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2604",
+          "price": 586.1111111111111,
+          "stock": "Нет в наличии",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "title": "Доска пола 28×122×6 м, сорт ABC",
+      "group": "Доска пола",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Доска пола сосна/ель \"АВ\" 28*116(110)*6000мм*4шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2942",
+          "price": 1834.7701149425288,
+          "stock": "В наличии: 58 упак",
+          "notes": null
+        },
+        {
+          "title": "Доска пола сосна/ель \"АВ\" 28*116(110)*6000мм*5шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3031",
+          "price": 1353.7356321839081,
+          "stock": "Нет в наличии",
+          "notes": null
+        },
+        {
+          "title": "Доска пола сосна/ель \"АВ\" 28*120(112)*6000мм*4шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3007",
+          "price": 1572.9166666666667,
+          "stock": "Нет в наличии",
+          "notes": null
+        },
+        {
+          "title": "Доска пола сосна/ель \"АВ\" 28*120(112)*6000мм*5шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3022",
+          "price": 1268.611111111111,
+          "stock": "Нет в наличии",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "title": "Доска пола 28×122×3 м, сорт AB",
+      "group": "Доска пола",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Доска пола сосна/ель \"АВ\" 28*116(110)*3000мм*5шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2815",
+          "price": 1428.7356321839081,
+          "stock": "Нет в наличии",
+          "notes": null
+        },
+        {
+          "title": "Доска пола сосна/ель \"АВ\" 28*120(112)*3000мм*5шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2804",
+          "price": 1268.888888888889,
+          "stock": "Нет в наличии",
+          "notes": null
+        },
+        {
+          "title": "Доска пола сосна/ель \"С\" 28*120(112)*3000мм*5шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2604",
+          "price": 586.1111111111111,
+          "stock": "Нет в наличии",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "title": "Доска пола 28×122×4 м, сорт AB",
+      "group": "Доска пола",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Доска пола сосна/ель \"АВ\" 27*121(115)*4000мм*4шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2854",
+          "price": 1380.6818181818182,
+          "stock": "Нет в наличии",
+          "notes": null
+        },
+        {
+          "title": "Доска пола сосна/ель \"АВ\" 28*116(110)*4000мм*4шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2859",
+          "price": 1428.8793103448274,
+          "stock": "Нет в наличии",
+          "notes": null
+        },
+        {
+          "title": "Доска пола сосна/ель \"АВ\" 28*120(112)*4000мм*4шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2791",
+          "price": 1095.3125,
+          "stock": "Нет в наличии",
+          "notes": null
+        },
+        {
+          "title": "Доска пола сосна/ель \"АВ\" 28*120(112)*4000мм*5шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2813",
+          "price": 1050.8333333333333,
+          "stock": "Нет в наличии",
+          "notes": null
+        },
+        {
+          "title": "Доска пола сосна/ель \"С\" 28*120(112)*4000мм*5шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2680",
+          "price": 555,
+          "stock": "Нет в наличии",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "title": "Доска пола 28×122×6 м, сорт AB",
+      "group": "Доска пола",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Доска пола сосна/ель \"АВ\" 28*116(110)*6000мм*4шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2942",
+          "price": 1834.7701149425288,
+          "stock": "В наличии: 58 упак",
+          "notes": null
+        },
+        {
+          "title": "Доска пола сосна/ель \"АВ\" 28*116(110)*6000мм*5шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3031",
+          "price": 1353.7356321839081,
+          "stock": "Нет в наличии",
+          "notes": null
+        },
+        {
+          "title": "Доска пола сосна/ель \"АВ\" 28*120(112)*6000мм*4шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3007",
+          "price": 1572.9166666666667,
+          "stock": "Нет в наличии",
+          "notes": null
+        },
+        {
+          "title": "Доска пола сосна/ель \"АВ\" 28*120(112)*6000мм*5шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3022",
+          "price": 1268.611111111111,
+          "stock": "Нет в наличии",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "title": "Доска пола 28×145×3 м, сорт C",
+      "group": "Доска пола",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Доска пола сосна/ель \"АВ\" 28*143(135)*3000мм*5шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1682",
+          "price": 1797.668997668998,
+          "stock": "В наличии: 5 упак",
+          "notes": null
+        },
+        {
+          "title": "Доска пола сосна/ель \"АВ\" 28*143(135)*3000мм*4шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2834",
+          "price": 1381.7016317016316,
+          "stock": "Нет в наличии",
+          "notes": null
+        },
+        {
+          "title": "Доска пола сосна/ель \"С\" 28*143(135)*3000мм*4шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2647",
+          "price": 675.4079254079254,
+          "stock": "Нет в наличии",
+          "notes": null
+        },
+        {
+          "title": "Доска пола сосна/ель \"С\" 28*143(135)*3000мм*5шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2740",
+          "price": 833.5664335664336,
+          "stock": "Нет в наличии",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "title": "Доска пола 28×145×6 м, сорт ABC",
+      "group": "Доска пола",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Доска пола сосна/ель \"АВ\" 28*143(135)*6000мм*4шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1918",
+          "price": 1790.7925407925409,
+          "stock": "В наличии: 394 упак",
+          "notes": null
+        },
+        {
+          "title": "Доска пола сосна/ель \"АВ\" 28*143(135)*6000мм*5шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2016",
+          "price": 1798.1351981351982,
+          "stock": "В наличии: 179 упак",
+          "notes": null
+        },
+        {
+          "title": "Доска пола сосна/ель \"С\" 28*143(135)*6000мм*4шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1605",
+          "price": 1157.9254079254079,
+          "stock": "В наличии: 72 упак",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "title": "Доска пола 28×145×3 м, сорт AB",
+      "group": "Доска пола",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Доска пола сосна/ель \"АВ\" 28*143(135)*3000мм*5шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1682",
+          "price": 1797.668997668998,
+          "stock": "В наличии: 5 упак",
+          "notes": null
+        },
+        {
+          "title": "Доска пола сосна/ель \"АВ\" 28*143(135)*3000мм*4шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2834",
+          "price": 1381.7016317016316,
+          "stock": "Нет в наличии",
+          "notes": null
+        },
+        {
+          "title": "Доска пола сосна/ель \"С\" 28*143(135)*3000мм*4шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2647",
+          "price": 675.4079254079254,
+          "stock": "Нет в наличии",
+          "notes": null
+        },
+        {
+          "title": "Доска пола сосна/ель \"С\" 28*143(135)*3000мм*5шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2740",
+          "price": 833.5664335664336,
+          "stock": "Нет в наличии",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "title": "Доска пола 28×145×4 м, сорт AB",
+      "group": "Доска пола",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Доска пола сосна/ель \"АВ\" 28*143(135)*4000мм*4шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2895",
+          "price": 1381.555944055944,
+          "stock": "Нет в наличии",
+          "notes": null
+        },
+        {
+          "title": "Доска пола сосна/ель \"АВ\" 28*143(135)*4000мм*5шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1876",
+          "price": 1797.5524475524478,
+          "stock": "Нет в наличии",
+          "notes": null
+        },
+        {
+          "title": "Доска пола сосна/ель \"С\" 28*143(135)*4000мм*5шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2725",
+          "price": 581.1188811188812,
+          "stock": "Нет в наличии",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "title": "Доска пола 28×145×6 м, сорт AB",
+      "group": "Доска пола",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Доска пола сосна/ель \"АВ\" 28*143(135)*6000мм*4шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1918",
+          "price": 1790.7925407925409,
+          "stock": "В наличии: 394 упак",
+          "notes": null
+        },
+        {
+          "title": "Доска пола сосна/ель \"АВ\" 28*143(135)*6000мм*5шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2016",
+          "price": 1798.1351981351982,
+          "stock": "В наличии: 179 упак",
+          "notes": null
+        },
+        {
+          "title": "Доска пола сосна/ель \"С\" 28*143(135)*6000мм*4шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1605",
+          "price": 1157.9254079254079,
+          "stock": "В наличии: 72 упак",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "title": "Доска пола 36×96×3 м, сорт C",
+      "group": "Доска пола",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Доска пола 36×96×6 м, сорт ABC",
+      "group": "Доска пола",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Доска пола 36×96×3 м, сорт AB",
+      "group": "Доска пола",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Доска пола 36×96×4 м, сорт AB",
+      "group": "Доска пола",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Доска пола 36×96×6 м, сорт AB",
+      "group": "Доска пола",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Доска пола 36×122×3 м, сорт C",
+      "group": "Доска пола",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Доска пола сосна/ель \"С\" 36*120(112)*3000мм*4шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2652",
+          "price": 854.1666666666667,
+          "stock": "Нет в наличии",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "title": "Доска пола 36×122×6 м, сорт ABC",
+      "group": "Доска пола",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Доска пола сосна/ель \"АВ\" 36*120(112)*6000мм*4шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3046",
+          "price": 1996.5277777777778,
+          "stock": "Нет в наличии",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "title": "Доска пола 36×122×3 м, сорт AB",
+      "group": "Доска пола",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Доска пола сосна/ель \"С\" 36*120(112)*3000мм*4шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2652",
+          "price": 854.1666666666667,
+          "stock": "Нет в наличии",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "title": "Доска пола 36×122×4 м, сорт AB",
+      "group": "Доска пола",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Доска пола сосна/ель \"АВ\" 36*120(112)*4000мм*4шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2753",
+          "price": 949.4791666666667,
+          "stock": "Нет в наличии",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "title": "Доска пола 36×122×6 м, сорт AB",
+      "group": "Доска пола",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Доска пола сосна/ель \"АВ\" 36*120(112)*6000мм*4шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3046",
+          "price": 1996.5277777777778,
+          "stock": "Нет в наличии",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "title": "Доска пола 36×145×3 м, сорт C",
+      "group": "Доска пола",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Доска пола сосна/ель \"АВ\" 36*143(135)*3000мм*3шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2747",
+          "price": 1321.6783216783217,
+          "stock": "Нет в наличии",
+          "notes": null
+        },
+        {
+          "title": "Доска пола сосна/ель \"С\" 36*143(135)*3000мм*3шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2599",
+          "price": 811.9658119658119,
+          "stock": "Нет в наличии",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "title": "Доска пола 36×145×6 м, сорт ABC",
+      "group": "Доска пола",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Доска пола сосна/ель \"АВ\" 36*143(135)*6000мм*3шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1895",
+          "price": 2120.823620823621,
+          "stock": "В наличии: 365 упак",
+          "notes": null
+        },
+        {
+          "title": "Доска пола сосна/ель \"АВ\" 36*138(130)*6000мм*3шт",
+          "url": "https://terem-krym.ru/tovar/2927",
+          "price": 1329.3075684380033,
+          "stock": "Нет в наличии",
+          "notes": null
+        },
+        {
+          "title": "Доска пола сосна/ель \"АВ\" 36*143(135)*6000мм*4шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3051",
+          "price": 1605.1864801864801,
+          "stock": "Нет в наличии",
+          "notes": null
+        },
+        {
+          "title": "Доска пола сосна/ель \"ВС\" 36*143(135)*6000мм*3шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1633",
+          "price": 1020.979020979021,
+          "stock": "Нет в наличии",
+          "notes": null
+        },
+        {
+          "title": "Доска пола сосна/ель \"С\" 36*143(135)*6000мм*3шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1601",
+          "price": 1071.8725718725718,
+          "stock": "Нет в наличии",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "title": "Доска пола 36×145×3 м, сорт AB",
+      "group": "Доска пола",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Доска пола сосна/ель \"АВ\" 36*143(135)*3000мм*3шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2747",
+          "price": 1321.6783216783217,
+          "stock": "Нет в наличии",
+          "notes": null
+        },
+        {
+          "title": "Доска пола сосна/ель \"С\" 36*143(135)*3000мм*3шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2599",
+          "price": 811.9658119658119,
+          "stock": "Нет в наличии",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "title": "Доска пола 36×145×4 м, сорт AB",
+      "group": "Доска пола",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Доска пола сосна/ель \"АВ\" 36*143(135)*4000мм*3шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2824",
+          "price": 1321.0955710955711,
+          "stock": "Нет в наличии",
+          "notes": null
+        },
+        {
+          "title": "Доска пола сосна/ель \"С\" 36*143(135)*4000мм*3шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2602",
+          "price": 598.4848484848485,
+          "stock": "Нет в наличии",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "title": "Доска пола 36×145×6 м, сорт AB",
+      "group": "Доска пола",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Доска пола сосна/ель \"АВ\" 36*143(135)*6000мм*3шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1895",
+          "price": 2120.823620823621,
+          "stock": "В наличии: 365 упак",
+          "notes": null
+        },
+        {
+          "title": "Доска пола сосна/ель \"АВ\" 36*138(130)*6000мм*3шт",
+          "url": "https://terem-krym.ru/tovar/2927",
+          "price": 1329.3075684380033,
+          "stock": "Нет в наличии",
+          "notes": null
+        },
+        {
+          "title": "Доска пола сосна/ель \"АВ\" 36*143(135)*6000мм*4шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3051",
+          "price": 1605.1864801864801,
+          "stock": "Нет в наличии",
+          "notes": null
+        },
+        {
+          "title": "Доска пола сосна/ель \"ВС\" 36*143(135)*6000мм*3шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1633",
+          "price": 1020.979020979021,
+          "stock": "Нет в наличии",
+          "notes": null
+        },
+        {
+          "title": "Доска пола сосна/ель \"С\" 36*143(135)*6000мм*3шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1601",
+          "price": 1071.8725718725718,
+          "stock": "Нет в наличии",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "title": "Доска пола 28×122 мм, длина не указана, сорт A",
+      "group": "Доска пола",
+      "wood": "лиственница",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Доска пола 28×122 мм, длина не указана, сорт AB",
+      "group": "Доска пола",
+      "wood": "лиственница",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Доска пола 28×122 мм, длина не указана, сорт BC",
+      "group": "Доска пола",
+      "wood": "лиственница",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Дверная коробка 0×70 мм, длина не указана, сорт НЕ УКАЗАН",
+      "group": "Дверная коробка",
+      "wood": "ель/сосна",
+      "unit": "пог. м",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Дверная коробка 0×90 мм, длина не указана, сорт НЕ УКАЗАН",
+      "group": "Дверная коробка",
+      "wood": "ель/сосна",
+      "unit": "пог. м",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Евровагонка 12.5×96×3 м, сорт AB",
+      "group": "Евровагонка",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Евровагонка сосна/ель \"А\" 12,5*96(90)*3000мм*10шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1474",
+          "price": 813.1944444444445,
+          "stock": "В наличии: 516 упак",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем A."
+          ]
+        },
+        {
+          "title": "Евровагонка сосна/ель \"А\" 11,5*96(90)*3000мм*10шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2739",
+          "price": 583.6805555555555,
+          "stock": "Нет в наличии",
+          "notes": null
+        },
+        {
+          "title": "Евровагонка сосна/ель \"В\" *12,5*96(90)*3000мм*10шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2683",
+          "price": 471.18055555555554,
+          "stock": "Нет в наличии",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем B."
+          ]
+        },
+        {
+          "title": "Евровагонка сосна/ель \"С\" 12,5*96(90)*3000мм*10шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1158",
+          "price": 537.8472222222223,
+          "stock": "Нет в наличии",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем C."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Евровагонка 12.5×96×2.7 м, сорт AB",
+      "group": "Евровагонка",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Евровагонка сосна/ель \"А\" 12,5*96(90)*2700мм*10шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2630",
+          "price": 454.08950617283944,
+          "stock": "Нет в наличии",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем A."
+          ]
+        },
+        {
+          "title": "Евровагонка сосна/ель \"В\" 12,5*96(90)*2700мм*10шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2583",
+          "price": 350.6944444444444,
+          "stock": "Нет в наличии",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем B."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Евровагонка 12.5×96×2.5 м, сорт AB",
+      "group": "Евровагонка",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Евровагонка сосна/ель \"А\" 12,5*96(90)*2500мм*10шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1369",
+          "price": 766.6666666666667,
+          "stock": "Нет в наличии",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем A."
+          ]
+        },
+        {
+          "title": "Евровагонка сосна/ель \"В\" 12,5*96(90)*2500мм*10шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2650",
+          "price": 498.3333333333333,
+          "stock": "Нет в наличии",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем B."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Евровагонка 12.5×96×2.4 м, сорт AB",
+      "group": "Евровагонка",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Евровагонка 12.5×96×2.1 м, сорт AB",
+      "group": "Евровагонка",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Евровагонка сосна/ель \"А\" 12,5*96(90)*2100мм*10шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2532",
+          "price": 374.99999999999994,
+          "stock": "Нет в наличии",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем A."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Евровагонка 12.5×96×2 м, сорт AB",
+      "group": "Евровагонка",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Евровагонка сосна/ель \"А\" 12,5*96(90)*2000мм*10шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2579",
+          "price": 454.1666666666667,
+          "stock": "Нет в наличии",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем A."
+          ]
+        },
+        {
+          "title": "Евровагонка сосна/ель \"В\" 12,5*96(90)*2000мм*10шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2543",
+          "price": 364.0625,
+          "stock": "Нет в наличии",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем B."
+          ]
+        },
+        {
+          "title": "Евровагонка сосна/ель \"С\" 12,5*96(90)*2000мм*10шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2460",
+          "price": 274.4791666666667,
+          "stock": "Нет в наличии",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем C."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Евровагонка 12.5×96×4 м, сорт AB",
+      "group": "Евровагонка",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Евровагонка сосна/ель \"А\" 12,5*96(90)*4000мм*10шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2749",
+          "price": 453.90625,
+          "stock": "Нет в наличии",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем A."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Евровагонка 12.5×96×6 м, сорт AB",
+      "group": "Евровагонка",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Евровагонка сосна/ель \"А\" 12,5*96(90)*6000мм*10шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2874",
+          "price": 453.81944444444446,
+          "stock": "Нет в наличии",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем A."
+          ]
+        },
+        {
+          "title": "Евровагонка сосна/ель \"С\" 12,5*96(90)*6000мм*10шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2638",
+          "price": 213.71527777777777,
+          "stock": "Нет в наличии",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем C."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Евровагонка 12.5×96×6 м, сорт ABC",
+      "group": "Евровагонка",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [
+        {
+          "title": "Евровагонка сосна/ель \"С\" 12,5*96(90)*6000мм*10шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2638",
+          "price": 213.71527777777777,
+          "stock": "Нет в наличии"
+        }
+      ],
+      "references": [
+        {
+          "title": "Евровагонка сосна/ель \"А\" 12,5*96(90)*6000мм*10шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2874",
+          "price": 453.81944444444446,
+          "stock": "Нет в наличии",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш ABC; Терем A."
+          ]
+        },
+        {
+          "title": "Евровагонка сосна/ель \"С\" 12,5*96(90)*6000мм*10шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2638",
+          "price": 213.71527777777777,
+          "stock": "Нет в наличии",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш ABC; Терем C."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Евровагонка 12.5×96×4 м, сорт ABC",
+      "group": "Евровагонка",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Евровагонка сосна/ель \"А\" 12,5*96(90)*4000мм*10шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2749",
+          "price": 453.90625,
+          "stock": "Нет в наличии",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш ABC; Терем A."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Евровагонка 12.5×96×3 м, сорт BC",
+      "group": "Евровагонка",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [
+        {
+          "title": "Евровагонка сосна/ель \"С\" 12,5*96(90)*3000мм*10шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1158",
+          "price": 537.8472222222223,
+          "stock": "Нет в наличии"
+        }
+      ],
+      "references": [
+        {
+          "title": "Евровагонка сосна/ель \"А\" 12,5*96(90)*3000мм*10шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1474",
+          "price": 813.1944444444445,
+          "stock": "В наличии: 516 упак",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш BC; Терем A."
+          ]
+        },
+        {
+          "title": "Евровагонка сосна/ель \"А\" 11,5*96(90)*3000мм*10шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2739",
+          "price": 583.6805555555555,
+          "stock": "Нет в наличии",
+          "notes": null
+        },
+        {
+          "title": "Евровагонка сосна/ель \"В\" *12,5*96(90)*3000мм*10шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2683",
+          "price": 471.18055555555554,
+          "stock": "Нет в наличии",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш BC; Терем B."
+          ]
+        },
+        {
+          "title": "Евровагонка сосна/ель \"С\" 12,5*96(90)*3000мм*10шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1158",
+          "price": 537.8472222222223,
+          "stock": "Нет в наличии",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш BC; Терем C."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Евровагонка 12.5×96×2.7 м, сорт BC",
+      "group": "Евровагонка",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Евровагонка сосна/ель \"А\" 12,5*96(90)*2700мм*10шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2630",
+          "price": 454.08950617283944,
+          "stock": "Нет в наличии",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш BC; Терем A."
+          ]
+        },
+        {
+          "title": "Евровагонка сосна/ель \"В\" 12,5*96(90)*2700мм*10шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2583",
+          "price": 350.6944444444444,
+          "stock": "Нет в наличии",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш BC; Терем B."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Евровагонка 12.5×96×2.5 м, сорт BC",
+      "group": "Евровагонка",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Евровагонка сосна/ель \"А\" 12,5*96(90)*2500мм*10шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1369",
+          "price": 766.6666666666667,
+          "stock": "Нет в наличии",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш BC; Терем A."
+          ]
+        },
+        {
+          "title": "Евровагонка сосна/ель \"В\" 12,5*96(90)*2500мм*10шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2650",
+          "price": 498.3333333333333,
+          "stock": "Нет в наличии",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш BC; Терем B."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Евровагонка 12.5×96×2.4 м, сорт BC",
+      "group": "Евровагонка",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Евровагонка 12.5×96×2.1 м, сорт BC",
+      "group": "Евровагонка",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Евровагонка сосна/ель \"А\" 12,5*96(90)*2100мм*10шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2532",
+          "price": 374.99999999999994,
+          "stock": "Нет в наличии",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш BC; Терем A."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Евровагонка 12.5×96×2 м, сорт BC",
+      "group": "Евровагонка",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [
+        {
+          "title": "Евровагонка сосна/ель \"С\" 12,5*96(90)*2000мм*10шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2460",
+          "price": 274.4791666666667,
+          "stock": "Нет в наличии"
+        }
+      ],
+      "references": [
+        {
+          "title": "Евровагонка сосна/ель \"А\" 12,5*96(90)*2000мм*10шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2579",
+          "price": 454.1666666666667,
+          "stock": "Нет в наличии",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш BC; Терем A."
+          ]
+        },
+        {
+          "title": "Евровагонка сосна/ель \"В\" 12,5*96(90)*2000мм*10шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2543",
+          "price": 364.0625,
+          "stock": "Нет в наличии",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш BC; Терем B."
+          ]
+        },
+        {
+          "title": "Евровагонка сосна/ель \"С\" 12,5*96(90)*2000мм*10шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2460",
+          "price": 274.4791666666667,
+          "stock": "Нет в наличии",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш BC; Терем C."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Евровагонка 13×96 мм, длина не указана, сорт ЭКСТРА",
+      "group": "Евровагонка",
+      "wood": "осина",
+      "unit": "пог. м",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Евровагонка 13×96 мм, длина не указана, сорт ЭКСТРА",
+      "group": "Евровагонка",
+      "wood": "осина",
+      "unit": "пог. м",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Евровагонка 13×96 мм, длина не указана, сорт ЭКСТРА",
+      "group": "Евровагонка",
+      "wood": "осина",
+      "unit": "пог. м",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Евровагонка 13×96 мм, длина не указана, сорт A",
+      "group": "Евровагонка",
+      "wood": "осина",
+      "unit": "пог. м",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Евровагонка 13×96 мм, длина не указана, сорт A",
+      "group": "Евровагонка",
+      "wood": "осина",
+      "unit": "пог. м",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Евровагонка 13×96 мм, длина не указана, сорт A",
+      "group": "Евровагонка",
+      "wood": "осина",
+      "unit": "пог. м",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Евровагонка 13×96 мм, длина не указана, сорт B",
+      "group": "Евровагонка",
+      "wood": "осина",
+      "unit": "пог. м",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Евровагонка 13×96 мм, длина не указана, сорт B",
+      "group": "Евровагонка",
+      "wood": "осина",
+      "unit": "пог. м",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Евровагонка 13×96 мм, длина не указана, сорт B",
+      "group": "Евровагонка",
+      "wood": "осина",
+      "unit": "пог. м",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Клеёный брус 80×80×3 м, сорт AB",
+      "group": "Клеёный брус",
+      "wood": "ель/сосна",
+      "unit": "пог. м",
+      "matches": [],
+      "references": [
+        {
+          "title": "Брус сухой клееный 80*80*3000мм",
+          "url": "https://terem-krym.ru/tovar/9422",
+          "price": 661.6666666666666,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
+            "Уточнить породу: не указана.",
+            "Склейка Терема: клеёная; вид склейки и сорт требуют подтверждения."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Клеёный брус 80×80×6 м, сорт AB",
+      "group": "Клеёный брус",
+      "wood": "ель/сосна",
+      "unit": "пог. м",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Клеёный брус 90×90×3 м, сорт AB",
+      "group": "Клеёный брус",
+      "wood": "ель/сосна",
+      "unit": "пог. м",
+      "matches": [],
+      "references": [
+        {
+          "title": "Брус сухой клееный 90*90*3000мм",
+          "url": "https://terem-krym.ru/tovar/1686",
+          "price": 837,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
+            "Уточнить породу: не указана.",
+            "Склейка Терема: клеёная; вид склейки и сорт требуют подтверждения."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Клеёный брус 90×90×6 м, сорт AB",
+      "group": "Клеёный брус",
+      "wood": "ель/сосна",
+      "unit": "пог. м",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Клеёный брус 100×100×3 м, сорт AB",
+      "group": "Клеёный брус",
+      "wood": "ель/сосна",
+      "unit": "пог. м",
+      "matches": [],
+      "references": [
+        {
+          "title": "Брус сухой клееный 100*100*3000мм",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1481",
+          "price": 1037,
+          "stock": "В наличии: 12 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
+            "Уточнить породу: не указана.",
+            "Склейка Терема: клеёная; вид склейки и сорт требуют подтверждения."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Клеёный брус 100×100×6 м, сорт AB",
+      "group": "Клеёный брус",
+      "wood": "ель/сосна",
+      "unit": "пог. м",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Клеёный брус 120×120×3 м, сорт AB",
+      "group": "Клеёный брус",
+      "wood": "ель/сосна",
+      "unit": "пог. м",
+      "matches": [],
+      "references": [
+        {
+          "title": "Брус сухой клееный 120*120*3000мм",
+          "url": "https://terem-krym.ru/tovar/940",
+          "price": 1641,
+          "stock": "В наличии: 27 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
+            "Уточнить породу: не указана.",
+            "Склейка Терема: клеёная; вид склейки и сорт требуют подтверждения."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Клеёный брус 120×120×6 м, сорт AB",
+      "group": "Клеёный брус",
+      "wood": "ель/сосна",
+      "unit": "пог. м",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Клеёный брус 140×140×3 м, сорт AB",
+      "group": "Клеёный брус",
+      "wood": "ель/сосна",
+      "unit": "пог. м",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Клеёный брус 140×140×6 м, сорт AB",
+      "group": "Клеёный брус",
+      "wood": "ель/сосна",
+      "unit": "пог. м",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Клеёный брус 200×200×6 м, сорт AB",
+      "group": "Клеёный брус",
+      "wood": "ель/сосна",
+      "unit": "пог. м",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Клеёный брус 80×80×6 м, сорт BC",
+      "group": "Клеёный брус",
+      "wood": "ель/сосна",
+      "unit": "пог. м",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Клеёный брус 90×90×6 м, сорт BC",
+      "group": "Клеёный брус",
+      "wood": "ель/сосна",
+      "unit": "пог. м",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Клеёный брус 100×100×6 м, сорт BC",
+      "group": "Клеёный брус",
+      "wood": "ель/сосна",
+      "unit": "пог. м",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Клеёный брус 120×120×6 м, сорт BC",
+      "group": "Клеёный брус",
+      "wood": "ель/сосна",
+      "unit": "пог. м",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Клеёный брус 140×140×6 м, сорт BC",
+      "group": "Клеёный брус",
+      "wood": "ель/сосна",
+      "unit": "пог. м",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Лестничные площадки 40×400 мм, длина не указана, сорт AB",
+      "group": "Лестничные площадки",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Площадка хв. пород 40*400*3000мм",
+          "url": "https://terem-krym.ru/tovar/1678",
+          "price": 3622.5,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Склейка Терема: не указана; вид склейки и сорт требуют подтверждения."
+          ]
+        },
+        {
+          "title": "Площадка хв. пород 40*400*2000мм",
+          "url": "https://terem-krym.ru/tovar/3234",
+          "price": 4008.75,
+          "stock": "В наличии: 2 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Склейка Терема: не указана; вид склейки и сорт требуют подтверждения."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Лестничные площадки 40×500 мм, длина не указана, сорт AB",
+      "group": "Лестничные площадки",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Площадка хв. пород 40*500*2000мм",
+          "url": "https://terem-krym.ru/tovar/1008",
+          "price": 4006,
+          "stock": "В наличии: 12 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Склейка Терема: не указана; вид склейки и сорт требуют подтверждения."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Лестничные площадки 40×600 мм, длина не указана, сорт AB",
+      "group": "Лестничные площадки",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Площадка хв. пород 40*600*2000мм",
+          "url": "https://terem-krym.ru/tovar/1009",
+          "price": 3969.166666666667,
+          "stock": "В наличии: 12 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Склейка Терема: не указана; вид склейки и сорт требуют подтверждения."
+          ]
+        },
+        {
+          "title": "Площадка хв. пород 40*600*2500мм",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1831",
+          "price": 3969.3333333333335,
+          "stock": "В наличии: 13 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Склейка Терема: не указана; вид склейки и сорт требуют подтверждения."
+          ]
+        },
+        {
+          "title": "Площадка хв. пород 40*600*3000мм",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1935",
+          "price": 4136.111111111111,
+          "stock": "В наличии: 30 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Склейка Терема: не указана; вид склейки и сорт требуют подтверждения."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Лестничные площадки 40×700 мм, длина не указана, сорт AB",
+      "group": "Лестничные площадки",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Лестничные площадки 40×800 мм, длина не указана, сорт AB",
+      "group": "Лестничные площадки",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Площадка хв. пород 40*800*1400мм",
+          "url": "https://terem-krym.ru/tovar/1012",
+          "price": 4007.142857142857,
+          "stock": "В наличии: 17 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Склейка Терема: не указана; вид склейки и сорт требуют подтверждения."
+          ]
+        },
+        {
+          "title": "Площадка хв. пород 40*800*1000мм",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1575",
+          "price": 3620,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Склейка Терема: не указана; вид склейки и сорт требуют подтверждения."
+          ]
+        },
+        {
+          "title": "Площадка хв. пород 40*800*1100мм",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1674",
+          "price": 3620.454545454545,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Склейка Терема: не указана; вид склейки и сорт требуют подтверждения."
+          ]
+        },
+        {
+          "title": "Площадка хв. пород 40*800*1500мм",
+          "url": "https://terem-krym.ru/tovar/1677",
+          "price": 4007.5,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Склейка Терема: не указана; вид склейки и сорт требуют подтверждения."
+          ]
+        },
+        {
+          "title": "Площадка хв. пород 40*800*1600мм",
+          "url": "https://terem-krym.ru/tovar/1013",
+          "price": 4006.25,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Склейка Терема: не указана; вид склейки и сорт требуют подтверждения."
+          ]
+        },
+        {
+          "title": "Площадка хв. пород 40*800*2000мм",
+          "url": "https://terem-krym.ru/tovar/1014",
+          "price": 4008.125,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Склейка Терема: не указана; вид склейки и сорт требуют подтверждения."
+          ]
+        },
+        {
+          "title": "Площадка хв. пород 40*800*3000мм",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2029",
+          "price": 3624.5833333333335,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Склейка Терема: не указана; вид склейки и сорт требуют подтверждения."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Лестничные площадки 40×1000×0.8 м, сорт AB",
+      "group": "Лестничные площадки",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Лестничные площадки 40×1000×0.9 м, сорт AB",
+      "group": "Лестничные площадки",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Лестничные площадки 40×1000×1 м, сорт AB",
+      "group": "Лестничные площадки",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Площадка хв. пород 40*1000*1000мм",
+          "url": "https://terem-krym.ru/tovar/1001",
+          "price": 4008,
+          "stock": "В наличии: 1 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Склейка Терема: не указана; вид склейки и сорт требуют подтверждения."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Лестничные площадки 40×1000×1.1 м, сорт AB",
+      "group": "Лестничные площадки",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Лестничные площадки 40×1000×1.2 м, сорт AB",
+      "group": "Лестничные площадки",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Площадка хв. пород 40*1000*1200мм",
+          "url": "https://terem-krym.ru/tovar/1002",
+          "price": 4007.5,
+          "stock": "В наличии: 6 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Склейка Терема: не указана; вид склейки и сорт требуют подтверждения."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Лестничные площадки 40×1000×1.5 м, сорт AB",
+      "group": "Лестничные площадки",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Площадка хв. пород 40*1000*1500мм",
+          "url": "https://terem-krym.ru/tovar/1003",
+          "price": 4007.3333333333335,
+          "stock": "В наличии: 7 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Склейка Терема: не указана; вид склейки и сорт требуют подтверждения."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Лестничные площадки 40×1000×2 м, сорт AB",
+      "group": "Лестничные площадки",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Площадка хв. пород 40*1000*2000мм",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2027",
+          "price": 3967.5,
+          "stock": "В наличии: 19 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Склейка Терема: не указана; вид склейки и сорт требуют подтверждения."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Мебельный щит 18×200 мм, длина не указана, сорт AB",
+      "group": "Мебельный щит",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Мебельный щит хв. пород 18*200*3000мм 4D",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1151",
+          "price": 2163.3333333333335,
+          "stock": "В наличии: 17 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Склейка Терема: не указана; вид склейки и сорт требуют подтверждения."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Мебельный щит 18×250 мм, длина не указана, сорт AB",
+      "group": "Мебельный щит",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Мебельный щит 18×300 мм, длина не указана, сорт AB",
+      "group": "Мебельный щит",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Мебельный щит хв. пород 18*300*2000мм",
+          "url": "https://terem-krym.ru/tovar/29074",
+          "price": 1958.3333333333335,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Склейка Терема: не указана; вид склейки и сорт требуют подтверждения."
+          ]
+        },
+        {
+          "title": "Мебельный щит хв. пород 18*300*3000мм",
+          "url": "https://terem-krym.ru/tovar/9331",
+          "price": 1957.7777777777778,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Склейка Терема: не указана; вид склейки и сорт требуют подтверждения."
+          ]
+        },
+        {
+          "title": "Мебельный щит хв. пород 18*300*3000мм 4D",
+          "url": "https://terem-krym.ru/tovar/3860",
+          "price": 1973.3333333333333,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Склейка Терема: не указана; вид склейки и сорт требуют подтверждения."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Мебельный щит 18×400 мм, длина не указана, сорт AB",
+      "group": "Мебельный щит",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Мебельный щит хв. пород 18*400*2000мм",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1181",
+          "price": 1938.75,
+          "stock": "В наличии: 18 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Склейка Терема: не указана; вид склейки и сорт требуют подтверждения."
+          ]
+        },
+        {
+          "title": "Мебельный щит хв. пород 18*400*3000мм",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1392",
+          "price": 1937.5,
+          "stock": "В наличии: 24 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Склейка Терема: не указана; вид склейки и сорт требуют подтверждения."
+          ]
+        },
+        {
+          "title": "Мебельный щит хв. пород 18*400*3000мм 4D",
+          "url": "https://terem-krym.ru/tovar/3858",
+          "price": 2184.166666666667,
+          "stock": "В наличии: 3 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Склейка Терема: не указана; вид склейки и сорт требуют подтверждения."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Мебельный щит 18×500 мм, длина не указана, сорт AB",
+      "group": "Мебельный щит",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Мебельный щит хв. пород 18*500*3000мм",
+          "url": "https://terem-krym.ru/tovar/23754",
+          "price": 1932.6666666666667,
+          "stock": "В наличии: 36 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Склейка Терема: не указана; вид склейки и сорт требуют подтверждения."
+          ]
+        },
+        {
+          "title": "Мебельный щит хв. пород 18*500*3000мм 4D",
+          "url": "https://terem-krym.ru/tovar/3857",
+          "price": 2162,
+          "stock": "В наличии: 20 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Склейка Терема: не указана; вид склейки и сорт требуют подтверждения."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Мебельный щит 18×600 мм, длина не указана, сорт AB",
+      "group": "Мебельный щит",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Мебельный щит хв. пород 18*600*3000мм",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1607",
+          "price": 1938.3333333333333,
+          "stock": "В наличии: 54 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Склейка Терема: не указана; вид склейки и сорт требуют подтверждения."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Мебельный щит 28×210 мм, длина не указана, сорт AB",
+      "group": "Мебельный щит",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Мебельный щит 28×300 мм, длина не указана, сорт AB",
+      "group": "Мебельный щит",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Мебельный щит 18×200 мм, длина не указана, сорт AB",
+      "group": "Мебельный щит",
+      "wood": "лиственница",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Мебельный щит 18×250 мм, длина не указана, сорт AB",
+      "group": "Мебельный щит",
+      "wood": "лиственница",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Мебельный щит 18×300 мм, длина не указана, сорт AB",
+      "group": "Мебельный щит",
+      "wood": "лиственница",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Мебельный щит 18×400 мм, длина не указана, сорт AB",
+      "group": "Мебельный щит",
+      "wood": "лиственница",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Мебельный щит 18×500 мм, длина не указана, сорт AB",
+      "group": "Мебельный щит",
+      "wood": "лиственница",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Мебельный щит 18×600 мм, длина не указана, сорт AB",
+      "group": "Мебельный щит",
+      "wood": "лиственница",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Наличник 0×120 мм, длина не указана, сорт НЕ УКАЗАН",
+      "group": "Наличник",
+      "wood": "ель/сосна",
+      "unit": "пог. м",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Наличник 0×90 мм, длина не указана, сорт НЕ УКАЗАН",
+      "group": "Наличник",
+      "wood": "ель/сосна",
+      "unit": "пог. м",
+      "matches": [],
+      "references": [
+        {
+          "title": "Наличник хвоя П\"90\" - 2,2м",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=502",
+          "price": 196.36363636363635,
+          "stock": "В наличии: 123 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш НЕ УКАЗАН; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Наша толщина не опубликована; Терем 0 мм.",
+            "Наша длина не опубликована; Терем 2.2 м.",
+            "Уточнить форму погонажа; сравнение по ширине, цена за погонный метр."
+          ]
+        },
+        {
+          "title": "Наличник хвоя Ф\"90\" - 2,2м",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=378",
+          "price": 196.36363636363635,
+          "stock": "В наличии: 101 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш НЕ УКАЗАН; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Наша толщина не опубликована; Терем 0 мм.",
+            "Наша длина не опубликована; Терем 2.2 м.",
+            "Уточнить форму погонажа; сравнение по ширине, цена за погонный метр."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Наличник 0×70 мм, длина не указана, сорт НЕ УКАЗАН",
+      "group": "Наличник",
+      "wood": "ель/сосна",
+      "unit": "пог. м",
+      "matches": [],
+      "references": [
+        {
+          "title": "Наличник хвоя П\"70\" - 2,2м",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=401",
+          "price": 158.18181818181816,
+          "stock": "В наличии: 73 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш НЕ УКАЗАН; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Наша толщина не опубликована; Терем 0 мм.",
+            "Наша длина не опубликована; Терем 2.2 м.",
+            "Уточнить форму погонажа; сравнение по ширине, цена за погонный метр."
+          ]
+        },
+        {
+          "title": "Наличник хвоя Ф\"70\" - 2,2м",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=259",
+          "price": 158.18181818181816,
+          "stock": "В наличии: 38 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш НЕ УКАЗАН; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Наша толщина не опубликована; Терем 0 мм.",
+            "Наша длина не опубликована; Терем 2.2 м.",
+            "Уточнить форму погонажа; сравнение по ширине, цена за погонный метр."
+          ]
+        },
+        {
+          "title": "Наличник хвоя (косичка) \"70\" - 2,2м",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=227",
+          "price": 117.72727272727272,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш НЕ УКАЗАН; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Наша толщина не опубликована; Терем 0 мм.",
+            "Наша длина не опубликована; Терем 2.2 м.",
+            "Уточнить форму погонажа; сравнение по ширине, цена за погонный метр."
+          ]
+        },
+        {
+          "title": "Наличник хвоя цельный П\"70\" - 2,2м",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2306",
+          "price": 67.27272727272727,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш НЕ УКАЗАН; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Наша толщина не опубликована; Терем 0 мм.",
+            "Наша длина не опубликована; Терем 2.2 м.",
+            "Уточнить форму погонажа; сравнение по ширине, цена за погонный метр."
+          ]
+        },
+        {
+          "title": "Наличник хвоя цельный Ф\"70\" - 2,2м",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2289",
+          "price": 56.36363636363636,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш НЕ УКАЗАН; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Наша толщина не опубликована; Терем 0 мм.",
+            "Наша длина не опубликована; Терем 2.2 м.",
+            "Уточнить форму погонажа; сравнение по ширине, цена за погонный метр."
+          ]
+        },
+        {
+          "title": "Наличник хвоя П\"70\" - 2,2м НК",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=286",
+          "price": 86.36363636363636,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш НЕ УКАЗАН; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Наша толщина не опубликована; Терем 0 мм.",
+            "Наша длина не опубликована; Терем 2.2 м.",
+            "Уточнить форму погонажа; сравнение по ширине, цена за погонный метр."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Наличник 0×60 мм, длина не указана, сорт НЕ УКАЗАН",
+      "group": "Наличник",
+      "wood": "ель/сосна",
+      "unit": "пог. м",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Планкен прямой 20×80×3 м, сорт C",
+      "group": "Планкен прямой",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Планкен прямой 20×80×6 м, сорт ABC",
+      "group": "Планкен прямой",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Планкен прямой 20×80×3 м, сорт AB",
+      "group": "Планкен прямой",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Планкен прямой 20×80×6 м, сорт AB",
+      "group": "Планкен прямой",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Планкен прямой 20×96×3 м, сорт C",
+      "group": "Планкен прямой",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [
+        {
+          "title": "Планкен прямой Сосна \"С\" 20*90*3000мм",
+          "url": "https://terem-krym.ru/tovar/3699",
+          "price": 940.7407407407406,
+          "stock": "В наличии: 839 шт"
+        }
+      ],
+      "references": [
+        {
+          "title": "Планкен прямой Сосна \"АВ\" 20*90*3000мм",
+          "url": "https://terem-krym.ru/tovar/3698",
+          "price": 1374.074074074074,
+          "stock": "В наличии: 746 шт",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "title": "Планкен прямой 20×96×6 м, сорт ABC",
+      "group": "Планкен прямой",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Планкен прямой Сосна \"АВ\" 20*90*6000мм",
+          "url": "https://terem-krym.ru/tovar/3306",
+          "price": 1372.2222222222222,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "title": "Планкен прямой 20×96×3 м, сорт AB",
+      "group": "Планкен прямой",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [
+        {
+          "title": "Планкен прямой Сосна \"АВ\" 20*90*3000мм",
+          "url": "https://terem-krym.ru/tovar/3698",
+          "price": 1374.074074074074,
+          "stock": "В наличии: 746 шт"
+        }
+      ],
+      "references": [
+        {
+          "title": "Планкен прямой Сосна \"С\" 20*90*3000мм",
+          "url": "https://terem-krym.ru/tovar/3699",
+          "price": 940.7407407407406,
+          "stock": "В наличии: 839 шт",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "title": "Планкен прямой 20×96×6 м, сорт AB",
+      "group": "Планкен прямой",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [
+        {
+          "title": "Планкен прямой Сосна \"АВ\" 20*90*6000мм",
+          "url": "https://terem-krym.ru/tovar/3306",
+          "price": 1372.2222222222222,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        }
+      ],
+      "references": []
+    },
+    {
+      "title": "Планкен прямой 20×120×3 м, сорт C",
+      "group": "Планкен прямой",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Планкен прямой 20×120×6 м, сорт ABC",
+      "group": "Планкен прямой",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Планкен прямой 20×120×3 м, сорт AB",
+      "group": "Планкен прямой",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Планкен прямой 20×120×6 м, сорт AB",
+      "group": "Планкен прямой",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Планкен прямой 20×145×3 м, сорт C",
+      "group": "Планкен прямой",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Планкен прямой Сосна \"АВ\" 20*140*3000мм НК",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=506",
+          "price": 900,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "title": "Планкен прямой 20×145×6 м, сорт ABC",
+      "group": "Планкен прямой",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [
+        {
+          "title": "Планкен прямой Сосна \"С\" 20*140*6000мм",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=721",
+          "price": 1004.7619047619048,
+          "stock": "В наличии: 7 шт"
+        }
+      ],
+      "references": [
+        {
+          "title": "Планкен прямой Сосна \"АВ\" 20*140*6000мм",
+          "url": "https://terem-krym.ru/tovar/3305",
+          "price": 1376.1904761904761,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "title": "Планкен прямой 20×145×3 м, сорт AB",
+      "group": "Планкен прямой",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [
+        {
+          "title": "Планкен прямой Сосна \"АВ\" 20*140*3000мм НК",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=506",
+          "price": 900,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        }
+      ],
+      "references": []
+    },
+    {
+      "title": "Планкен прямой 20×145×6 м, сорт AB",
+      "group": "Планкен прямой",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [
+        {
+          "title": "Планкен прямой Сосна \"АВ\" 20*140*6000мм",
+          "url": "https://terem-krym.ru/tovar/3305",
+          "price": 1376.1904761904761,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        }
+      ],
+      "references": [
+        {
+          "title": "Планкен прямой Сосна \"С\" 20*140*6000мм",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=721",
+          "price": 1004.7619047619048,
+          "stock": "В наличии: 7 шт",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "title": "Планкен прямой 20×90 мм, длина не указана, сорт ПРИМА",
+      "group": "Планкен прямой",
+      "wood": "лиственница",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Планкен прямой лиственница \"C\" 20*65*3000мм*12шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1724",
+          "price": 1876.4957264957266,
+          "stock": "В наличии: 0.33 упак",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш ПРИМА; Терем C."
+          ]
+        },
+        {
+          "title": "Планкен прямой лиственница \"А\" 20*120*4000мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3141",
+          "price": 3372.5694444444443,
+          "stock": "В наличии: 1.824 упак",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш ПРИМА; Терем A."
+          ]
+        },
+        {
+          "title": "Планкен прямой лиственница \"А\" 20*140*3500мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2087",
+          "price": 3372.789115646259,
+          "stock": "В наличии: 6 упак",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш ПРИМА; Терем A."
+          ]
+        },
+        {
+          "title": "Планкен прямой лиственница \"А\" 20*140*4000мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2191",
+          "price": 3372.916666666666,
+          "stock": "В наличии: 10.834 упак",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш ПРИМА; Терем A."
+          ]
+        },
+        {
+          "title": "Планкен прямой лиственница \"В\" 20*120*3500мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3010",
+          "price": 2354.761904761905,
+          "stock": "В наличии: 1.331 упак",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш ПРИМА; Терем B."
+          ]
+        },
+        {
+          "title": "Планкен прямой лиственница \"В\" 20*140*3500мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1922",
+          "price": 2354.7619047619046,
+          "stock": "В наличии: 14 упак",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш ПРИМА; Терем B."
+          ]
+        },
+        {
+          "title": "Планкен прямой лиственница \"В\" 20*140*4000мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2015",
+          "price": 2354.7619047619046,
+          "stock": "В наличии: 224 упак",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш ПРИМА; Терем B."
+          ]
+        },
+        {
+          "title": "Планкен прямой лиственница \"С\" 20*120*3500мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3003",
+          "price": 1923.015873015873,
+          "stock": "В наличии: 2 упак",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш ПРИМА; Терем C."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Планкен прямой 20×90 мм, длина не указана, сорт AB",
+      "group": "Планкен прямой",
+      "wood": "лиственница",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Планкен прямой лиственница \"C\" 20*65*3000мм*12шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1724",
+          "price": 1876.4957264957266,
+          "stock": "В наличии: 0.33 упак",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем C."
+          ]
+        },
+        {
+          "title": "Планкен прямой лиственница \"А\" 20*120*4000мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3141",
+          "price": 3372.5694444444443,
+          "stock": "В наличии: 1.824 упак",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем A."
+          ]
+        },
+        {
+          "title": "Планкен прямой лиственница \"А\" 20*140*3500мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2087",
+          "price": 3372.789115646259,
+          "stock": "В наличии: 6 упак",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем A."
+          ]
+        },
+        {
+          "title": "Планкен прямой лиственница \"А\" 20*140*4000мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2191",
+          "price": 3372.916666666666,
+          "stock": "В наличии: 10.834 упак",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем A."
+          ]
+        },
+        {
+          "title": "Планкен прямой лиственница \"В\" 20*120*3500мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3010",
+          "price": 2354.761904761905,
+          "stock": "В наличии: 1.331 упак",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем B."
+          ]
+        },
+        {
+          "title": "Планкен прямой лиственница \"В\" 20*140*3500мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1922",
+          "price": 2354.7619047619046,
+          "stock": "В наличии: 14 упак",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем B."
+          ]
+        },
+        {
+          "title": "Планкен прямой лиственница \"В\" 20*140*4000мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2015",
+          "price": 2354.7619047619046,
+          "stock": "В наличии: 224 упак",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем B."
+          ]
+        },
+        {
+          "title": "Планкен прямой лиственница \"С\" 20*120*3500мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3003",
+          "price": 1923.015873015873,
+          "stock": "В наличии: 2 упак",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем C."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Планкен прямой 20×90 мм, длина не указана, сорт BC",
+      "group": "Планкен прямой",
+      "wood": "лиственница",
+      "unit": "м²",
+      "matches": [
+        {
+          "title": "Планкен прямой лиственница \"C\" 20*65*3000мм*12шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1724",
+          "price": 1876.4957264957266,
+          "stock": "В наличии: 0.33 упак"
+        },
+        {
+          "title": "Планкен прямой лиственница \"С\" 20*120*3500мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3003",
+          "price": 1923.015873015873,
+          "stock": "В наличии: 2 упак"
+        },
+        {
+          "title": "Планкен прямой лиственница \"С\" 20*120*4000мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3041",
+          "price": 1876.388888888889,
+          "stock": "В наличии: 4.333 упак"
+        },
+        {
+          "title": "Планкен прямой лиственница \"С\" 20*140*2500мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1640",
+          "price": 1876.666666666667,
+          "stock": "В наличии: 0.33 упак"
+        },
+        {
+          "title": "Планкен прямой лиственница \"С\" 20*140*4000мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1842",
+          "price": 1876.488095238095,
+          "stock": "В наличии: 83 упак"
+        },
+        {
+          "title": "Планкен прямой лиственница \"C\" 20*96*4000мм*8шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2966",
+          "price": 1186.1979166666667,
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен прямой лиственница \"С\" 20*100*3000мм*8шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2852",
+          "price": 1076.25,
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен прямой лиственница \"С\" 20*120*2500мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2868",
+          "price": 1428.888888888889,
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен прямой лиственница \"С\" 20*120*3000мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1581",
+          "price": 1401.388888888889,
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен прямой лиственница \"С\" 20*120*3000мм*8шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2898",
+          "price": 1085.4166666666667,
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен прямой лиственница \"С\" 20*140*3000мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1698",
+          "price": 1923.015873015873,
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен прямой лиственница \"С\" 20*140*3500мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1882",
+          "price": 1876.530612244898,
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен прямой лиственница \"С\" 20*96*3000мм*8шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2975",
+          "price": 1905.3819444444446,
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен прямой лиственница \"С\" 20*96*4000мм*8шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3036",
+          "price": 1569.0104166666667,
+          "stock": "Нет в наличии"
+        }
+      ],
+      "references": [
+        {
+          "title": "Планкен прямой лиственница \"C\" 20*65*3000мм*12шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1724",
+          "price": 1876.4957264957266,
+          "stock": "В наличии: 0.33 упак",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш BC; Терем C."
+          ]
+        },
+        {
+          "title": "Планкен прямой лиственница \"А\" 20*120*4000мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3141",
+          "price": 3372.5694444444443,
+          "stock": "В наличии: 1.824 упак",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш BC; Терем A."
+          ]
+        },
+        {
+          "title": "Планкен прямой лиственница \"А\" 20*140*3500мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2087",
+          "price": 3372.789115646259,
+          "stock": "В наличии: 6 упак",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш BC; Терем A."
+          ]
+        },
+        {
+          "title": "Планкен прямой лиственница \"А\" 20*140*4000мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2191",
+          "price": 3372.916666666666,
+          "stock": "В наличии: 10.834 упак",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш BC; Терем A."
+          ]
+        },
+        {
+          "title": "Планкен прямой лиственница \"В\" 20*120*3500мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3010",
+          "price": 2354.761904761905,
+          "stock": "В наличии: 1.331 упак",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш BC; Терем B."
+          ]
+        },
+        {
+          "title": "Планкен прямой лиственница \"В\" 20*140*3500мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1922",
+          "price": 2354.7619047619046,
+          "stock": "В наличии: 14 упак",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш BC; Терем B."
+          ]
+        },
+        {
+          "title": "Планкен прямой лиственница \"В\" 20*140*4000мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2015",
+          "price": 2354.7619047619046,
+          "stock": "В наличии: 224 упак",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш BC; Терем B."
+          ]
+        },
+        {
+          "title": "Планкен прямой лиственница \"С\" 20*120*3500мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3003",
+          "price": 1923.015873015873,
+          "stock": "В наличии: 2 упак",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш BC; Терем C."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Планкен скошенный 20×80×3 м, сорт C",
+      "group": "Планкен скошенный",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Планкен скошенный 20×80×6 м, сорт ABC",
+      "group": "Планкен скошенный",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Планкен скошенный 20×80×3 м, сорт AB",
+      "group": "Планкен скошенный",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Планкен скошенный 20×80×6 м, сорт AB",
+      "group": "Планкен скошенный",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Планкен скошенный 20×120×3 м, сорт C",
+      "group": "Планкен скошенный",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Планкен скошенный Сосна \"АВ\" 20*120*3000мм*1шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=481",
+          "price": 1158.3333333333335,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш C; Терем AB.",
+            "Уточнить породу: сосна."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Планкен скошенный 20×120×6 м, сорт ABC",
+      "group": "Планкен скошенный",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Планкен скошенный Сосна \"АВ\" 20*115*6000мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2792",
+          "price": 508.45410628019323,
+          "stock": "Нет в наличии",
+          "notes": null
+        },
+        {
+          "title": "Планкен скошенный Сосна \"АВ\" 20*120*6000мм*1шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=800",
+          "price": 1222.2222222222222,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш ABC; Терем AB.",
+            "Уточнить породу: сосна."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Планкен скошенный 20×120×3 м, сорт AB",
+      "group": "Планкен скошенный",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [
+        {
+          "title": "Планкен скошенный Сосна \"АВ\" 20*120*3000мм*1шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=481",
+          "price": 1158.3333333333335,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        }
+      ],
+      "references": [
+        {
+          "title": "Планкен скошенный Сосна \"АВ\" 20*120*3000мм*1шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=481",
+          "price": 1158.3333333333335,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Уточнить породу: сосна."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Планкен скошенный 20×120×6 м, сорт AB",
+      "group": "Планкен скошенный",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [
+        {
+          "title": "Планкен скошенный Сосна \"АВ\" 20*115*6000мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2792",
+          "price": 508.45410628019323,
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен скошенный Сосна \"АВ\" 20*120*6000мм*1шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=800",
+          "price": 1222.2222222222222,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        }
+      ],
+      "references": [
+        {
+          "title": "Планкен скошенный Сосна \"АВ\" 20*120*6000мм*1шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=800",
+          "price": 1222.2222222222222,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Уточнить породу: сосна."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Планкен скошенный 20×145×3 м, сорт C",
+      "group": "Планкен скошенный",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Планкен скошенный Сосна \"АВ\" 20*140*3000мм*1шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=476",
+          "price": 1159.5238095238096,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": null
+        },
+        {
+          "title": "Планкен скошенный Сосна \"АВ\" 20*140*3000мм*5шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2634",
+          "price": 577.1428571428572,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "title": "Планкен скошенный 20×145×6 м, сорт ABC",
+      "group": "Планкен скошенный",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Планкен скошенный Сосна \"АВ\" 20*140*6000мм*1шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=893",
+          "price": 1222.6190476190477,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": null
+        },
+        {
+          "title": "Планкен скошенный Сосна \"АВ\" 20*140*6000мм*5шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2799",
+          "price": 576.9047619047619,
+          "stock": "Нет в наличии",
+          "notes": null
+        },
+        {
+          "title": "Планкен скошенный Сосна \"АВ\" 20*140*6000мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2909",
+          "price": 622.6190476190476,
+          "stock": "Нет в наличии",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "title": "Планкен скошенный 20×145×3 м, сорт AB",
+      "group": "Планкен скошенный",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [
+        {
+          "title": "Планкен скошенный Сосна \"АВ\" 20*140*3000мм*1шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=476",
+          "price": 1159.5238095238096,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        }
+      ],
+      "references": [
+        {
+          "title": "Планкен скошенный Сосна \"АВ\" 20*140*3000мм*5шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2634",
+          "price": 577.1428571428572,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "title": "Планкен скошенный 20×145×6 м, сорт AB",
+      "group": "Планкен скошенный",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [
+        {
+          "title": "Планкен скошенный Сосна \"АВ\" 20*140*6000мм*1шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=893",
+          "price": 1222.6190476190477,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        },
+        {
+          "title": "Планкен скошенный Сосна \"АВ\" 20*140*6000мм*5шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2799",
+          "price": 576.9047619047619,
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен скошенный Сосна \"АВ\" 20*140*6000мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2909",
+          "price": 622.6190476190476,
+          "stock": "Нет в наличии"
+        }
+      ],
+      "references": []
+    },
+    {
+      "title": "Планкен скошенный 20×96 мм, длина не указана, сорт AB",
+      "group": "Планкен скошенный",
+      "wood": "лиственница",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Планкен скошенный лиственница \"А\" 20*120*4000мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3227",
+          "price": 3370.138888888889,
+          "stock": "В наличии: 3 упак",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем A."
+          ]
+        },
+        {
+          "title": "Планкен скошенный лиственница \"А\" 20*140*3500мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3155",
+          "price": 3372.789115646259,
+          "stock": "В наличии: 1 упак",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем A."
+          ]
+        },
+        {
+          "title": "Планкен скошенный лиственница \"А\" 20*140*4000мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2146",
+          "price": 3372.916666666666,
+          "stock": "В наличии: 97 упак",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем A."
+          ]
+        },
+        {
+          "title": "Планкен скошенный лиственница \"В\" 20*120*4000мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3225",
+          "price": 2362.5,
+          "stock": "В наличии: 3.5 упак",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем B."
+          ]
+        },
+        {
+          "title": "Планкен скошенный лиственница \"В\" 20*140*3500мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1912",
+          "price": 2354.7619047619046,
+          "stock": "В наличии: 1 упак",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем B."
+          ]
+        },
+        {
+          "title": "Планкен скошенный лиственница \"В\" 20*140*4000мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2033",
+          "price": 2354.7619047619046,
+          "stock": "В наличии: 4.337 упак",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем B."
+          ]
+        },
+        {
+          "title": "Планкен скошенный лиственница \"С\" 20*140*4000мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1823",
+          "price": 1876.488095238095,
+          "stock": "В наличии: 61 упак",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем C."
+          ]
+        },
+        {
+          "title": "Планкен скошенный лиственница \"Экстра\" 20*120*4000мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3231",
+          "price": 4227.083333333334,
+          "stock": "В наличии: 3 упак",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем ЭКСТРА."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Планкен скошенный 20×96 мм, длина не указана, сорт BC",
+      "group": "Планкен скошенный",
+      "wood": "лиственница",
+      "unit": "м²",
+      "matches": [
+        {
+          "title": "Планкен скошенный лиственница \"С\" 20*140*4000мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1823",
+          "price": 1876.488095238095,
+          "stock": "В наличии: 61 упак"
+        },
+        {
+          "title": "Планкен скошенный лиственница \"C\" 20*140*3000мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2981",
+          "price": 1642.063492063492,
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен скошенный лиственница \"С\" 20*140*2000мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2771",
+          "price": 1191.0714285714284,
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен скошенный лиственница \"С\" 20*140*2500мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2837",
+          "price": 1189.5238095238096,
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен скошенный лиственница \"С\" 20*140*2900мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2866",
+          "price": 1191.2972085385877,
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен скошенный лиственница \"С\" 20*140*3500мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3037",
+          "price": 1643.1972789115646,
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен скошенный сращ листвен \"С\" 20*85*4000мм*8шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1653",
+          "price": 1353.3088235294117,
+          "stock": "Нет в наличии"
+        }
+      ],
+      "references": [
+        {
+          "title": "Планкен скошенный лиственница \"А\" 20*120*4000мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3227",
+          "price": 3370.138888888889,
+          "stock": "В наличии: 3 упак",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш BC; Терем A."
+          ]
+        },
+        {
+          "title": "Планкен скошенный лиственница \"А\" 20*140*3500мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3155",
+          "price": 3372.789115646259,
+          "stock": "В наличии: 1 упак",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш BC; Терем A."
+          ]
+        },
+        {
+          "title": "Планкен скошенный лиственница \"А\" 20*140*4000мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2146",
+          "price": 3372.916666666666,
+          "stock": "В наличии: 97 упак",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш BC; Терем A."
+          ]
+        },
+        {
+          "title": "Планкен скошенный лиственница \"В\" 20*120*4000мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3225",
+          "price": 2362.5,
+          "stock": "В наличии: 3.5 упак",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш BC; Терем B."
+          ]
+        },
+        {
+          "title": "Планкен скошенный лиственница \"В\" 20*140*3500мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1912",
+          "price": 2354.7619047619046,
+          "stock": "В наличии: 1 упак",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш BC; Терем B."
+          ]
+        },
+        {
+          "title": "Планкен скошенный лиственница \"В\" 20*140*4000мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2033",
+          "price": 2354.7619047619046,
+          "stock": "В наличии: 4.337 упак",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш BC; Терем B."
+          ]
+        },
+        {
+          "title": "Планкен скошенный лиственница \"С\" 20*140*4000мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1823",
+          "price": 1876.488095238095,
+          "stock": "В наличии: 61 упак",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш BC; Терем C."
+          ]
+        },
+        {
+          "title": "Планкен скошенный лиственница \"Экстра\" 20*120*4000мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3231",
+          "price": 4227.083333333334,
+          "stock": "В наличии: 3 упак",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш BC; Терем ЭКСТРА."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Плинтус Евро 60 мм, сорт не указан",
+      "group": "Плинтус",
+      "wood": "ель/сосна",
+      "unit": "пог. м",
+      "matches": [],
+      "references": [
+        {
+          "title": "Плинтус хвоя \"60\"-2,5м",
+          "url": "https://terem-krym.ru/tovar/2392",
+          "price": 131.2,
+          "stock": "В наличии: 150 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш НЕ УКАЗАН; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Наша толщина не опубликована; Терем 0 мм.",
+            "Наша длина не опубликована; Терем 2.5 м.",
+            "Уточнить форму погонажа; сравнение по ширине, цена за погонный метр."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Плинтус Евро 50 мм, сорт не указан",
+      "group": "Плинтус",
+      "wood": "ель/сосна",
+      "unit": "пог. м",
+      "matches": [],
+      "references": [
+        {
+          "title": "Плинтус хвоя \"50\"-2,5м",
+          "url": "https://terem-krym.ru/tovar/2400",
+          "price": 108.4,
+          "stock": "В наличии: 102 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш НЕ УКАЗАН; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Наша толщина не опубликована; Терем 0 мм.",
+            "Наша длина не опубликована; Терем 2.5 м.",
+            "Уточнить форму погонажа; сравнение по ширине, цена за погонный метр."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Плинтус Гладкий/фигурный 90 мм, сорт не указан",
+      "group": "Плинтус",
+      "wood": "ель/сосна",
+      "unit": "пог. м",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Плинтус Гладкий/фигурный 60 мм, сорт не указан",
+      "group": "Плинтус",
+      "wood": "ель/сосна",
+      "unit": "пог. м",
+      "matches": [],
+      "references": [
+        {
+          "title": "Плинтус хвоя \"60\"-2,5м",
+          "url": "https://terem-krym.ru/tovar/2392",
+          "price": 131.2,
+          "stock": "В наличии: 150 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш НЕ УКАЗАН; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Наша толщина не опубликована; Терем 0 мм.",
+            "Наша длина не опубликована; Терем 2.5 м.",
+            "Уточнить форму погонажа; сравнение по ширине, цена за погонный метр."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Плинтус Гладкий/фигурный 50 мм, сорт не указан",
+      "group": "Плинтус",
+      "wood": "ель/сосна",
+      "unit": "пог. м",
+      "matches": [],
+      "references": [
+        {
+          "title": "Плинтус хвоя \"50\"-2,5м",
+          "url": "https://terem-krym.ru/tovar/2400",
+          "price": 108.4,
+          "stock": "В наличии: 102 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш НЕ УКАЗАН; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Наша толщина не опубликована; Терем 0 мм.",
+            "Наша длина не опубликована; Терем 2.5 м.",
+            "Уточнить форму погонажа; сравнение по ширине, цена за погонный метр."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Плинтус Гладкий/фигурный 45 мм, сорт не указан",
+      "group": "Плинтус",
+      "wood": "ель/сосна",
+      "unit": "пог. м",
+      "matches": [],
+      "references": [
+        {
+          "title": "Плинтус ольха \"45\"-1,8м",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=130",
+          "price": 100.55555555555556,
+          "stock": "В наличии: 1 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш НЕ УКАЗАН; Терем НЕ УКАЗАН.",
+            "Уточнить породу: не указана.",
+            "Наша толщина не опубликована; Терем 0 мм.",
+            "Наша длина не опубликована; Терем 1.8 м.",
+            "Уточнить форму погонажа; сравнение по ширине, цена за погонный метр."
+          ]
+        },
+        {
+          "title": "Плинтус ольха \"45\"-2,0м",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=131",
+          "price": 101,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш НЕ УКАЗАН; Терем НЕ УКАЗАН.",
+            "Уточнить породу: не указана.",
+            "Наша толщина не опубликована; Терем 0 мм.",
+            "Наша длина не опубликована; Терем 2 м.",
+            "Уточнить форму погонажа; сравнение по ширине, цена за погонный метр."
+          ]
+        },
+        {
+          "title": "Плинтус ольха \"45\"-2,2м",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=230",
+          "price": 100.9090909090909,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш НЕ УКАЗАН; Терем НЕ УКАЗАН.",
+            "Уточнить породу: не указана.",
+            "Наша толщина не опубликована; Терем 0 мм.",
+            "Наша длина не опубликована; Терем 2.2 м.",
+            "Уточнить форму погонажа; сравнение по ширине, цена за погонный метр."
+          ]
+        },
+        {
+          "title": "Плинтус ольха \"45\"-2,5м",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=218",
+          "price": 100.8,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш НЕ УКАЗАН; Терем НЕ УКАЗАН.",
+            "Уточнить породу: не указана.",
+            "Наша толщина не опубликована; Терем 0 мм.",
+            "Наша длина не опубликована; Терем 2.5 м.",
+            "Уточнить форму погонажа; сравнение по ширине, цена за погонный метр."
+          ]
+        },
+        {
+          "title": "Плинтус хвоя \"45\"-3,0м",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=312",
+          "price": 104.33333333333333,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш НЕ УКАЗАН; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Наша толщина не опубликована; Терем 0 мм.",
+            "Наша длина не опубликована; Терем 3 м.",
+            "Уточнить форму погонажа; сравнение по ширине, цена за погонный метр."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Плинтус Гладкий/фигурный 35 мм, сорт не указан",
+      "group": "Плинтус",
+      "wood": "ель/сосна",
+      "unit": "пог. м",
+      "matches": [],
+      "references": [
+        {
+          "title": "Плинтус хвоя \"35\"-2,5м",
+          "url": "https://terem-krym.ru/tovar/2410",
+          "price": 78.8,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш НЕ УКАЗАН; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Наша толщина не опубликована; Терем 0 мм.",
+            "Наша длина не опубликована; Терем 2.5 м.",
+            "Уточнить форму погонажа; сравнение по ширине, цена за погонный метр."
+          ]
+        },
+        {
+          "title": "Плинтус хвоя \"35\"-3,0м",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=222",
+          "price": 77.33333333333333,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш НЕ УКАЗАН; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Наша толщина не опубликована; Терем 0 мм.",
+            "Наша длина не опубликована; Терем 3 м.",
+            "Уточнить форму погонажа; сравнение по ширине, цена за погонный метр."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Плинтус Гладкий/фигурный 30 мм, сорт не указан",
+      "group": "Плинтус",
+      "wood": "ель/сосна",
+      "unit": "пог. м",
+      "matches": [],
+      "references": [
+        {
+          "title": "Плинтус хвоя \"30\"-2,5м",
+          "url": "https://terem-krym.ru/tovar/3426",
+          "price": 71.2,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш НЕ УКАЗАН; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Наша толщина не опубликована; Терем 0 мм.",
+            "Наша длина не опубликована; Терем 2.5 м.",
+            "Уточнить форму погонажа; сравнение по ширине, цена за погонный метр."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Плинтус Гладкий/фигурный 25 мм, сорт не указан",
+      "group": "Плинтус",
+      "wood": "ель/сосна",
+      "unit": "пог. м",
+      "matches": [],
+      "references": [
+        {
+          "title": "Плинтус хвоя \"25\"-2,5м",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2223",
+          "price": 50.4,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш НЕ УКАЗАН; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Наша толщина не опубликована; Терем 0 мм.",
+            "Наша длина не опубликована; Терем 2.5 м.",
+            "Уточнить форму погонажа; сравнение по ширине, цена за погонный метр."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Раскладка / нащельник 0×50 мм, длина не указана, сорт НЕ УКАЗАН",
+      "group": "Раскладка / нащельник",
+      "wood": "ель/сосна",
+      "unit": "пог. м",
+      "matches": [],
+      "references": [
+        {
+          "title": "Раскладка 10*50-2,5м гл.",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=246",
+          "price": 91.2,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш НЕ УКАЗАН; Терем НЕ УКАЗАН.",
+            "Уточнить породу: не указана.",
+            "Наша толщина не опубликована; Терем 10 мм.",
+            "Наша длина не опубликована; Терем 2.5 м.",
+            "Уточнить форму погонажа; сравнение по ширине, цена за погонный метр."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Раскладка / нащельник 0×40 мм, длина не указана, сорт НЕ УКАЗАН",
+      "group": "Раскладка / нащельник",
+      "wood": "ель/сосна",
+      "unit": "пог. м",
+      "matches": [],
+      "references": [
+        {
+          "title": "Раскладка 10*40-2,5м сфера",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=134",
+          "price": 62,
+          "stock": "В наличии: 102 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш НЕ УКАЗАН; Терем НЕ УКАЗАН.",
+            "Уточнить породу: не указана.",
+            "Наша толщина не опубликована; Терем 10 мм.",
+            "Наша длина не опубликована; Терем 2.5 м.",
+            "Уточнить форму погонажа; сравнение по ширине, цена за погонный метр."
+          ]
+        },
+        {
+          "title": "Раскладка 10*40-2,5м фигур.",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=173",
+          "price": 66,
+          "stock": "В наличии: 100 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш НЕ УКАЗАН; Терем НЕ УКАЗАН.",
+            "Уточнить породу: не указана.",
+            "Наша толщина не опубликована; Терем 10 мм.",
+            "Наша длина не опубликована; Терем 2.5 м.",
+            "Уточнить форму погонажа; сравнение по ширине, цена за погонный метр."
+          ]
+        },
+        {
+          "title": "Раскладка 10*40-2,5м гл.",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=193",
+          "price": 66,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш НЕ УКАЗАН; Терем НЕ УКАЗАН.",
+            "Уточнить породу: не указана.",
+            "Наша толщина не опубликована; Терем 10 мм.",
+            "Наша длина не опубликована; Терем 2.5 м.",
+            "Уточнить форму погонажа; сравнение по ширине, цена за погонный метр."
+          ]
+        },
+        {
+          "title": "Раскладка цельная 10*40-3,0м",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=210",
+          "price": 80,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш НЕ УКАЗАН; Терем НЕ УКАЗАН.",
+            "Уточнить породу: ель.",
+            "Наша толщина не опубликована; Терем 10 мм.",
+            "Наша длина не опубликована; Терем 3 м.",
+            "Уточнить форму погонажа; сравнение по ширине, цена за погонный метр."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Раскладка / нащельник 0×30 мм, длина не указана, сорт НЕ УКАЗАН",
+      "group": "Раскладка / нащельник",
+      "wood": "ель/сосна",
+      "unit": "пог. м",
+      "matches": [],
+      "references": [
+        {
+          "title": "Раскладка 10*30-2,5м фигур.",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=133",
+          "price": 56,
+          "stock": "В наличии: 27 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш НЕ УКАЗАН; Терем НЕ УКАЗАН.",
+            "Уточнить породу: не указана.",
+            "Наша толщина не опубликована; Терем 10 мм.",
+            "Наша длина не опубликована; Терем 2.5 м.",
+            "Уточнить форму погонажа; сравнение по ширине, цена за погонный метр."
+          ]
+        },
+        {
+          "title": "Раскладка 10*30-2,5м гл.",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=132",
+          "price": 54.8,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш НЕ УКАЗАН; Терем НЕ УКАЗАН.",
+            "Уточнить породу: не указана.",
+            "Наша толщина не опубликована; Терем 10 мм.",
+            "Наша длина не опубликована; Терем 2.5 м.",
+            "Уточнить форму погонажа; сравнение по ширине, цена за погонный метр."
+          ]
+        },
+        {
+          "title": "Раскладка 10*30-2,5м сфера",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=18",
+          "price": 51.2,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш НЕ УКАЗАН; Терем НЕ УКАЗАН.",
+            "Уточнить породу: не указана.",
+            "Наша толщина не опубликована; Терем 10 мм.",
+            "Наша длина не опубликована; Терем 2.5 м.",
+            "Уточнить форму погонажа; сравнение по ширине, цена за погонный метр."
+          ]
+        },
+        {
+          "title": "Раскладка 10*30-3м гл.",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=128",
+          "price": 67.66666666666667,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш НЕ УКАЗАН; Терем НЕ УКАЗАН.",
+            "Уточнить породу: не указана.",
+            "Наша толщина не опубликована; Терем 10 мм.",
+            "Наша длина не опубликована; Терем 3 м.",
+            "Уточнить форму погонажа; сравнение по ширине, цена за погонный метр."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Рейка строганая 20×50 мм, длина не указана, сорт AB",
+      "group": "Рейка строганая",
+      "wood": "ель/сосна",
+      "unit": "пог. м",
+      "matches": [
+        {
+          "title": "Брусок сосна \"АВ\" 20*50*3000мм (профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=205",
+          "price": 65,
+          "stock": "В наличии: 190 шт"
+        },
+        {
+          "title": "Брусок сосна \"АВ\" 20*50*2000мм (профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2263",
+          "price": 29,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        },
+        {
+          "title": "Брусок сосна \"АВ\" 20*50*2500мм (профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2273",
+          "price": 29.2,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        },
+        {
+          "title": "Брусок сосна \"АВ\" 20*50*2700мм (профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2285",
+          "price": 38.51851851851852,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        }
+      ],
+      "references": [
+        {
+          "title": "Брусок сосна \"АВ\" 20*50*3000мм (профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=205",
+          "price": 65,
+          "stock": "В наличии: 190 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Уточнить породу: сосна.",
+            "Наша длина не опубликована; Терем 3 м."
+          ]
+        },
+        {
+          "title": "Брусок сосна \"АВ\" 20*50*2000мм (профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2263",
+          "price": 29,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Уточнить породу: сосна.",
+            "Наша длина не опубликована; Терем 2 м."
+          ]
+        },
+        {
+          "title": "Брусок сосна \"АВ\" 20*50*2500мм (профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2273",
+          "price": 29.2,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Уточнить породу: сосна.",
+            "Наша длина не опубликована; Терем 2.5 м."
+          ]
+        },
+        {
+          "title": "Брусок сосна \"АВ\" 20*50*2700мм (профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2285",
+          "price": 38.51851851851852,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Уточнить породу: сосна.",
+            "Наша длина не опубликована; Терем 2.7 м."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Рейка строганая 20×50 мм, длина не указана, сорт BC",
+      "group": "Рейка строганая",
+      "wood": "ель/сосна",
+      "unit": "пог. м",
+      "matches": [],
+      "references": [
+        {
+          "title": "Брусок сосна \"АВ\" 20*50*3000мм (профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=205",
+          "price": 65,
+          "stock": "В наличии: 190 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш BC; Терем AB.",
+            "Уточнить породу: сосна.",
+            "Наша длина не опубликована; Терем 3 м."
+          ]
+        },
+        {
+          "title": "Брусок сосна \"АВ\" 20*50*2000мм (профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2263",
+          "price": 29,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш BC; Терем AB.",
+            "Уточнить породу: сосна.",
+            "Наша длина не опубликована; Терем 2 м."
+          ]
+        },
+        {
+          "title": "Брусок сосна \"АВ\" 20*50*2500мм (профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2273",
+          "price": 29.2,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш BC; Терем AB.",
+            "Уточнить породу: сосна.",
+            "Наша длина не опубликована; Терем 2.5 м."
+          ]
+        },
+        {
+          "title": "Брусок сосна \"АВ\" 20*50*2700мм (профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2285",
+          "price": 38.51851851851852,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш BC; Терем AB.",
+            "Уточнить породу: сосна.",
+            "Наша длина не опубликована; Терем 2.7 м."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Рейка строганая 20×40 мм, длина не указана, сорт AB",
+      "group": "Рейка строганая",
+      "wood": "ель/сосна",
+      "unit": "пог. м",
+      "matches": [
+        {
+          "title": "Брусок сосна \"АВ\" 20*40*3000мм (профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=209",
+          "price": 46.333333333333336,
+          "stock": "В наличии: 2431 шт"
+        },
+        {
+          "title": "Брусок сосна \"АВ\" 20*40*2000мм (профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/tovar/2219",
+          "price": 27.5,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        },
+        {
+          "title": "Брусок сосна \"АВ\" 20*40*2200мм (профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2255",
+          "price": 20,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        },
+        {
+          "title": "Брусок сосна \"АВ\" 20*40*2500мм (профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2271",
+          "price": 28,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        },
+        {
+          "title": "Брусок сосна \"АВ\" 20*40*2700мм (профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2277",
+          "price": 28.888888888888886,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        }
+      ],
+      "references": [
+        {
+          "title": "Брусок сосна \"АВ\" 20*40*3000мм (профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=209",
+          "price": 46.333333333333336,
+          "stock": "В наличии: 2431 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Уточнить породу: сосна.",
+            "Наша длина не опубликована; Терем 3 м."
+          ]
+        },
+        {
+          "title": "Брусок сосна \"С\" 20*40*3000мм (профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=23",
+          "price": 37.333333333333336,
+          "stock": "В наличии: 1544 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем C.",
+            "Уточнить породу: сосна.",
+            "Наша длина не опубликована; Терем 3 м."
+          ]
+        },
+        {
+          "title": "Брусок сосна \"АВ\" 20*40*2000мм (профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/tovar/2219",
+          "price": 27.5,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Уточнить породу: сосна.",
+            "Наша длина не опубликована; Терем 2 м."
+          ]
+        },
+        {
+          "title": "Брусок сосна \"АВ\" 20*40*2200мм (профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2255",
+          "price": 20,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Уточнить породу: сосна.",
+            "Наша длина не опубликована; Терем 2.2 м."
+          ]
+        },
+        {
+          "title": "Брусок сосна \"АВ\" 20*40*2500мм (профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2271",
+          "price": 28,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Уточнить породу: сосна.",
+            "Наша длина не опубликована; Терем 2.5 м."
+          ]
+        },
+        {
+          "title": "Брусок сосна \"АВ\" 20*40*2700мм (профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2277",
+          "price": 28.888888888888886,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Уточнить породу: сосна.",
+            "Наша длина не опубликована; Терем 2.7 м."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Рейка строганая 20×40 мм, длина не указана, сорт BC",
+      "group": "Рейка строганая",
+      "wood": "ель/сосна",
+      "unit": "пог. м",
+      "matches": [
+        {
+          "title": "Брусок сосна \"С\" 20*40*3000мм (профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=23",
+          "price": 37.333333333333336,
+          "stock": "В наличии: 1544 шт"
+        }
+      ],
+      "references": [
+        {
+          "title": "Брусок сосна \"АВ\" 20*40*3000мм (профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=209",
+          "price": 46.333333333333336,
+          "stock": "В наличии: 2431 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш BC; Терем AB.",
+            "Уточнить породу: сосна.",
+            "Наша длина не опубликована; Терем 3 м."
+          ]
+        },
+        {
+          "title": "Брусок сосна \"С\" 20*40*3000мм (профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=23",
+          "price": 37.333333333333336,
+          "stock": "В наличии: 1544 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш BC; Терем C.",
+            "Уточнить породу: сосна.",
+            "Наша длина не опубликована; Терем 3 м."
+          ]
+        },
+        {
+          "title": "Брусок сосна \"АВ\" 20*40*2000мм (профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/tovar/2219",
+          "price": 27.5,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш BC; Терем AB.",
+            "Уточнить породу: сосна.",
+            "Наша длина не опубликована; Терем 2 м."
+          ]
+        },
+        {
+          "title": "Брусок сосна \"АВ\" 20*40*2200мм (профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2255",
+          "price": 20,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш BC; Терем AB.",
+            "Уточнить породу: сосна.",
+            "Наша длина не опубликована; Терем 2.2 м."
+          ]
+        },
+        {
+          "title": "Брусок сосна \"АВ\" 20*40*2500мм (профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2271",
+          "price": 28,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш BC; Терем AB.",
+            "Уточнить породу: сосна.",
+            "Наша длина не опубликована; Терем 2.5 м."
+          ]
+        },
+        {
+          "title": "Брусок сосна \"АВ\" 20*40*2700мм (профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2277",
+          "price": 28.888888888888886,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш BC; Терем AB.",
+            "Уточнить породу: сосна.",
+            "Наша длина не опубликована; Терем 2.7 м."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Рейка строганая 20×30 мм, длина не указана, сорт AB",
+      "group": "Рейка строганая",
+      "wood": "ель/сосна",
+      "unit": "пог. м",
+      "matches": [
+        {
+          "title": "Брусок сосна \"АВ\" 20*30*2000мм (профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2257",
+          "price": 26,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        },
+        {
+          "title": "Брусок сосна \"АВ\" 20*30*2200мм (профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2262",
+          "price": 26.36363636363636,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        },
+        {
+          "title": "Брусок сосна \"АВ\" 20*30*3000мм (профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=33",
+          "price": 12.333333333333334,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        }
+      ],
+      "references": [
+        {
+          "title": "Брусок сосна \"АВ\" 20*30*2000мм (профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2257",
+          "price": 26,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Уточнить породу: сосна.",
+            "Наша длина не опубликована; Терем 2 м."
+          ]
+        },
+        {
+          "title": "Брусок сосна \"АВ\" 20*30*2200мм (профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2262",
+          "price": 26.36363636363636,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Уточнить породу: сосна.",
+            "Наша длина не опубликована; Терем 2.2 м."
+          ]
+        },
+        {
+          "title": "Брусок сосна \"АВ\" 20*30*3000мм (профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=33",
+          "price": 12.333333333333334,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Уточнить породу: сосна.",
+            "Наша длина не опубликована; Терем 3 м."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Рейка строганая 20×30 мм, длина не указана, сорт BC",
+      "group": "Рейка строганая",
+      "wood": "ель/сосна",
+      "unit": "пог. м",
+      "matches": [],
+      "references": [
+        {
+          "title": "Брусок сосна \"АВ\" 20*30*2000мм (профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2257",
+          "price": 26,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш BC; Терем AB.",
+            "Уточнить породу: сосна.",
+            "Наша длина не опубликована; Терем 2 м."
+          ]
+        },
+        {
+          "title": "Брусок сосна \"АВ\" 20*30*2200мм (профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2262",
+          "price": 26.36363636363636,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш BC; Терем AB.",
+            "Уточнить породу: сосна.",
+            "Наша длина не опубликована; Терем 2.2 м."
+          ]
+        },
+        {
+          "title": "Брусок сосна \"АВ\" 20*30*3000мм (профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=33",
+          "price": 12.333333333333334,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш BC; Терем AB.",
+            "Уточнить породу: сосна.",
+            "Наша длина не опубликована; Терем 3 м."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Рейка строганая 15×40 мм, длина не указана, сорт AB",
+      "group": "Рейка строганая",
+      "wood": "ель/сосна",
+      "unit": "пог. м",
+      "matches": [
+        {
+          "title": "Брусок сосна \"АВ\" 15*40*2000мм (профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2265",
+          "price": 31,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        },
+        {
+          "title": "Брусок сосна \"АВ\" 15*40*3000мм (профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2259",
+          "price": 17.666666666666668,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        }
+      ],
+      "references": [
+        {
+          "title": "Брусок сосна \"АВ\" 15*40*2000мм (профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2265",
+          "price": 31,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Уточнить породу: сосна.",
+            "Наша длина не опубликована; Терем 2 м."
+          ]
+        },
+        {
+          "title": "Брусок сосна \"АВ\" 15*40*3000мм (профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2259",
+          "price": 17.666666666666668,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Уточнить породу: сосна.",
+            "Наша длина не опубликована; Терем 3 м."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Рейка строганая 15×40 мм, длина не указана, сорт BC",
+      "group": "Рейка строганая",
+      "wood": "ель/сосна",
+      "unit": "пог. м",
+      "matches": [],
+      "references": [
+        {
+          "title": "Брусок сосна \"АВ\" 15*40*2000мм (профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2265",
+          "price": 31,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш BC; Терем AB.",
+            "Уточнить породу: сосна.",
+            "Наша длина не опубликована; Терем 2 м."
+          ]
+        },
+        {
+          "title": "Брусок сосна \"АВ\" 15*40*3000мм (профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2259",
+          "price": 17.666666666666668,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш BC; Терем AB.",
+            "Уточнить породу: сосна.",
+            "Наша длина не опубликована; Терем 3 м."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Рейка строганая 15×30 мм, длина не указана, сорт AB",
+      "group": "Рейка строганая",
+      "wood": "ель/сосна",
+      "unit": "пог. м",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Рейка строганая 15×30 мм, длина не указана, сорт BC",
+      "group": "Рейка строганая",
+      "wood": "ель/сосна",
+      "unit": "пог. м",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Штапик 10×10 мм, длина не указана, сорт НЕ УКАЗАН",
+      "group": "Штапик",
+      "wood": "ель/сосна",
+      "unit": "пог. м",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Столбы для лестниц 80×80×1.2 м, сорт A",
+      "group": "Столбы для лестниц",
+      "wood": "ель/сосна",
+      "unit": "шт.",
+      "matches": [],
+      "references": [
+        {
+          "title": "Столб начальный №5 \"Симметрия\" хв. пород 80*80*1200мм",
+          "url": "https://terem-krym.ru/tovar/1011",
+          "price": 1323,
+          "stock": "В наличии: 1 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш A; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Уточнить рисунок и форму изделия."
+          ]
+        },
+        {
+          "title": "Столб начальный №10 \"Витой\" хв. пород 80*80*1200мм",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=973",
+          "price": 1533,
+          "stock": "В наличии: 5 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш A; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Уточнить рисунок и форму изделия."
+          ]
+        },
+        {
+          "title": "Столб начальный №3 \"Яблоко\" хв. пород 80*80*1200мм",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=957",
+          "price": 1310,
+          "stock": "В наличии: 12 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш A; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Уточнить рисунок и форму изделия."
+          ]
+        },
+        {
+          "title": "Столб начальный №7 \"Симметрия бочка витая\" хв. пород 80*80*1200мм",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=844",
+          "price": 1144,
+          "stock": "В наличии: 4 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш A; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Уточнить рисунок и форму изделия."
+          ]
+        },
+        {
+          "title": "Столб начальный №8 \"Косичка\" хв. пород 80*80*1200мм",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=950",
+          "price": 1342,
+          "stock": "В наличии: 9 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш A; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Уточнить рисунок и форму изделия."
+          ]
+        },
+        {
+          "title": "Столб начальный №9 \"Бочка витая\" хв. пород 80*80*1200мм",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1017",
+          "price": 1313,
+          "stock": "В наличии: 3 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш A; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Уточнить рисунок и форму изделия."
+          ]
+        },
+        {
+          "title": "Столб начальный №2 \"Грань витая\" хв. пород 80*80*1200мм",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=984",
+          "price": 1342,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш A; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Уточнить рисунок и форму изделия."
+          ]
+        },
+        {
+          "title": "Столб начальный №4 \"Симметрия витая\" хв. пород 80*80*1200мм",
+          "url": "https://terem-krym.ru/tovar/992",
+          "price": 1061,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш A; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Уточнить рисунок и форму изделия."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Столбы для лестниц 90×90×1.2 м, сорт A",
+      "group": "Столбы для лестниц",
+      "wood": "ель/сосна",
+      "unit": "шт.",
+      "matches": [],
+      "references": [
+        {
+          "title": "Столб начальный №1 \"Англия\" хв. пород 90*90*1200мм",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=978",
+          "price": 1501,
+          "stock": "В наличии: 7 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш A; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Уточнить рисунок и форму изделия."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Столбы для лестниц 90×90×1.2 м, сорт AB",
+      "group": "Столбы для лестниц",
+      "wood": "ель/сосна",
+      "unit": "шт.",
+      "matches": [],
+      "references": [
+        {
+          "title": "Столб начальный №1 \"Англия\" хв. пород 90*90*1200мм",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=978",
+          "price": 1501,
+          "stock": "В наличии: 7 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Уточнить рисунок и форму изделия."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ступени 40×200×0.8 м, сорт AB",
+      "group": "Ступени",
+      "wood": "ель/сосна",
+      "unit": "шт.",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Ступени 40×200×0.9 м, сорт AB",
+      "group": "Ступени",
+      "wood": "ель/сосна",
+      "unit": "шт.",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Ступени 40×200×1 м, сорт AB",
+      "group": "Ступени",
+      "wood": "ель/сосна",
+      "unit": "шт.",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Ступени 40×200×1.1 м, сорт AB",
+      "group": "Ступени",
+      "wood": "ель/сосна",
+      "unit": "шт.",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Ступени 40×200×1.2 м, сорт AB",
+      "group": "Ступени",
+      "wood": "ель/сосна",
+      "unit": "шт.",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Ступени 40×250×0.8 м, сорт AB",
+      "group": "Ступени",
+      "wood": "ель/сосна",
+      "unit": "шт.",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Ступени 40×250×0.9 м, сорт AB",
+      "group": "Ступени",
+      "wood": "ель/сосна",
+      "unit": "шт.",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Ступени 40×250×1 м, сорт AB",
+      "group": "Ступени",
+      "wood": "ель/сосна",
+      "unit": "шт.",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Ступени 40×250×1.1 м, сорт AB",
+      "group": "Ступени",
+      "wood": "ель/сосна",
+      "unit": "шт.",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Ступени 40×250×1.2 м, сорт AB",
+      "group": "Ступени",
+      "wood": "ель/сосна",
+      "unit": "шт.",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Ступени 40×300×0.8 м, сорт AB",
+      "group": "Ступени",
+      "wood": "ель/сосна",
+      "unit": "шт.",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Ступени 40×300×0.9 м, сорт AB",
+      "group": "Ступени",
+      "wood": "ель/сосна",
+      "unit": "шт.",
+      "matches": [],
+      "references": [
+        {
+          "title": "Ступень хв. пород 40*300*900мм",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=872",
+          "price": 1023,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Склейка Терема: не указана; вид склейки и сорт требуют подтверждения."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ступени 40×300×1 м, сорт AB",
+      "group": "Ступени",
+      "wood": "ель/сосна",
+      "unit": "шт.",
+      "matches": [],
+      "references": [
+        {
+          "title": "Ступень хв. пород 40*300*1000мм",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=868",
+          "price": 1123,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Склейка Терема: не указана; вид склейки и сорт требуют подтверждения."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ступени 40×300×1.1 м, сорт AB",
+      "group": "Ступени",
+      "wood": "ель/сосна",
+      "unit": "шт.",
+      "matches": [],
+      "references": [
+        {
+          "title": "Ступень хв. пород 40*300*1100мм",
+          "url": "https://terem-krym.ru/tovar/1016",
+          "price": 1248,
+          "stock": "В наличии: 53 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Склейка Терема: не указана; вид склейки и сорт требуют подтверждения."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ступени 40×300×1.2 м, сорт AB",
+      "group": "Ступени",
+      "wood": "ель/сосна",
+      "unit": "шт.",
+      "matches": [],
+      "references": [
+        {
+          "title": "Ступень хв. пород 40*300*1200мм",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=981",
+          "price": 1350,
+          "stock": "В наличии: 44 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Склейка Терема: не указана; вид склейки и сорт требуют подтверждения."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Уголок 0×60 мм, длина не указана, сорт НЕ УКАЗАН",
+      "group": "Уголок",
+      "wood": "ель/сосна",
+      "unit": "пог. м",
+      "matches": [],
+      "references": [
+        {
+          "title": "Уголок хвоя 60*60-2,5м",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=454",
+          "price": 168.4,
+          "stock": "В наличии: 21 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш НЕ УКАЗАН; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Наша толщина не опубликована; Терем 60 мм.",
+            "Наша длина не опубликована; Терем 2.5 м.",
+            "Уточнить форму погонажа; сравнение по ширине, цена за погонный метр."
+          ]
+        },
+        {
+          "title": "Уголок усиленный 60*60*45",
+          "url": "https://terem-krym.ru/catalog/krepej/ugolok-usilennyy-606045",
+          "price": 355.55555555555554,
+          "stock": "В наличии: 18 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш НЕ УКАЗАН; Терем НЕ УКАЗАН.",
+            "Уточнить породу: не указана.",
+            "Наша толщина не опубликована; Терем 60 мм.",
+            "Наша длина не опубликована; Терем 0.045 м.",
+            "Уточнить форму погонажа; сравнение по ширине, цена за погонный метр."
+          ]
+        },
+        {
+          "title": "Уголок хвоя 60*60-2500м НК",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=195",
+          "price": 0.044,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш НЕ УКАЗАН; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Наша толщина не опубликована; Терем 60 мм.",
+            "Наша длина не опубликована; Терем 2500 м.",
+            "Уточнить форму погонажа; сравнение по ширине, цена за погонный метр."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Уголок 0×50 мм, длина не указана, сорт НЕ УКАЗАН",
+      "group": "Уголок",
+      "wood": "ель/сосна",
+      "unit": "пог. м",
+      "matches": [],
+      "references": [
+        {
+          "title": "Уголок хвоя 50*50-2,5м",
+          "url": "https://terem-krym.ru/tovar/4334",
+          "price": 125.6,
+          "stock": "В наличии: 1 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш НЕ УКАЗАН; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Наша толщина не опубликована; Терем 50 мм.",
+            "Наша длина не опубликована; Терем 2.5 м.",
+            "Уточнить форму погонажа; сравнение по ширине, цена за погонный метр."
+          ]
+        },
+        {
+          "title": "Уголок хвоя 50*50-3,0м",
+          "url": "https://terem-krym.ru/tovar/4336",
+          "price": 125.33333333333333,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш НЕ УКАЗАН; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Наша толщина не опубликована; Терем 50 мм.",
+            "Наша длина не опубликована; Терем 3 м.",
+            "Уточнить форму погонажа; сравнение по ширине, цена за погонный метр."
+          ]
+        },
+        {
+          "title": "Уголок усиленный 50*50*35",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=40",
+          "price": 314.2857142857143,
+          "stock": "В наличии: 224 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш НЕ УКАЗАН; Терем НЕ УКАЗАН.",
+            "Уточнить породу: не указана.",
+            "Наша толщина не опубликована; Терем 50 мм.",
+            "Наша длина не опубликована; Терем 0.035 м.",
+            "Уточнить форму погонажа; сравнение по ширине, цена за погонный метр."
+          ]
+        },
+        {
+          "title": "Уголок монтажный 50*50*50*2 (50шт)",
+          "url": "https://terem-krym.ru/tovar/34",
+          "price": 960,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш НЕ УКАЗАН; Терем НЕ УКАЗАН.",
+            "Уточнить породу: не указана.",
+            "Наша толщина не опубликована; Терем 50 мм.",
+            "Наша длина не опубликована; Терем 0.05 м.",
+            "Уточнить форму погонажа; сравнение по ширине, цена за погонный метр."
+          ]
+        },
+        {
+          "title": "Уголок хвоя 50*50-2500м НК",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=84",
+          "price": 0.04,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш НЕ УКАЗАН; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Наша толщина не опубликована; Терем 50 мм.",
+            "Наша длина не опубликована; Терем 2500 м.",
+            "Уточнить форму погонажа; сравнение по ширине, цена за погонный метр."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Уголок 0×40 мм, длина не указана, сорт НЕ УКАЗАН",
+      "group": "Уголок",
+      "wood": "ель/сосна",
+      "unit": "пог. м",
+      "matches": [],
+      "references": [
+        {
+          "title": "Уголок хвоя 40*40-2,5м",
+          "url": "https://terem-krym.ru/tovar/4331",
+          "price": 120,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш НЕ УКАЗАН; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Наша толщина не опубликована; Терем 40 мм.",
+            "Наша длина не опубликована; Терем 2.5 м.",
+            "Уточнить форму погонажа; сравнение по ширине, цена за погонный метр."
+          ]
+        },
+        {
+          "title": "Уголок хвоя 40*40-3,0м",
+          "url": "https://terem-krym.ru/tovar/4332",
+          "price": 119.66666666666667,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш НЕ УКАЗАН; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Наша толщина не опубликована; Терем 40 мм.",
+            "Наша длина не опубликована; Терем 3 м.",
+            "Уточнить форму погонажа; сравнение по ширине, цена за погонный метр."
+          ]
+        },
+        {
+          "title": "Уголок монтажный 50*40*40*2 (50шт)",
+          "url": "https://terem-krym.ru/tovar/4606",
+          "price": 450,
+          "stock": "В наличии: 30 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш НЕ УКАЗАН; Терем НЕ УКАЗАН.",
+            "Уточнить породу: не указана.",
+            "Наша толщина не опубликована; Терем 50 мм.",
+            "Наша длина не опубликована; Терем 0.04 м.",
+            "Уточнить форму погонажа; сравнение по ширине, цена за погонный метр."
+          ]
+        },
+        {
+          "title": "Уголок монтажный 60*40*40*2 (50шт)",
+          "url": "https://terem-krym.ru/tovar/4616",
+          "price": 450,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш НЕ УКАЗАН; Терем НЕ УКАЗАН.",
+            "Уточнить породу: не указана.",
+            "Наша толщина не опубликована; Терем 60 мм.",
+            "Наша длина не опубликована; Терем 0.04 м.",
+            "Уточнить форму погонажа; сравнение по ширине, цена за погонный метр."
+          ]
+        },
+        {
+          "title": "Уголок хвоя 40*40-3000м НК",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=219",
+          "price": 0.06666666666666667,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш НЕ УКАЗАН; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Наша толщина не опубликована; Терем 40 мм.",
+            "Наша длина не опубликована; Терем 3000 м.",
+            "Уточнить форму погонажа; сравнение по ширине, цена за погонный метр."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Уголок 0×30 мм, длина не указана, сорт НЕ УКАЗАН",
+      "group": "Уголок",
+      "wood": "ель/сосна",
+      "unit": "пог. м",
+      "matches": [],
+      "references": [
+        {
+          "title": "Уголок хвоя 30*30-3,0м",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=310",
+          "price": 97.33333333333333,
+          "stock": "В наличии: 14 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш НЕ УКАЗАН; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Наша толщина не опубликована; Терем 30 мм.",
+            "Наша длина не опубликована; Терем 3 м.",
+            "Уточнить форму погонажа; сравнение по ширине, цена за погонный метр."
+          ]
+        },
+        {
+          "title": "Уголок хвоя 30*30-2,5м",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=223",
+          "price": 97.2,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш НЕ УКАЗАН; Терем НЕ УКАЗАН.",
+            "Уточнить породу: хвойные (порода не уточнена).",
+            "Наша толщина не опубликована; Терем 30 мм.",
+            "Наша длина не опубликована; Терем 2.5 м.",
+            "Уточнить форму погонажа; сравнение по ширине, цена за погонный метр."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Уголок 0×20 мм, длина не указана, сорт НЕ УКАЗАН",
+      "group": "Уголок",
+      "wood": "ель/сосна",
+      "unit": "пог. м",
+      "matches": [],
+      "references": []
+    }
+  ]
+}

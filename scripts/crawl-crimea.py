@@ -1,6 +1,6 @@
 import urllib.parse,urllib.request,pathlib,re,html,json,concurrent.futures,time
 OWN='https://xn----7sbatncqcefhpkufy2nd.xn--p1ai';TER='https://terem-krym.ru';folder=pathlib.Path('.tmp');folder.mkdir(exist_ok=True)
-roots=['vagonka','brus','doska_polovaya','doska_palubnaya','doska_terrasnaya','doska_strogannaya','planken','elementy-dlya-lestnic','izdelija_dlja_bani/pogonazh','plintusa','ugolki_naruzhnie','polok','pilomaterial_suhoy_obreznoy','pilomaterial_obreznoy']
+roots=['blok-haus','pogonazhnye-izdeliya','pogonazhnye-izdeliya/nalichnik','pogonazhnye-izdeliya/plintusa','elementy-dlya-lestnic/sosna','vagonka','brus','doska_polovaya','doska_palubnaya','doska_terrasnaya','doska_strogannaya','planken','elementy-dlya-lestnic','izdelija_dlja_bani/pogonazh','plintusa','ugolki_naruzhnie','polok','pilomaterial_suhoy_obreznoy','pilomaterial_obreznoy']
 def read(u):
  for n in range(2):
   try:
@@ -16,7 +16,7 @@ for p in ownLists:
   if not re.search(r'/page/|/feed/|products-category',u) and u.startswith(OWN):links.add(u)
 print('Own listings',len(ownLists),'products',len(links),flush=True)
 with concurrent.futures.ThreadPoolExecutor(max_workers=6) as ex: ownPages=list(ex.map(read,sorted(links)))
-with concurrent.futures.ThreadPoolExecutor(max_workers=6) as ex: first=list(ex.map(read,[TER+'/catalog/'+s for s in roots]+[TER+'/index.php?route=product/search&search='+urllib.parse.quote(q) for q in ['имитация','Доска сухая','Планкен']]))
+with concurrent.futures.ThreadPoolExecutor(max_workers=6) as ex: first=list(ex.map(read,[TER+'/catalog/'+s for s in roots]+[TER+'/index.php?route=product/search&search='+urllib.parse.quote(q) for q in ['имитация','Доска сухая','Планкен','Блок-хаус','Доска пола','Доска половая','Евровагонка','клееный','Площадка','Ступень','Мебельный щит','Рейка','Наличник','Плинтус','Уголок','Штапик','Раскладка','Коробка','Столб','Балясина']]))
 pages=[];more=[]
 for p in first:
  p['sourceUrl']=p['url'];pages.append(p);ns=[int(n) for n in re.findall(r'[?&](?:amp;)?page=(\d+)',p.get('html',''))];maxn=max(ns,default=1)
@@ -32,7 +32,10 @@ for p in pages:
   a=re.search(r'class=["\']product-thumb__name["\'][^>]*href=["\']([^"\']+)["\'][^>]*>(.*?)</a>',block,re.S)
   if not a:continue
   title=html.unescape(re.sub('<[^>]+>','',a[2]))
-  if re.search(r'\*\s*\d+\s*шт',title):packageLinks[html.unescape(a[1])]=title
+  if re.search(r'\*\s*\d+\s*шт',title):
+   parts=urllib.parse.urlsplit(urllib.parse.urljoin(TER,html.unescape(a[1])));query=urllib.parse.parse_qs(parts.query)
+   for key in ['search','path','page','sort','order']:query.pop(key,None)
+   canonical=urllib.parse.urlunsplit((parts.scheme,parts.netloc,parts.path,urllib.parse.urlencode(query,doseq=True),''));packageLinks[canonical]=title
 print('Package cards to verify',len(packageLinks),flush=True)
 packageCards=[]
 with concurrent.futures.ThreadPoolExecutor(max_workers=10) as ex:
