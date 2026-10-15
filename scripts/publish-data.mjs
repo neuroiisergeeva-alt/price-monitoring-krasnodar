@@ -1,3 +1,5 @@
 import fs from 'node:fs';import zlib from 'node:zlib';const bytes=fs.readFileSync('data/report.json.gz');const report=JSON.parse(zlib.gunzipSync(bytes));if(!Array.isArray(report.items)||!report.items.length)throw Error('Нет сохраненного отчета');fs.rmSync('public/data.json',{force:true});fs.mkdirSync('public/data',{recursive:true});fs.writeFileSync('public/data/report.json.gz',bytes);fs.writeFileSync('public/.nojekyll','');
 
 const cb=fs.readFileSync('data/crimea/report.json.gz');const cr=JSON.parse(zlib.gunzipSync(cb));if(!cr.items.length)throw Error('Пустой отчет Крым');fs.mkdirSync('public/data/crimea',{recursive:true});fs.writeFileSync('public/data/crimea/report.json.gz',cb);
+
+fs.copyFileSync('data/crimea/lesmarket.json.gz','public/data/crimea/lesmarket.json.gz');

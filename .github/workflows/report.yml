@@ -39,6 +39,8 @@ jobs:
           node scripts/import-crimea.mjs
           python scripts/crawl-pks.py
           node scripts/import-pks.mjs
+          python scripts/crawl-lesmarket.py
+          node scripts/import-lesmarket.mjs
       - run: npm run check
       - run: npm run build
       - name: Сохранить историю и готовую страницу
