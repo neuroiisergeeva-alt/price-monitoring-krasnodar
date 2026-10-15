@@ -229,6 +229,30 @@
       "referenceWithoutStock": false,
       "change": null,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2001"
+    },
+    {
+      "item": "Балясины 45×45×0.9 м, сорт A",
+      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/balyasiny-el-sosna/:45:45:0.9:A:main:1:",
+      "unit": "шт.",
+      "ours": 342,
+      "competitor": 324,
+      "difference": 18,
+      "availability": "В наличии: 41 шт",
+      "referenceWithoutStock": false,
+      "change": null,
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=345"
+    },
+    {
+      "item": "Балясины 50×50×0.9 м, сорт A",
+      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/balyasiny-el-sosna/:50:50:0.9:A:main:1:",
+      "unit": "шт.",
+      "ours": 425,
+      "competitor": 330,
+      "difference": 95,
+      "availability": "В наличии: 7 шт",
+      "referenceWithoutStock": false,
+      "change": null,
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=341"
     }
   ],
   "errors": [

@@ -1,5 +1,5 @@
 {
-  "at": "2026-10-15T10:21:06.470Z",
+  "at": "2026-10-15T10:29:26.029Z",
   "summary": [
     {
       "group": "Блок-хаус",
@@ -123,8 +123,8 @@
     {
       "group": "Балясины",
       "ours": 4,
-      "matched": 0,
-      "reference": 3,
+      "matched": 2,
+      "reference": 1,
       "missing": 1
     }
   ],
@@ -134,7 +134,14 @@
       "group": "Балясины",
       "wood": "ель/сосна",
       "unit": "шт.",
-      "matches": [],
+      "matches": [
+        {
+          "title": "Балясина №10 \"Витая\" хв. пород 45*45*900мм",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=345",
+          "price": 324,
+          "stock": "В наличии: 41 шт"
+        }
+      ],
       "references": [
         {
           "title": "Балясина №10 \"Витая\" хв. пород 45*45*900мм",
@@ -155,7 +162,62 @@
       "group": "Балясины",
       "wood": "ель/сосна",
       "unit": "шт.",
-      "matches": [],
+      "matches": [
+        {
+          "title": "Балясина №1 \"Англия\" хв. пород 50*50*900мм",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=344",
+          "price": 374,
+          "stock": "В наличии: 46 шт"
+        },
+        {
+          "title": "Балясина №2 \"Грань витая\" хв. пород 50*50*900мм",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=358",
+          "price": 382,
+          "stock": "В наличии: 54 шт"
+        },
+        {
+          "title": "Балясина №3 \"Яблоко\" хв. пород 50*50*900мм",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=375",
+          "price": 374,
+          "stock": "В наличии: 9 шт"
+        },
+        {
+          "title": "Балясина №4 \"Симметрия витая\" хв. пород 50*50*900мм",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=348",
+          "price": 337,
+          "stock": "В наличии: 18 шт"
+        },
+        {
+          "title": "Балясина №5 \"Симметрия\" хв. пород 50*50*900мм",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=341",
+          "price": 330,
+          "stock": "В наличии: 7 шт"
+        },
+        {
+          "title": "Балясина №6 \"Рим\" хв. пород 50*50*900мм",
+          "url": "https://terem-krym.ru/tovar/9941",
+          "price": 337,
+          "stock": "В наличии: 9 шт"
+        },
+        {
+          "title": "Балясина №7 \"Симметрия бочка витая\" хв пород 50*50*900мм",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=376",
+          "price": 337,
+          "stock": "В наличии: 2 шт"
+        },
+        {
+          "title": "Балясина №9 \"Бочка витая\" хв. пород 50*50*900мм",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=352",
+          "price": 337,
+          "stock": "В наличии: 6 шт"
+        },
+        {
+          "title": "Балясина №8 \"Косичка\" хв. пород 50*50*900мм",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=367",
+          "price": 337,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        }
+      ],
       "references": [
         {
           "title": "Балясина №1 \"Англия\" хв. пород 50*50*900мм",
