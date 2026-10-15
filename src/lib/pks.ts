@@ -14,11 +14,11 @@ export function parsePksCard(html:string,url:string,at:string):PriceItem|null{
  return applyPksUserRule({seller:'pks',group,itemId:'pks:'+id,title,url,sourceUrl:PKS_ORIGIN+'/catalog/pilomaterialy/',thickness:d[0],width:d[1],length:d[2],grade:gr,wood:species,unit:target,...normalized,rawPrice,rawUnit,pack:publishedPack||1,publishedPackCount:publishedPack||undefined,unitAmbiguous:ambiguous,stock:available&&rawPrice>0?'Можно заказать на сайте (InStock)':'Нет опубликованной цены / OutOfStock',at,promo:false,construction:construction(title,group),edge:edge(title),sourceNotes:notes,sourceRow});
 }
 const building=(g:string)=>/^(ABC|BC|C|СТРОИТЕЛЬНЫЙ)$/.test(grade(g));
-export function pksCandidates(o:PriceItem,p:PriceItem):string[]|null{
+export function pksCandidates(o:PriceItem,p:PriceItem,near=false):string[]|null{
  if(p.seller!=='pks')return null;const barRail=['Брусок строганый','Рейка строганая'].includes(o.group)&&['Брусок строганый','Рейка строганая'].includes(p.group);const plank=p.group==='Планкен (профиль не указан)'&&/Планкен/.test(o.group);if(o.group!==p.group&&!barRail&&!plank)return null;
- if(o.thickness!==p.thickness||o.width!==p.width||o.length&&o.length!==p.length||o.lengthMin&&(p.length<o.lengthMin||p.length>(o.lengthMax||o.lengthMin)))return null;
+ const closeWidth=near&&o.thickness===p.thickness&&Math.abs(o.width-p.width)<=6;if(o.thickness!==p.thickness||o.width!==p.width&&!closeWidth||o.length&&o.length!==p.length||o.lengthMin&&(p.length<o.lengthMin||p.length>(o.lengthMax||o.lengthMin)))return null;
  if(['НЕ УКАЗАН',''].includes(o.grade)||['НЕ УКАЗАН',''].includes(p.grade)||!(o.grade===p.grade||building(o.grade)&&building(p.grade)))return null;
- const notes=[...(p.sourceNotes||[])];const species=o.wood===p.wood||o.wood==='ель/сосна'&&['ель','сосна'].includes(p.wood);if(!species){if(/не указана|не уточнена/.test(p.wood))notes.push('Порода требует уточнения: у нас '+o.wood+', ПКС — '+p.wood);else return null;}
+ const notes=[...(p.sourceNotes||[])];if(o.width!==p.width)notes.push('Сечение требует подтверждения: наш '+o.thickness+'×'+o.width+' ↔ ПКС '+p.thickness+'×'+p.width+'.');const species=o.wood===p.wood||o.wood==='ель/сосна'&&['ель','сосна'].includes(p.wood);if(!species){if(/не указана|не уточнена/.test(p.wood))notes.push('Порода требует уточнения: у нас '+o.wood+', ПКС — '+p.wood);else return null;}
  if(plank)notes.push('У ПКС не указан прямой/скошенный профиль планкена.');if(barRail&&o.group!==p.group)notes.push('Название требует подтверждения: у нас '+o.group+', у ПКС '+p.group+'.');if(!o.length&&!o.lengthMin)notes.push('Наша длина не опубликована, у ПКС '+p.length+' м.');if(o.grade!==p.grade)notes.push('Строительный сорт: наш '+o.grade+' ↔ ПКС '+p.grade+'.');return notes;
 }
 export function pksNotes(o:PriceItem,p:PriceItem){const notes=pksCandidates(o,p);if(!notes||p.unitAmbiguous||!p.rawPrice||p.rawUnit==='не указана'||p.group!==o.group&&!(pksUserRule(p)&&p.group==='Брусок строганый'&&o.group==='Рейка строганая')||p.wood==='хвойные (порода не уточнена)'&&!pksUserRule(p)||p.group==='Планкен (профиль не указан)')return null;if(pksUserRule(p)&&/не уточнена|не указана/.test(p.wood))notes.push('Сравнение по указанию пользователя; точную породу хвойных нужно проверить.');return notes;}
@@ -35,3 +35,5 @@ export function pksUserRule(p:PriceItem){
  return null;
 }
 export function applyPksUserRule(p:PriceItem):PriceItem{const rule=pksUserRule(p);if(!rule)return p;return {...p,rawUnit:rule.unit,pack:rule.count,unitAmbiguous:false,...normalizePrice(p.rawPrice,rule.unit,rule.count,p.thickness,p.width,p.length,p.unit),sourceNotes:[...(p.sourceNotes||[]).filter(n=>!n.startsWith('Цена за одну доску подтверждена')&&!n.startsWith('Цена за один брусок подтверждена')&&!n.startsWith('По указанию пользователя')),rule.label]};}
+
+export function pksNear(o:PriceItem,p:PriceItem){return pksNotes(o,p)===null?pksCandidates(o,p,true):null;}

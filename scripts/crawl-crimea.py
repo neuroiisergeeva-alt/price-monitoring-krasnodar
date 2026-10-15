@@ -16,7 +16,7 @@ for p in ownLists:
   if not re.search(r'/page/|/feed/|products-category',u) and u.startswith(OWN):links.add(u)
 print('Own listings',len(ownLists),'products',len(links),flush=True)
 with concurrent.futures.ThreadPoolExecutor(max_workers=6) as ex: ownPages=list(ex.map(read,sorted(links)))
-with concurrent.futures.ThreadPoolExecutor(max_workers=6) as ex: first=list(ex.map(read,[TER+'/catalog/'+s for s in roots]+[TER+'/index.php?route=product/search&search='+urllib.parse.quote('имитация')]))
+with concurrent.futures.ThreadPoolExecutor(max_workers=6) as ex: first=list(ex.map(read,[TER+'/catalog/'+s for s in roots]+[TER+'/index.php?route=product/search&search='+urllib.parse.quote(q) for q in ['имитация','Доска сухая','Планкен']]))
 pages=[];more=[]
 for p in first:
  p['sourceUrl']=p['url'];pages.append(p);ns=[int(n) for n in re.findall(r'[?&](?:amp;)?page=(\d+)',p.get('html',''))];maxn=max(ns,default=1)

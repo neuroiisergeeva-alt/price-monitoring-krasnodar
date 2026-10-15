@@ -1,0 +1,3055 @@
+{
+  "at": "2026-10-15T06:33:40Z",
+  "checks": [
+    {
+      "url": "https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/planken-skoshennyj-el-sosna/",
+      "status": "ok",
+      "seller": "ours",
+      "rows": 12
+    },
+    {
+      "url": "https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/doska-stroganaya-el-sosna/",
+      "status": "ok",
+      "seller": "ours",
+      "rows": 31
+    },
+    {
+      "url": "https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/planken-pryamoj-el-sosna/",
+      "status": "ok",
+      "seller": "ours",
+      "rows": 16
+    },
+    {
+      "url": "https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/planken-pryamoj-listvennicza/",
+      "status": "ok",
+      "seller": "ours",
+      "rows": 3
+    },
+    {
+      "url": "https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/planken-skoshennyj-listvennicza/",
+      "status": "ok",
+      "seller": "ours",
+      "rows": 2
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1317",
+      "status": "ok",
+      "title": "Доска сухая сосна \"АВ\" 45*145*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+      "unit": "шт.",
+      "price": 2105,
+      "stock": "В наличии: 269 шт."
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1503",
+      "status": "ok",
+      "title": "Доска сухая сосна \"АВ\" 45*195*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+      "unit": "шт.",
+      "price": 2831,
+      "stock": "В наличии: 198 шт."
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1724",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"C\" 20*65*3000мм*12шт",
+      "unit": "уп.",
+      "price": 4391,
+      "stock": "В наличии: 0.33 упак"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3141",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"А\" 20*120*4000мм*6шт",
+      "unit": "уп.",
+      "price": 9713,
+      "stock": "В наличии: 1.824 упак"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2087",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"А\" 20*140*3500мм*6шт",
+      "unit": "уп.",
+      "price": 9916,
+      "stock": "В наличии: 6 упак"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2191",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"А\" 20*140*4000мм*6шт",
+      "unit": "уп.",
+      "price": 11333,
+      "stock": "В наличии: 10.834 упак"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3010",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"В\" 20*120*3500мм*6шт",
+      "unit": "уп.",
+      "price": 5934,
+      "stock": "В наличии: 1.331 упак"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1922",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"В\" 20*140*3500мм*6шт",
+      "unit": "уп.",
+      "price": 6923,
+      "stock": "В наличии: 14 упак"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2015",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"В\" 20*140*4000мм*6шт",
+      "unit": "уп.",
+      "price": 7912,
+      "stock": "В наличии: 224 упак"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3003",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"С\" 20*120*3500мм*6шт",
+      "unit": "уп.",
+      "price": 4846,
+      "stock": "В наличии: 2 упак"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3041",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"С\" 20*120*4000мм*6шт",
+      "unit": "уп.",
+      "price": 5404,
+      "stock": "В наличии: 4.333 упак"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1640",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"С\" 20*140*2500мм*6шт",
+      "unit": "уп.",
+      "price": 3941,
+      "stock": "В наличии: 0.33 упак"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1842",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"С\" 20*140*4000мм*6шт",
+      "unit": "уп.",
+      "price": 6305,
+      "stock": "В наличии: 83 упак"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2593&page=5",
+      "status": "ok",
+      "title": "Доска сухая с фаской сосна \"АВ\" 45*90*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+      "unit": "шт.",
+      "price": 1054,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/tovar/316",
+      "status": "ok",
+      "title": "Доска сухая сосна \"АВ\" 20*115*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+      "unit": "шт.",
+      "price": 424,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2380&page=5",
+      "status": "ok",
+      "title": "Доска сухая сосна \"АВ\" 20*120*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+      "unit": "шт.",
+      "price": 323,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2481&page=5",
+      "status": "ok",
+      "title": "Доска сухая сосна \"АВ\" 20*120*5000мм (строг.профилир. ОКПД2 код 16.10.2)",
+      "unit": "шт.",
+      "price": 539,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=771&page=5",
+      "status": "ok",
+      "title": "Доска сухая сосна \"АВ\" 20*120*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+      "unit": "шт.",
+      "price": 991,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2405&page=5",
+      "status": "ok",
+      "title": "Доска сухая сосна \"АВ\" 20*140*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+      "unit": "шт.",
+      "price": 364,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2550&page=5",
+      "status": "ok",
+      "title": "Доска сухая сосна \"АВ\" 20*140*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+      "unit": "шт.",
+      "price": 767,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2523&page=5",
+      "status": "ok",
+      "title": "Доска сухая сосна \"АВ\" 20*145*4000мм (строг.профилир. ОКПД2 код 16.10.2)",
+      "unit": "шт.",
+      "price": 659,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/tovar/2640",
+      "status": "ok",
+      "title": "Доска сухая сосна \"АВ\" 20*190*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+      "unit": "шт.",
+      "price": 1125,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2493&page=6",
+      "status": "ok",
+      "title": "Доска сухая сосна \"АВ\" 20*195*4000мм (строг.профилир. ОКПД2 код 16.10.2)",
+      "unit": "шт.",
+      "price": 676,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2287&page=6",
+      "status": "ok",
+      "title": "Доска сухая сосна \"АВ\" 20*90*2000мм (строг.профилир. ОКПД2 код 16.10.2)",
+      "unit": "шт.",
+      "price": 107,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2348&page=6",
+      "status": "ok",
+      "title": "Доска сухая сосна \"АВ\" 20*90*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+      "unit": "шт.",
+      "price": 252,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2453&page=6",
+      "status": "ok",
+      "title": "Доска сухая сосна \"АВ\" 20*90*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+      "unit": "шт.",
+      "price": 468,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2298&page=6",
+      "status": "ok",
+      "title": "Доска сухая сосна \"АВ\" 20*95*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+      "unit": "шт.",
+      "price": 179,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2321&page=9",
+      "status": "ok",
+      "title": "Доска сухая сосна \"АВ\" 45*115*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+      "unit": "шт.",
+      "price": 186,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/tovar/2682",
+      "status": "ok",
+      "title": "Доска сухая сосна \"АВ\" 45*115*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+      "unit": "шт.",
+      "price": 1345,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2693&page=10",
+      "status": "ok",
+      "title": "Доска сухая сосна \"АВ\" 45*140*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+      "unit": "шт.",
+      "price": 1526,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2568&page=10",
+      "status": "ok",
+      "title": "Доска сухая сосна \"АВ\" 45*145*4000мм (строг.профилир. ОКПД2 код 16.10.2)",
+      "unit": "шт.",
+      "price": 839,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2698&page=10",
+      "status": "ok",
+      "title": "Доска сухая сосна \"АВ\" 45*145*5000мм (строг.профилир. ОКПД2 код 16.10.2)",
+      "unit": "шт.",
+      "price": 1585,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2657&page=10",
+      "status": "ok",
+      "title": "Доска сухая сосна \"АВ\" 45*195*5000мм (строг.профилир. ОКПД2 код 16.10.2)",
+      "unit": "шт.",
+      "price": 1341,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2525&page=10",
+      "status": "ok",
+      "title": "Доска сухая сосна \"АВ\" 45*90*5000мм (строг.профилир. ОКПД2 код 16.10.2)",
+      "unit": "шт.",
+      "price": 771,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=998&page=10",
+      "status": "ok",
+      "title": "Доска сухая сосна \"АВ\" 45*90*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+      "unit": "шт.",
+      "price": 1452,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=676&page=10",
+      "status": "ok",
+      "title": "Доска сухая сосна \"АВ\" 45*95*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+      "unit": "шт.",
+      "price": 766,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=990&page=10",
+      "status": "ok",
+      "title": "Доска сухая сосна \"АВ\" 45*95*5000мм (строг.профилир. ОКПД2 код 16.10.2)",
+      "unit": "шт.",
+      "price": 1276,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1147&page=10",
+      "status": "ok",
+      "title": "Доска сухая сосна \"АВ\" 45*95*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+      "unit": "шт.",
+      "price": 1351,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2329&page=10",
+      "status": "ok",
+      "title": "Доска сухая сосна \"С\" 20*115*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+      "unit": "шт.",
+      "price": 219,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2296&page=11",
+      "status": "ok",
+      "title": "Доска сухая сосна \"С\" 20*90*2000мм (строг.профилир. ОКПД2 код 16.10.2)",
+      "unit": "шт.",
+      "price": 129,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2305&page=11",
+      "status": "ok",
+      "title": "Доска сухая сосна \"С\" 20*90*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+      "unit": "шт.",
+      "price": 138,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2530&page=11",
+      "status": "ok",
+      "title": "Доска сухая сосна \"С\" 45*145*5000мм (строг.профилир. ОКПД2 код 16.10.2)",
+      "unit": "шт.",
+      "price": 739,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1161&page=12",
+      "status": "ok",
+      "title": "Доска сухая сосна \"С\" 45*145*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+      "unit": "шт.",
+      "price": 1774,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/tovar/2429",
+      "status": "ok",
+      "title": "Доска сухая сосна \"С\" 45*150*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+      "unit": "шт.",
+      "price": 457,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2779&page=12",
+      "status": "ok",
+      "title": "Доска сухая сосна \"С\" 45*195*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+      "unit": "шт.",
+      "price": 2498,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2510&page=12",
+      "status": "ok",
+      "title": "Доска сухая сосна \"С\" 45*90*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+      "unit": "шт.",
+      "price": 585,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=828&page=14",
+      "status": "ok",
+      "title": "Доска сухая строганная лиственница \"А\" 20*130*2500мм",
+      "unit": "шт.",
+      "price": 845,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=530&page=15",
+      "status": "ok",
+      "title": "Доска сухая строганная лиственница \"В\" 20*130*2500мм",
+      "unit": "шт.",
+      "price": 538,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2173&page=2",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"Экстра\" 20*140*4000мм*6шт",
+      "unit": "уп.",
+      "price": 14183,
+      "stock": "В наличии: 3.323 упак"
+    },
+    {
+      "url": "https://terem-krym.ru/tovar/3698",
+      "status": "ok",
+      "title": "Планкен прямой Сосна \"АВ\" 20*90*3000мм",
+      "unit": "шт.",
+      "price": 371,
+      "stock": "В наличии: 746 шт."
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=721&page=2",
+      "status": "ok",
+      "title": "Планкен прямой Сосна \"С\" 20*140*6000мм",
+      "unit": "шт.",
+      "price": 844,
+      "stock": "В наличии: 7 шт."
+    },
+    {
+      "url": "https://terem-krym.ru/tovar/3699",
+      "status": "ok",
+      "title": "Планкен прямой Сосна \"С\" 20*90*3000мм",
+      "unit": "шт.",
+      "price": 254,
+      "stock": "В наличии: 839 шт."
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3227&page=2",
+      "status": "ok",
+      "title": "Планкен скошенный лиственница \"А\" 20*120*4000мм*6шт",
+      "unit": "уп.",
+      "price": 9706,
+      "stock": "В наличии: 3 упак"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3155&page=2",
+      "status": "ok",
+      "title": "Планкен скошенный лиственница \"А\" 20*140*3500мм*6шт",
+      "unit": "уп.",
+      "price": 9916,
+      "stock": "В наличии: 1 упак"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2146&page=2",
+      "status": "ok",
+      "title": "Планкен скошенный лиственница \"А\" 20*140*4000мм*6шт",
+      "unit": "уп.",
+      "price": 11333,
+      "stock": "В наличии: 97 упак"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3225&page=2",
+      "status": "ok",
+      "title": "Планкен скошенный лиственница \"В\" 20*120*4000мм*6шт",
+      "unit": "уп.",
+      "price": 6804,
+      "stock": "В наличии: 3.5 упак"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1912&page=2",
+      "status": "ok",
+      "title": "Планкен скошенный лиственница \"В\" 20*140*3500мм*6шт",
+      "unit": "уп.",
+      "price": 6923,
+      "stock": "В наличии: 1 упак"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2033&page=2",
+      "status": "ok",
+      "title": "Планкен скошенный лиственница \"В\" 20*140*4000мм*6шт",
+      "unit": "уп.",
+      "price": 7912,
+      "stock": "В наличии: 4.337 упак"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1823&page=2",
+      "status": "ok",
+      "title": "Планкен скошенный лиственница \"С\" 20*140*4000мм*6шт",
+      "unit": "уп.",
+      "price": 6305,
+      "stock": "В наличии: 61 упак"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3231&page=3",
+      "status": "ok",
+      "title": "Планкен скошенный лиственница \"Экстра\" 20*120*4000мм*6шт",
+      "unit": "уп.",
+      "price": 12174,
+      "stock": "В наличии: 3 упак"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2150&page=3",
+      "status": "ok",
+      "title": "Планкен скошенный лиственница \"Экстра\" 20*140*4000мм*6шт",
+      "unit": "уп.",
+      "price": 14183,
+      "stock": "В наличии: 44 упак"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2109&page=3",
+      "status": "ok",
+      "title": "Планкен скошенный лиственница \"Элит\" 20*140*4000мм*6шт",
+      "unit": "уп.",
+      "price": 16462,
+      "stock": "В наличии: 9.2 упак"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2966&page=4",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"C\" 20*96*4000мм*8шт",
+      "unit": "уп.",
+      "price": 3644,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3042&page=4",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"А\" 20*100*3000мм*8шт",
+      "unit": "уп.",
+      "price": 5094,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2916&page=4",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"А\" 20*120*2000мм*6шт",
+      "unit": "уп.",
+      "price": 3121,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2974&page=5",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"А\" 20*120*2500мм*6шт",
+      "unit": "уп.",
+      "price": 3895,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2999&page=5",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"А\" 20*120*2900мм*8шт",
+      "unit": "уп.",
+      "price": 4194,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3016&page=5",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"А\" 20*120*3000мм*6шт",
+      "unit": "уп.",
+      "price": 4584,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3043&page=5",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"А\" 20*120*3000мм*8шт",
+      "unit": "уп.",
+      "price": 5241,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3091&page=5",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"А\" 20*120*3500мм*6шт",
+      "unit": "уп.",
+      "price": 8499,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3055&page=5",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"А\" 20*120*4000мм*8шт",
+      "unit": "уп.",
+      "price": 5840,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2070&page=5",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"А\" 20*140*3000мм*6шт",
+      "unit": "уп.",
+      "price": 6404,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3119&page=5",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"А\" 20*96*3000мм*8шт",
+      "unit": "уп.",
+      "price": 8059,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3020&page=5",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"А\" 20*96*3500мм*8шт",
+      "unit": "уп.",
+      "price": 4671,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3154&page=5",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"А\" 20*96*4000мм*8шт",
+      "unit": "уп.",
+      "price": 8816,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2926&page=6",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"В\" 20*100*3000мм*8шт",
+      "unit": "уп.",
+      "price": 3300,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3014&page=6",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"В\" 20*100*4000мм*6шт",
+      "unit": "уп.",
+      "price": 5651,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1636&page=6",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"В\" 20*120*2000мм*6шт",
+      "unit": "уп.",
+      "price": 3391,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1729&page=6",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"В\" 20*120*2500мм*6шт",
+      "unit": "уп.",
+      "price": 3697,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3004&page=6",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"В\" 20*120*3000мм*6шт",
+      "unit": "уп.",
+      "price": 5086,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2977&page=6",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"В\" 20*120*3000мм*8шт",
+      "unit": "уп.",
+      "price": 4168,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3067&page=6",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"В\" 20*120*4000мм*6шт",
+      "unit": "уп.",
+      "price": 6781,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2976&page=6",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"В\" 20*120*4000мм*8шт",
+      "unit": "уп.",
+      "price": 4180,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1845&page=7",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"В\" 20*140*3000мм*6шт",
+      "unit": "уп.",
+      "price": 5934,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2963&page=7",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"В\" 20*96*3000мм*8шт",
+      "unit": "уп.",
+      "price": 3604,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2979&page=7",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"В\" 20*96*3500мм*8шт",
+      "unit": "уп.",
+      "price": 4205,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1900&page=7",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"В\" 20*96*4000мм*8шт",
+      "unit": "уп.",
+      "price": 6311,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2785&page=8",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"Д\" 20*120*3000мм*8шт",
+      "unit": "уп.",
+      "price": 2062,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2852&page=8",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"С\" 20*100*3000мм*8шт",
+      "unit": "уп.",
+      "price": 2583,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2868&page=8",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"С\" 20*120*2500мм*6шт",
+      "unit": "уп.",
+      "price": 2572,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1581&page=8",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"С\" 20*120*3000мм*6шт",
+      "unit": "уп.",
+      "price": 3027,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2898&page=8",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"С\" 20*120*3000мм*8шт",
+      "unit": "уп.",
+      "price": 3126,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1698&page=8",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"С\" 20*140*3000мм*6шт",
+      "unit": "уп.",
+      "price": 4846,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1882&page=8",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"С\" 20*140*3500мм*6шт",
+      "unit": "уп.",
+      "price": 5517,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2975&page=8",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"С\" 20*96*3000мм*8шт",
+      "unit": "уп.",
+      "price": 4390,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3036&page=8",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"С\" 20*96*4000мм*8шт",
+      "unit": "уп.",
+      "price": 4820,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2669&page=9",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"СД\" 20*120*2500мм*6шт",
+      "unit": "уп.",
+      "price": 1427,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2737&page=9",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"СД\" 20*120*3000мм*6шт",
+      "unit": "уп.",
+      "price": 1712,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2769&page=9",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"СД\" 20*120*3000мм*8шт",
+      "unit": "уп.",
+      "price": 1928,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2766&page=9",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"СД\" 20*120*3500мм*6шт",
+      "unit": "уп.",
+      "price": 2011,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2756&page=9",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"СД\" 20*96*3000мм*8шт",
+      "unit": "уп.",
+      "price": 1835,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2794&page=9",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"СД\" 20*96*3500мм*8шт",
+      "unit": "уп.",
+      "price": 2142,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2821&page=9",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"СД\" 20*96*4000мм*8шт",
+      "unit": "уп.",
+      "price": 2448,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=988&page=10",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"Экстра\" 20*100*1000мм*7шт",
+      "unit": "уп.",
+      "price": 1175,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1881&page=10",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"Экстра\" 20*100*2000мм*7шт",
+      "unit": "уп.",
+      "price": 4616,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3021&page=10",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"Экстра\" 20*119*2000мм*6шт",
+      "unit": "уп.",
+      "price": 4548,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3009&page=10",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"Экстра\" 20*120*2500мм*6шт",
+      "unit": "уп.",
+      "price": 4896,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3116&page=10",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"Экстра\" 20*120*3000мм*6шт",
+      "unit": "уп.",
+      "price": 9117,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3174&page=10",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"Экстра\" 20*120*3000мм*8шт",
+      "unit": "уп.",
+      "price": 12629,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3124&page=10",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"Экстра\" 20*120*3500мм*6шт",
+      "unit": "уп.",
+      "price": 10534,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3162&page=10",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"Экстра\" 20*120*4000мм*6шт",
+      "unit": "уп.",
+      "price": 12156,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3079&page=10",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"Экстра\" 20*120*4000мм*8шт",
+      "unit": "уп.",
+      "price": 7449,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2067&page=10",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"Экстра\" 20*140*3000мм*6шт",
+      "unit": "уп.",
+      "price": 10636,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3165&page=10",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"Экстра\" 20*140*3500мм*6шт",
+      "unit": "уп.",
+      "price": 12409,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3049&page=10",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"Экстра\" 20*96*3000мм*8шт",
+      "unit": "уп.",
+      "price": 6244,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3130&page=11",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"Экстра\" 20*96*4000мм*8шт",
+      "unit": "уп.",
+      "price": 11022,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3114&page=11",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"Элит\" 20*120*3000мм*8шт",
+      "unit": "уп.",
+      "price": 7803,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3171&page=11",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"Элит\" 20*120*4000мм*6шт",
+      "unit": "уп.",
+      "price": 12123,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2137&page=11",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"Элит\" 20*140*4000мм*6шт",
+      "unit": "уп.",
+      "price": 16462,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3090&page=11",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"Элит\" 20*65*3000мм*12шт",
+      "unit": "уп.",
+      "price": 7475,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3081&page=11",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"Элит\" 20*96*3000мм*8шт",
+      "unit": "уп.",
+      "price": 7375,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3140&page=11",
+      "status": "ok",
+      "title": "Планкен прямой лиственница \"Элит\" 20*96*3500мм*8шт",
+      "unit": "уп.",
+      "price": 8605,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/tovar/3305",
+      "status": "ok",
+      "title": "Планкен прямой Сосна \"АВ\" 20*140*6000мм",
+      "unit": "шт.",
+      "price": 1156,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/tovar/3306",
+      "status": "ok",
+      "title": "Планкен прямой Сосна \"АВ\" 20*90*6000мм",
+      "unit": "шт.",
+      "price": 741,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2981&page=12",
+      "status": "ok",
+      "title": "Планкен скошенный лиственница \"C\" 20*140*3000мм*6шт",
+      "unit": "уп.",
+      "price": 4138,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/tovar/948",
+      "status": "ok",
+      "title": "Планкен скошенный лиственница \"А\" 20*140*1000мм*6шт",
+      "unit": "уп.",
+      "price": 1067,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2906&page=12",
+      "status": "ok",
+      "title": "Планкен скошенный лиственница \"А\" 20*140*1500мм*6шт",
+      "unit": "уп.",
+      "price": 3272,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2964&page=12",
+      "status": "ok",
+      "title": "Планкен скошенный лиственница \"А\" 20*140*2000мм*6шт",
+      "unit": "уп.",
+      "price": 3633,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3008&page=12",
+      "status": "ok",
+      "title": "Планкен скошенный лиственница \"А\" 20*140*2500мм*6шт",
+      "unit": "уп.",
+      "price": 4545,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3044&page=12",
+      "status": "ok",
+      "title": "Планкен скошенный лиственница \"А\" 20*140*2900мм*6шт",
+      "unit": "уп.",
+      "price": 5270,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3108&page=12",
+      "status": "ok",
+      "title": "Планкен скошенный лиственница \"А\" 20*140*3000мм*6шт",
+      "unit": "уп.",
+      "price": 7560,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2833&page=12",
+      "status": "ok",
+      "title": "Планкен скошенный лиственница \"В\" 20*140*1500мм*6шт",
+      "unit": "уп.",
+      "price": 2365,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1620&page=13",
+      "status": "ok",
+      "title": "Планкен скошенный лиственница \"В\" 20*140*2000мм*6шт",
+      "unit": "уп.",
+      "price": 3451,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2923&page=13",
+      "status": "ok",
+      "title": "Планкен скошенный лиственница \"В\" 20*140*2500мм*6шт",
+      "unit": "уп.",
+      "price": 3286,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3059&page=13",
+      "status": "ok",
+      "title": "Планкен скошенный лиственница \"В\" 20*140*2900мм*6шт",
+      "unit": "уп.",
+      "price": 6098,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1846&page=13",
+      "status": "ok",
+      "title": "Планкен скошенный лиственница \"В\" 20*140*3000мм*6шт",
+      "unit": "уп.",
+      "price": 5934,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2822&page=13",
+      "status": "ok",
+      "title": "Планкен скошенный лиственница \"Д\" 20*140*4000мм*6шт",
+      "unit": "уп.",
+      "price": 2406,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=627&page=13",
+      "status": "ok",
+      "title": "Планкен скошенный лиственница \"С\" 20*140*1000мм*6шт",
+      "unit": "уп.",
+      "price": 565,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2741&page=13",
+      "status": "ok",
+      "title": "Планкен скошенный лиственница \"С\" 20*140*1500мм*6шт",
+      "unit": "уп.",
+      "price": 1800,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2771&page=13",
+      "status": "ok",
+      "title": "Планкен скошенный лиственница \"С\" 20*140*2000мм*6шт",
+      "unit": "уп.",
+      "price": 2001,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2837&page=13",
+      "status": "ok",
+      "title": "Планкен скошенный лиственница \"С\" 20*140*2500мм*6шт",
+      "unit": "уп.",
+      "price": 2498,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2866&page=13",
+      "status": "ok",
+      "title": "Планкен скошенный лиственница \"С\" 20*140*2900мм*6шт",
+      "unit": "уп.",
+      "price": 2902,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3037&page=13",
+      "status": "ok",
+      "title": "Планкен скошенный лиственница \"С\" 20*140*3500мм*6шт",
+      "unit": "уп.",
+      "price": 4831,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2746&page=13",
+      "status": "ok",
+      "title": "Планкен скошенный лиственница \"СД\" 20*140*2500мм*6шт",
+      "unit": "уп.",
+      "price": 1672,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2780&page=14",
+      "status": "ok",
+      "title": "Планкен скошенный лиственница \"СД\" 20*140*2900мм*6шт",
+      "unit": "уп.",
+      "price": 1943,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2853&page=14",
+      "status": "ok",
+      "title": "Планкен скошенный лиственница \"СД\" 20*140*4000мм*6шт",
+      "unit": "уп.",
+      "price": 2677,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1930&page=14",
+      "status": "ok",
+      "title": "Планкен скошенный лиственница \"Экстра\" 20*140*2000мм*6шт",
+      "unit": "уп.",
+      "price": 6186,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3062&page=14",
+      "status": "ok",
+      "title": "Планкен скошенный лиственница \"Экстра\" 20*140*2500мм*6шт",
+      "unit": "уп.",
+      "price": 5707,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3100&page=14",
+      "status": "ok",
+      "title": "Планкен скошенный лиственница \"Экстра\" 20*140*2900мм*6шт",
+      "unit": "уп.",
+      "price": 6626,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3142&page=14",
+      "status": "ok",
+      "title": "Планкен скошенный лиственница \"Экстра\" 20*140*3000мм*6шт",
+      "unit": "уп.",
+      "price": 9481,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2163&page=14",
+      "status": "ok",
+      "title": "Планкен скошенный лиственница \"Экстра\" 20*140*3500мм*6шт",
+      "unit": "уп.",
+      "price": 10826,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3136&page=14",
+      "status": "ok",
+      "title": "Планкен скошенный лиственница \"Элит\" 20*140*3000мм*6шт",
+      "unit": "уп.",
+      "price": 11017,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2203&page=14",
+      "status": "ok",
+      "title": "Планкен скошенный лиственница \"Элит\" 20*140*3500мм*6шт",
+      "unit": "уп.",
+      "price": 12567,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2792&page=14",
+      "status": "ok",
+      "title": "Планкен скошенный Сосна \"АВ\" 20*115*6000мм*6шт",
+      "unit": "уп.",
+      "price": 2105,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=481&page=14",
+      "status": "ok",
+      "title": "Планкен скошенный Сосна \"АВ\" 20*120*3000мм*1шт",
+      "unit": "шт.",
+      "price": 417,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=671&page=14",
+      "status": "ok",
+      "title": "Планкен скошенный Сосна \"АВ\" 20*120*5000мм*1шт",
+      "unit": "шт.",
+      "price": 734,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=800&page=15",
+      "status": "ok",
+      "title": "Планкен скошенный Сосна \"АВ\" 20*120*6000мм*1шт",
+      "unit": "шт.",
+      "price": 880,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=476&page=15",
+      "status": "ok",
+      "title": "Планкен скошенный Сосна \"АВ\" 20*140*3000мм*1шт",
+      "unit": "шт.",
+      "price": 487,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2634&page=15",
+      "status": "error",
+      "title": "Планкен скошенный Сосна \"АВ\" 20*140*3000мм*5шт",
+      "details": "Error: Площадь упаковки в калькуляторе 0.42 м² не соответствует 5 доскам: 2.1000 м². Требуется уточнение единицы/упаковки"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=814&page=15",
+      "status": "ok",
+      "title": "Планкен скошенный Сосна \"АВ\" 20*140*5000мм*1шт",
+      "unit": "шт.",
+      "price": 856,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=893&page=15",
+      "status": "ok",
+      "title": "Планкен скошенный Сосна \"АВ\" 20*140*6000мм*1шт",
+      "unit": "шт.",
+      "price": 1027,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2799&page=15",
+      "status": "ok",
+      "title": "Планкен скошенный Сосна \"АВ\" 20*140*6000мм*5шт",
+      "unit": "уп.",
+      "price": 2423,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2909&page=15",
+      "status": "ok",
+      "title": "Планкен скошенный Сосна \"АВ\" 20*140*6000мм*6шт",
+      "unit": "уп.",
+      "price": 3138,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1950&page=15",
+      "status": "ok",
+      "title": "Планкен скошенный сращ листвен \"А\" 20*85*4000мм*8шт",
+      "unit": "уп.",
+      "price": 6968,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1740&page=15",
+      "status": "ok",
+      "title": "Планкен скошенный сращ листвен \"В\" 20*85*4000мм*8шт",
+      "unit": "уп.",
+      "price": 4508,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1653&page=16",
+      "status": "ok",
+      "title": "Планкен скошенный сращ листвен \"С\" 20*85*4000мм*8шт",
+      "unit": "уп.",
+      "price": 3681,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2092&page=16",
+      "status": "ok",
+      "title": "Планкен скошенный сращ листвен \"Экстра\" 20*85*4000мм*8шт",
+      "unit": "уп.",
+      "price": 8945,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2060&page=16",
+      "status": "ok",
+      "title": "Планкен скошенный сращ листвен \"Элит\" 20*85*4000мм*8шт",
+      "unit": "уп.",
+      "price": 9836,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=818&page=2",
+      "status": "ok",
+      "title": "Доска сухая сосна \"АВ\" 20*190*4200мм НК (строг.профилир. ОКПД2 код 16.10.2)",
+      "unit": "шт.",
+      "price": 718,
+      "stock": "В наличии: 1 шт."
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=323&page=17",
+      "status": "ok",
+      "title": "Доска сухая сосна \"АВ\" 20*190*1700мм НК(строг.профилир. ОКПД2 код 16.10.2)",
+      "unit": "шт.",
+      "price": 291,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=389&page=16",
+      "status": "ok",
+      "title": "Планкен прямой Сосна \"АВ\" 20*140*2200мм НК",
+      "unit": "шт.",
+      "price": 277,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=505&page=16",
+      "status": "ok",
+      "title": "Планкен прямой Сосна \"АВ\" 20*140*2800мм НК",
+      "unit": "шт.",
+      "price": 353,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=506&page=16",
+      "status": "ok",
+      "title": "Планкен прямой Сосна \"АВ\" 20*140*3000мм НК",
+      "unit": "шт.",
+      "price": 378,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/tovar/611",
+      "status": "ok",
+      "title": "Планкен прямой Сосна \"АВ\" 20*140*3700мм НК",
+      "unit": "шт.",
+      "price": 466,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1285&page=16",
+      "status": "ok",
+      "title": "Планкен скошенный лиственница \"В\" 20*140*3000мм*6шт НК",
+      "unit": "уп.",
+      "price": 1743,
+      "stock": "Нет в наличии"
+    }
+  ],
+  "coverage": [
+    {
+      "our": "Планкен скошенный 20×80×3 м, сорт C",
+      "unit": "м²",
+      "ours": 997,
+      "near": []
+    },
+    {
+      "our": "Планкен скошенный 20×80×6 м, сорт ABC",
+      "unit": "м²",
+      "ours": 1122,
+      "near": []
+    },
+    {
+      "our": "Планкен скошенный 20×80×3 м, сорт AB",
+      "unit": "м²",
+      "ours": 1296,
+      "near": []
+    },
+    {
+      "our": "Планкен скошенный 20×80×6 м, сорт AB",
+      "unit": "м²",
+      "ours": 1458,
+      "near": []
+    },
+    {
+      "our": "Планкен скошенный 20×120×3 м, сорт C",
+      "unit": "м²",
+      "ours": 997,
+      "near": [
+        {
+          "title": "Планкен скошенный Сосна \"АВ\" 20*120*3000мм*1шт",
+          "url": "https://terem-krym.ru/tovar/481",
+          "rawPrice": 356,
+          "rawUnit": "шт.",
+          "stock": "Нет подтвержденного наличия / уведомить"
+        },
+        {
+          "title": "Планкен скошенный Сосна \"АВ\" 20*120*3000мм*1шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=481&page=14",
+          "rawPrice": 417,
+          "rawUnit": "шт.",
+          "stock": "Нет в наличии"
+        }
+      ]
+    },
+    {
+      "our": "Планкен скошенный 20×120×6 м, сорт ABC",
+      "unit": "м²",
+      "ours": 1122,
+      "near": [
+        {
+          "title": "Планкен скошенный Сосна \"АВ\" 20*115*6000мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2792&page=14",
+          "rawPrice": 2105,
+          "rawUnit": "уп.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен скошенный Сосна \"АВ\" 20*120*6000мм*1шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=800&page=15",
+          "rawPrice": 880,
+          "rawUnit": "шт.",
+          "stock": "Нет в наличии"
+        }
+      ]
+    },
+    {
+      "our": "Планкен скошенный 20×120×3 м, сорт AB",
+      "unit": "м²",
+      "ours": 1374,
+      "published": {
+        "seller": "terem",
+        "group": "Планкен скошенный",
+        "itemId": "terem:https://terem-krym.ru/tovar/481",
+        "title": "Планкен скошенный Сосна \"АВ\" 20*120*3000мм*1шт",
+        "url": "https://terem-krym.ru/tovar/481",
+        "sourceUrl": "https://terem-krym.ru/catalog/planken",
+        "thickness": 20,
+        "width": 120,
+        "length": 3,
+        "grade": "AB",
+        "wood": "сосна",
+        "unit": "м²",
+        "price": 988.8888888888889,
+        "formula": "356 ₽/шт.  ÷ 3 м ÷ 0.12 м = 988.89 ₽/м²",
+        "rawPrice": 356,
+        "rawUnit": "шт.",
+        "pack": 1,
+        "at": "2026-10-13T12:07:00Z",
+        "promo": false,
+        "unitAmbiguous": false,
+        "stock": "Нет подтвержденного наличия / уведомить",
+        "edge": "обычный",
+        "construction": "не указана",
+        "fromPrice": false,
+        "sourceNotes": [
+          "Цена прочитана из текущего каталога Терем-Крым. Дата публикации цены не указана."
+        ],
+        "sourceRow": [
+          "Планкен скошенный Сосна \"АВ\" 20*120*3000мм*1шт",
+          "356 ₽/шт.",
+          "1 шт. в расчетной упаковке",
+          "0 шт по карточке"
+        ]
+      },
+      "near": []
+    },
+    {
+      "our": "Планкен скошенный 20×120×6 м, сорт AB",
+      "unit": "м²",
+      "ours": 1478,
+      "published": {
+        "seller": "terem",
+        "group": "Планкен скошенный",
+        "itemId": "terem:800",
+        "title": "Планкен скошенный Сосна \"АВ\" 20*120*6000мм*1шт",
+        "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=800&page=15",
+        "sourceUrl": "https://terem-krym.ru/index.php?route=product/search&search=%D0%9F%D0%BB%D0%B0%D0%BD%D0%BA%D0%B5%D0%BD",
+        "thickness": 20,
+        "width": 120,
+        "length": 6,
+        "grade": "AB",
+        "wood": "сосна",
+        "unit": "м²",
+        "price": 1222.2222222222222,
+        "formula": "880 ₽/шт.  ÷ 6 м ÷ 0.12 м = 1222.22 ₽/м²",
+        "rawPrice": 880,
+        "rawUnit": "шт.",
+        "pack": 1,
+        "at": "2026-10-15T06:33:40Z",
+        "promo": false,
+        "unitAmbiguous": false,
+        "stock": "Нет в наличии",
+        "edge": "обычный",
+        "construction": "не указана",
+        "fromPrice": false,
+        "sourceNotes": [
+          "Цена прочитана из текущего каталога Терем-Крым. Дата публикации цены не указана.",
+          "Цена, единица и наличие проверены по основной карточке."
+        ],
+        "sourceRow": [
+          "Планкен скошенный Сосна \"АВ\" 20*120*6000мм*1шт",
+          "880 ₽/шт.",
+          "0 шт. в наличии"
+        ]
+      },
+      "near": [
+        {
+          "title": "Планкен скошенный Сосна \"АВ\" 20*115*6000мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2792&page=14",
+          "rawPrice": 2105,
+          "rawUnit": "уп.",
+          "stock": "Нет в наличии"
+        }
+      ]
+    },
+    {
+      "our": "Планкен скошенный 20×145×3 м, сорт C",
+      "unit": "м²",
+      "ours": 997,
+      "near": [
+        {
+          "title": "Планкен скошенный Сосна \"АВ\" 20*140*3000мм*1шт",
+          "url": "https://terem-krym.ru/tovar/476",
+          "rawPrice": 416,
+          "rawUnit": "шт.",
+          "stock": "Нет подтвержденного наличия / уведомить"
+        },
+        {
+          "title": "Планкен скошенный Сосна \"АВ\" 20*140*3000мм*1шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=476&page=15",
+          "rawPrice": 487,
+          "rawUnit": "шт.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен скошенный Сосна \"АВ\" 20*140*3000мм*5шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2634&page=15",
+          "rawPrice": 1212,
+          "rawUnit": "уп.",
+          "stock": "Нет подтвержденного наличия / уведомить"
+        }
+      ]
+    },
+    {
+      "our": "Планкен скошенный 20×145×6 м, сорт ABC",
+      "unit": "м²",
+      "ours": 1122,
+      "near": [
+        {
+          "title": "Планкен скошенный Сосна \"АВ\" 20*140*6000мм*1шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=893&page=15",
+          "rawPrice": 1027,
+          "rawUnit": "шт.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен скошенный Сосна \"АВ\" 20*140*6000мм*5шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2799&page=15",
+          "rawPrice": 2423,
+          "rawUnit": "уп.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен скошенный Сосна \"АВ\" 20*140*6000мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2909&page=15",
+          "rawPrice": 3138,
+          "rawUnit": "уп.",
+          "stock": "Нет в наличии"
+        }
+      ]
+    },
+    {
+      "our": "Планкен скошенный 20×145×3 м, сорт AB",
+      "unit": "м²",
+      "ours": 1374,
+      "near": [
+        {
+          "title": "Планкен скошенный Сосна \"АВ\" 20*140*3000мм*1шт",
+          "url": "https://terem-krym.ru/tovar/476",
+          "rawPrice": 416,
+          "rawUnit": "шт.",
+          "stock": "Нет подтвержденного наличия / уведомить"
+        },
+        {
+          "title": "Планкен скошенный Сосна \"АВ\" 20*140*3000мм*1шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=476&page=15",
+          "rawPrice": 487,
+          "rawUnit": "шт.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен скошенный Сосна \"АВ\" 20*140*3000мм*5шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2634&page=15",
+          "rawPrice": 1212,
+          "rawUnit": "уп.",
+          "stock": "Нет подтвержденного наличия / уведомить"
+        }
+      ]
+    },
+    {
+      "our": "Планкен скошенный 20×145×6 м, сорт AB",
+      "unit": "м²",
+      "ours": 1478,
+      "near": [
+        {
+          "title": "Планкен скошенный Сосна \"АВ\" 20*140*6000мм*1шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=893&page=15",
+          "rawPrice": 1027,
+          "rawUnit": "шт.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен скошенный Сосна \"АВ\" 20*140*6000мм*5шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2799&page=15",
+          "rawPrice": 2423,
+          "rawUnit": "уп.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен скошенный Сосна \"АВ\" 20*140*6000мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2909&page=15",
+          "rawPrice": 3138,
+          "rawUnit": "уп.",
+          "stock": "Нет в наличии"
+        }
+      ]
+    },
+    {
+      "our": "Доска строганая 20×80×4 м, сорт AB",
+      "unit": "шт.",
+      "ours": 431,
+      "near": []
+    },
+    {
+      "our": "Доска строганая 20×80×4 м, сорт BC",
+      "unit": "шт.",
+      "ours": 359,
+      "near": []
+    },
+    {
+      "our": "Доска строганая 20×90×4 м, сорт AB",
+      "unit": "шт.",
+      "ours": 485,
+      "near": []
+    },
+    {
+      "our": "Доска строганая 20×96×2 м, сорт AB",
+      "unit": "шт.",
+      "ours": 239,
+      "near": [
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*90*2000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2287&page=6",
+          "rawPrice": 107,
+          "rawUnit": "шт.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Доска сухая сосна \"С\" 20*90*2000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2296&page=11",
+          "rawPrice": 129,
+          "rawUnit": "шт.",
+          "stock": "Нет в наличии"
+        }
+      ]
+    },
+    {
+      "our": "Доска строганая 20×96×2 м, сорт BC",
+      "unit": "шт.",
+      "ours": 191,
+      "near": [
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*90*2000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2287&page=6",
+          "rawPrice": 107,
+          "rawUnit": "шт.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Доска сухая сосна \"С\" 20*90*2000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2296&page=11",
+          "rawPrice": 129,
+          "rawUnit": "шт.",
+          "stock": "Нет в наличии"
+        }
+      ]
+    },
+    {
+      "our": "Доска строганая 20×96×3 м, сорт AB",
+      "unit": "шт.",
+      "ours": 359,
+      "near": [
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*90*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2348&page=6",
+          "rawPrice": 252,
+          "rawUnit": "шт.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*95*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2298&page=6",
+          "rawPrice": 179,
+          "rawUnit": "шт.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Доска сухая сосна \"С\" 20*90*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2305&page=11",
+          "rawPrice": 138,
+          "rawUnit": "шт.",
+          "stock": "Нет в наличии"
+        }
+      ]
+    },
+    {
+      "our": "Доска строганая 20×96×3 м, сорт BC",
+      "unit": "шт.",
+      "ours": 287,
+      "near": [
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*90*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2348&page=6",
+          "rawPrice": 252,
+          "rawUnit": "шт.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*95*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2298&page=6",
+          "rawPrice": 179,
+          "rawUnit": "шт.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Доска сухая сосна \"С\" 20*90*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2305&page=11",
+          "rawPrice": 138,
+          "rawUnit": "шт.",
+          "stock": "Нет в наличии"
+        }
+      ]
+    },
+    {
+      "our": "Доска строганая 20×96×6 м, сорт AB",
+      "unit": "шт.",
+      "ours": 776,
+      "near": [
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*90*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2453&page=6",
+          "rawPrice": 468,
+          "rawUnit": "шт.",
+          "stock": "Нет в наличии"
+        }
+      ]
+    },
+    {
+      "our": "Доска строганая 20×96×6 м, сорт BC",
+      "unit": "шт.",
+      "ours": 646,
+      "near": [
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*90*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2453&page=6",
+          "rawPrice": 468,
+          "rawUnit": "шт.",
+          "stock": "Нет в наличии"
+        }
+      ]
+    },
+    {
+      "our": "Доска строганая 20×120×2 м, сорт AB",
+      "unit": "шт.",
+      "ours": 317,
+      "near": []
+    },
+    {
+      "our": "Доска строганая 20×120×2 м, сорт BC",
+      "unit": "шт.",
+      "ours": 239,
+      "near": []
+    },
+    {
+      "our": "Доска строганая 20×120×3 м, сорт AB",
+      "unit": "шт.",
+      "ours": 476,
+      "published": {
+        "seller": "terem",
+        "group": "Доска строганая",
+        "itemId": "terem:2380",
+        "title": "Доска сухая сосна \"АВ\" 20*120*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+        "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2380&page=5",
+        "sourceUrl": "https://terem-krym.ru/index.php?route=product/search&search=%D0%94%D0%BE%D1%81%D0%BA%D0%B0%20%D1%81%D1%83%D1%85%D0%B0%D1%8F",
+        "thickness": 20,
+        "width": 120,
+        "length": 3,
+        "grade": "AB",
+        "wood": "сосна",
+        "unit": "шт.",
+        "price": 323,
+        "formula": "323 ₽/шт. — цена сайта",
+        "rawPrice": 323,
+        "rawUnit": "шт.",
+        "pack": 1,
+        "at": "2026-10-15T06:33:40Z",
+        "promo": false,
+        "unitAmbiguous": false,
+        "stock": "Нет в наличии",
+        "edge": "обычный",
+        "construction": "цельная",
+        "fromPrice": false,
+        "sourceNotes": [
+          "Цена прочитана из текущего каталога Терем-Крым. Дата публикации цены не указана.",
+          "Цена, единица и наличие проверены по основной карточке."
+        ],
+        "sourceRow": [
+          "Доска сухая сосна \"АВ\" 20*120*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "323 ₽/шт.",
+          "0 шт. в наличии"
+        ]
+      },
+      "near": [
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*115*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/tovar/316",
+          "rawPrice": 424,
+          "rawUnit": "шт.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Доска сухая сосна \"С\" 20*115*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2329&page=10",
+          "rawPrice": 219,
+          "rawUnit": "шт.",
+          "stock": "Нет в наличии"
+        }
+      ]
+    },
+    {
+      "our": "Доска строганая 20×120×3 м, сорт BC",
+      "unit": "шт.",
+      "ours": 359,
+      "near": [
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*115*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/tovar/316",
+          "rawPrice": 424,
+          "rawUnit": "шт.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*120*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2380&page=5",
+          "rawPrice": 323,
+          "rawUnit": "шт.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Доска сухая сосна \"С\" 20*115*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2329&page=10",
+          "rawPrice": 219,
+          "rawUnit": "шт.",
+          "stock": "Нет в наличии"
+        }
+      ]
+    },
+    {
+      "our": "Доска строганая 20×120×6 м, сорт AB",
+      "unit": "шт.",
+      "ours": 1023,
+      "published": {
+        "seller": "terem",
+        "group": "Доска строганая",
+        "itemId": "terem:771",
+        "title": "Доска сухая сосна \"АВ\" 20*120*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+        "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=771&page=5",
+        "sourceUrl": "https://terem-krym.ru/index.php?route=product/search&search=%D0%94%D0%BE%D1%81%D0%BA%D0%B0%20%D1%81%D1%83%D1%85%D0%B0%D1%8F",
+        "thickness": 20,
+        "width": 120,
+        "length": 6,
+        "grade": "AB",
+        "wood": "сосна",
+        "unit": "шт.",
+        "price": 991,
+        "formula": "991 ₽/шт. — цена сайта",
+        "rawPrice": 991,
+        "rawUnit": "шт.",
+        "pack": 1,
+        "at": "2026-10-15T06:33:40Z",
+        "promo": false,
+        "unitAmbiguous": false,
+        "stock": "Нет в наличии",
+        "edge": "обычный",
+        "construction": "цельная",
+        "fromPrice": false,
+        "sourceNotes": [
+          "Цена прочитана из текущего каталога Терем-Крым. Дата публикации цены не указана.",
+          "Цена, единица и наличие проверены по основной карточке."
+        ],
+        "sourceRow": [
+          "Доска сухая сосна \"АВ\" 20*120*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "991 ₽/шт.",
+          "0 шт. в наличии"
+        ]
+      },
+      "near": []
+    },
+    {
+      "our": "Доска строганая 20×120×6 м, сорт BC",
+      "unit": "шт.",
+      "ours": 807,
+      "near": [
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*120*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=771&page=5",
+          "rawPrice": 991,
+          "rawUnit": "шт.",
+          "stock": "Нет в наличии"
+        }
+      ]
+    },
+    {
+      "our": "Доска строганая 20×145×2 м, сорт AB",
+      "unit": "шт.",
+      "ours": 383,
+      "near": []
+    },
+    {
+      "our": "Доска строганая 20×145×2 м, сорт BC",
+      "unit": "шт.",
+      "ours": 289,
+      "near": []
+    },
+    {
+      "our": "Доска строганая 20×145×3 м, сорт AB",
+      "unit": "шт.",
+      "ours": 575,
+      "near": [
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*140*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2405&page=5",
+          "rawPrice": 364,
+          "rawUnit": "шт.",
+          "stock": "Нет в наличии"
+        }
+      ]
+    },
+    {
+      "our": "Доска строганая 20×145×3 м, сорт BC",
+      "unit": "шт.",
+      "ours": 433,
+      "near": [
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*140*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2405&page=5",
+          "rawPrice": 364,
+          "rawUnit": "шт.",
+          "stock": "Нет в наличии"
+        }
+      ]
+    },
+    {
+      "our": "Доска строганая 20×145×6 м, сорт AB",
+      "unit": "шт.",
+      "ours": 1237,
+      "near": [
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*140*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2550&page=5",
+          "rawPrice": 767,
+          "rawUnit": "шт.",
+          "stock": "Нет в наличии"
+        }
+      ]
+    },
+    {
+      "our": "Доска строганая 20×145×6 м, сорт BC",
+      "unit": "шт.",
+      "ours": 976,
+      "near": [
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*140*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2550&page=5",
+          "rawPrice": 767,
+          "rawUnit": "шт.",
+          "stock": "Нет в наличии"
+        }
+      ]
+    },
+    {
+      "our": "Доска строганая 20×195×3 м, сорт AB",
+      "unit": "шт.",
+      "ours": 785,
+      "near": []
+    },
+    {
+      "our": "Доска строганая 20×195×3 м, сорт BC",
+      "unit": "шт.",
+      "ours": 583,
+      "near": []
+    },
+    {
+      "our": "Доска строганая 20×195×6 м, сорт AB",
+      "unit": "шт.",
+      "ours": 1687,
+      "near": [
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*190*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/tovar/2640",
+          "rawPrice": 1125,
+          "rawUnit": "шт.",
+          "stock": "Нет в наличии"
+        }
+      ]
+    },
+    {
+      "our": "Доска строганая 20×195×6 м, сорт BC",
+      "unit": "шт.",
+      "ours": 1312,
+      "near": [
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*190*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/tovar/2640",
+          "rawPrice": 1125,
+          "rawUnit": "шт.",
+          "stock": "Нет в наличии"
+        }
+      ]
+    },
+    {
+      "our": "Доска строганая 45×96×6 м, сорт AB",
+      "unit": "шт.",
+      "ours": 1473,
+      "near": [
+        {
+          "title": "Доска сухая с фаской сосна \"АВ\" 45*90*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2593&page=5",
+          "rawPrice": 1054,
+          "rawUnit": "шт.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Доска сухая сосна \"АВ\" 45*90*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=998&page=10",
+          "rawPrice": 1452,
+          "rawUnit": "шт.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Доска сухая сосна \"АВ\" 45*95*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1147&page=10",
+          "rawPrice": 1351,
+          "rawUnit": "шт.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Доска сухая сосна \"С\" 45*90*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2510&page=12",
+          "rawPrice": 585,
+          "rawUnit": "шт.",
+          "stock": "Нет в наличии"
+        }
+      ]
+    },
+    {
+      "our": "Доска строганая 45×96×6 м, сорт BC",
+      "unit": "шт.",
+      "ours": 1381,
+      "near": [
+        {
+          "title": "Доска сухая с фаской сосна \"АВ\" 45*90*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2593&page=5",
+          "rawPrice": 1054,
+          "rawUnit": "шт.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Доска сухая сосна \"АВ\" 45*90*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=998&page=10",
+          "rawPrice": 1452,
+          "rawUnit": "шт.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Доска сухая сосна \"АВ\" 45*95*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1147&page=10",
+          "rawPrice": 1351,
+          "rawUnit": "шт.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Доска сухая сосна \"С\" 45*90*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2510&page=12",
+          "rawPrice": 585,
+          "rawUnit": "шт.",
+          "stock": "Нет в наличии"
+        }
+      ]
+    },
+    {
+      "our": "Доска строганая 45×145×6 м, сорт AB",
+      "unit": "шт.",
+      "ours": 2248,
+      "active": {
+        "seller": "terem",
+        "group": "Доска строганая",
+        "itemId": "terem:1317",
+        "title": "Доска сухая сосна \"АВ\" 45*145*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+        "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1317",
+        "sourceUrl": "https://terem-krym.ru/index.php?route=product/search&search=%D0%94%D0%BE%D1%81%D0%BA%D0%B0%20%D1%81%D1%83%D1%85%D0%B0%D1%8F",
+        "thickness": 45,
+        "width": 145,
+        "length": 6,
+        "grade": "AB",
+        "wood": "сосна",
+        "unit": "шт.",
+        "price": 2105,
+        "formula": "2105 ₽/шт. — цена сайта",
+        "rawPrice": 2105,
+        "rawUnit": "шт.",
+        "pack": 1,
+        "at": "2026-10-15T06:33:40Z",
+        "promo": false,
+        "unitAmbiguous": false,
+        "stock": "В наличии: 269 шт.",
+        "edge": "обычный",
+        "construction": "цельная",
+        "fromPrice": false,
+        "sourceNotes": [
+          "Цена прочитана из текущего каталога Терем-Крым. Дата публикации цены не указана.",
+          "Цена, единица и наличие проверены по основной карточке."
+        ],
+        "sourceRow": [
+          "Доска сухая сосна \"АВ\" 45*145*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "2105 ₽/шт.",
+          "269 шт. в наличии"
+        ]
+      },
+      "published": {
+        "seller": "terem",
+        "group": "Доска строганая",
+        "itemId": "terem:1317",
+        "title": "Доска сухая сосна \"АВ\" 45*145*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+        "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1317",
+        "sourceUrl": "https://terem-krym.ru/index.php?route=product/search&search=%D0%94%D0%BE%D1%81%D0%BA%D0%B0%20%D1%81%D1%83%D1%85%D0%B0%D1%8F",
+        "thickness": 45,
+        "width": 145,
+        "length": 6,
+        "grade": "AB",
+        "wood": "сосна",
+        "unit": "шт.",
+        "price": 2105,
+        "formula": "2105 ₽/шт. — цена сайта",
+        "rawPrice": 2105,
+        "rawUnit": "шт.",
+        "pack": 1,
+        "at": "2026-10-15T06:33:40Z",
+        "promo": false,
+        "unitAmbiguous": false,
+        "stock": "В наличии: 269 шт.",
+        "edge": "обычный",
+        "construction": "цельная",
+        "fromPrice": false,
+        "sourceNotes": [
+          "Цена прочитана из текущего каталога Терем-Крым. Дата публикации цены не указана.",
+          "Цена, единица и наличие проверены по основной карточке."
+        ],
+        "sourceRow": [
+          "Доска сухая сосна \"АВ\" 45*145*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "2105 ₽/шт.",
+          "269 шт. в наличии"
+        ]
+      },
+      "near": [
+        {
+          "title": "Доска сухая сосна \"АВ\" 45*140*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2693&page=10",
+          "rawPrice": 1526,
+          "rawUnit": "шт.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Доска сухая сосна \"С\" 45*145*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1161&page=12",
+          "rawPrice": 1774,
+          "rawUnit": "шт.",
+          "stock": "Нет в наличии"
+        }
+      ]
+    },
+    {
+      "our": "Доска строганая 45×145×6 м, сорт BC",
+      "unit": "шт.",
+      "ours": 2108,
+      "published": {
+        "seller": "terem",
+        "group": "Доска строганая",
+        "itemId": "terem:1161",
+        "title": "Доска сухая сосна \"С\" 45*145*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+        "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1161&page=12",
+        "sourceUrl": "https://terem-krym.ru/index.php?route=product/search&search=%D0%94%D0%BE%D1%81%D0%BA%D0%B0%20%D1%81%D1%83%D1%85%D0%B0%D1%8F",
+        "thickness": 45,
+        "width": 145,
+        "length": 6,
+        "grade": "C",
+        "wood": "сосна",
+        "unit": "шт.",
+        "price": 1774,
+        "formula": "1774 ₽/шт. — цена сайта",
+        "rawPrice": 1774,
+        "rawUnit": "шт.",
+        "pack": 1,
+        "at": "2026-10-15T06:33:40Z",
+        "promo": false,
+        "unitAmbiguous": false,
+        "stock": "Нет в наличии",
+        "edge": "обычный",
+        "construction": "цельная",
+        "fromPrice": false,
+        "sourceNotes": [
+          "Цена прочитана из текущего каталога Терем-Крым. Дата публикации цены не указана.",
+          "Цена, единица и наличие проверены по основной карточке."
+        ],
+        "sourceRow": [
+          "Доска сухая сосна \"С\" 45*145*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "1774 ₽/шт.",
+          "0 шт. в наличии"
+        ]
+      },
+      "near": [
+        {
+          "title": "Доска сухая сосна \"АВ\" 45*145*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1317",
+          "rawPrice": 2105,
+          "rawUnit": "шт.",
+          "stock": "В наличии: 269 шт."
+        },
+        {
+          "title": "Доска сухая сосна \"АВ\" 45*140*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2693&page=10",
+          "rawPrice": 1526,
+          "rawUnit": "шт.",
+          "stock": "Нет в наличии"
+        }
+      ]
+    },
+    {
+      "our": "Доска строганая 45×195×6 м, сорт AB",
+      "unit": "шт.",
+      "ours": 3024,
+      "active": {
+        "seller": "terem",
+        "group": "Доска строганая",
+        "itemId": "terem:1503",
+        "title": "Доска сухая сосна \"АВ\" 45*195*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+        "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1503",
+        "sourceUrl": "https://terem-krym.ru/index.php?route=product/search&search=%D0%94%D0%BE%D1%81%D0%BA%D0%B0%20%D1%81%D1%83%D1%85%D0%B0%D1%8F",
+        "thickness": 45,
+        "width": 195,
+        "length": 6,
+        "grade": "AB",
+        "wood": "сосна",
+        "unit": "шт.",
+        "price": 2831,
+        "formula": "2831 ₽/шт. — цена сайта",
+        "rawPrice": 2831,
+        "rawUnit": "шт.",
+        "pack": 1,
+        "at": "2026-10-15T06:33:40Z",
+        "promo": false,
+        "unitAmbiguous": false,
+        "stock": "В наличии: 198 шт.",
+        "edge": "обычный",
+        "construction": "цельная",
+        "fromPrice": false,
+        "sourceNotes": [
+          "Цена прочитана из текущего каталога Терем-Крым. Дата публикации цены не указана.",
+          "Цена, единица и наличие проверены по основной карточке."
+        ],
+        "sourceRow": [
+          "Доска сухая сосна \"АВ\" 45*195*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "2831 ₽/шт.",
+          "198 шт. в наличии"
+        ]
+      },
+      "published": {
+        "seller": "terem",
+        "group": "Доска строганая",
+        "itemId": "terem:1503",
+        "title": "Доска сухая сосна \"АВ\" 45*195*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+        "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1503",
+        "sourceUrl": "https://terem-krym.ru/index.php?route=product/search&search=%D0%94%D0%BE%D1%81%D0%BA%D0%B0%20%D1%81%D1%83%D1%85%D0%B0%D1%8F",
+        "thickness": 45,
+        "width": 195,
+        "length": 6,
+        "grade": "AB",
+        "wood": "сосна",
+        "unit": "шт.",
+        "price": 2831,
+        "formula": "2831 ₽/шт. — цена сайта",
+        "rawPrice": 2831,
+        "rawUnit": "шт.",
+        "pack": 1,
+        "at": "2026-10-15T06:33:40Z",
+        "promo": false,
+        "unitAmbiguous": false,
+        "stock": "В наличии: 198 шт.",
+        "edge": "обычный",
+        "construction": "цельная",
+        "fromPrice": false,
+        "sourceNotes": [
+          "Цена прочитана из текущего каталога Терем-Крым. Дата публикации цены не указана.",
+          "Цена, единица и наличие проверены по основной карточке."
+        ],
+        "sourceRow": [
+          "Доска сухая сосна \"АВ\" 45*195*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "2831 ₽/шт.",
+          "198 шт. в наличии"
+        ]
+      },
+      "near": [
+        {
+          "title": "Доска сухая сосна \"С\" 45*195*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2779&page=12",
+          "rawPrice": 2498,
+          "rawUnit": "шт.",
+          "stock": "Нет в наличии"
+        }
+      ]
+    },
+    {
+      "our": "Доска строганая 45×195×6 м, сорт BC",
+      "unit": "шт.",
+      "ours": 2834,
+      "published": {
+        "seller": "terem",
+        "group": "Доска строганая",
+        "itemId": "terem:2779",
+        "title": "Доска сухая сосна \"С\" 45*195*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+        "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2779&page=12",
+        "sourceUrl": "https://terem-krym.ru/index.php?route=product/search&search=%D0%94%D0%BE%D1%81%D0%BA%D0%B0%20%D1%81%D1%83%D1%85%D0%B0%D1%8F",
+        "thickness": 45,
+        "width": 195,
+        "length": 6,
+        "grade": "C",
+        "wood": "сосна",
+        "unit": "шт.",
+        "price": 2498,
+        "formula": "2498 ₽/шт. — цена сайта",
+        "rawPrice": 2498,
+        "rawUnit": "шт.",
+        "pack": 1,
+        "at": "2026-10-15T06:33:40Z",
+        "promo": false,
+        "unitAmbiguous": false,
+        "stock": "Нет в наличии",
+        "edge": "обычный",
+        "construction": "цельная",
+        "fromPrice": false,
+        "sourceNotes": [
+          "Цена прочитана из текущего каталога Терем-Крым. Дата публикации цены не указана.",
+          "Цена, единица и наличие проверены по основной карточке."
+        ],
+        "sourceRow": [
+          "Доска сухая сосна \"С\" 45*195*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "2498 ₽/шт.",
+          "0 шт. в наличии"
+        ]
+      },
+      "near": [
+        {
+          "title": "Доска сухая сосна \"АВ\" 45*195*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1503",
+          "rawPrice": 2831,
+          "rawUnit": "шт.",
+          "stock": "В наличии: 198 шт."
+        }
+      ]
+    },
+    {
+      "our": "Планкен прямой 20×80×3 м, сорт C",
+      "unit": "м²",
+      "ours": 997,
+      "near": []
+    },
+    {
+      "our": "Планкен прямой 20×80×6 м, сорт ABC",
+      "unit": "м²",
+      "ours": 1122,
+      "near": []
+    },
+    {
+      "our": "Планкен прямой 20×80×3 м, сорт AB",
+      "unit": "м²",
+      "ours": 1247,
+      "near": []
+    },
+    {
+      "our": "Планкен прямой 20×80×6 м, сорт AB",
+      "unit": "м²",
+      "ours": 1347,
+      "near": []
+    },
+    {
+      "our": "Планкен прямой 20×96×3 м, сорт C",
+      "unit": "м²",
+      "ours": 997,
+      "near": [
+        {
+          "title": "Планкен прямой Сосна \"АВ\" 20*90*3000мм",
+          "url": "https://terem-krym.ru/tovar/3698",
+          "rawPrice": 371,
+          "rawUnit": "шт.",
+          "stock": "В наличии: 746 шт."
+        },
+        {
+          "title": "Планкен прямой Сосна \"С\" 20*90*3000мм",
+          "url": "https://terem-krym.ru/tovar/3699",
+          "rawPrice": 254,
+          "rawUnit": "шт.",
+          "stock": "В наличии: 839 шт."
+        }
+      ]
+    },
+    {
+      "our": "Планкен прямой 20×96×6 м, сорт ABC",
+      "unit": "м²",
+      "ours": 1122,
+      "near": [
+        {
+          "title": "Планкен прямой Сосна \"АВ\" 20*90*6000мм",
+          "url": "https://terem-krym.ru/tovar/3306",
+          "rawPrice": 741,
+          "rawUnit": "шт.",
+          "stock": "Нет в наличии"
+        }
+      ]
+    },
+    {
+      "our": "Планкен прямой 20×96×3 м, сорт AB",
+      "unit": "м²",
+      "ours": 1247,
+      "near": [
+        {
+          "title": "Планкен прямой Сосна \"АВ\" 20*90*3000мм",
+          "url": "https://terem-krym.ru/tovar/3698",
+          "rawPrice": 371,
+          "rawUnit": "шт.",
+          "stock": "В наличии: 746 шт."
+        },
+        {
+          "title": "Планкен прямой Сосна \"С\" 20*90*3000мм",
+          "url": "https://terem-krym.ru/tovar/3699",
+          "rawPrice": 254,
+          "rawUnit": "шт.",
+          "stock": "В наличии: 839 шт."
+        }
+      ]
+    },
+    {
+      "our": "Планкен прямой 20×96×6 м, сорт AB",
+      "unit": "м²",
+      "ours": 1347,
+      "near": [
+        {
+          "title": "Планкен прямой Сосна \"АВ\" 20*90*6000мм",
+          "url": "https://terem-krym.ru/tovar/3306",
+          "rawPrice": 741,
+          "rawUnit": "шт.",
+          "stock": "Нет в наличии"
+        }
+      ]
+    },
+    {
+      "our": "Планкен прямой 20×120×3 м, сорт C",
+      "unit": "м²",
+      "ours": 997,
+      "near": []
+    },
+    {
+      "our": "Планкен прямой 20×120×6 м, сорт ABC",
+      "unit": "м²",
+      "ours": 1122,
+      "near": []
+    },
+    {
+      "our": "Планкен прямой 20×120×3 м, сорт AB",
+      "unit": "м²",
+      "ours": 1322,
+      "near": []
+    },
+    {
+      "our": "Планкен прямой 20×120×6 м, сорт AB",
+      "unit": "м²",
+      "ours": 1422,
+      "near": []
+    },
+    {
+      "our": "Планкен прямой 20×145×3 м, сорт C",
+      "unit": "м²",
+      "ours": 997,
+      "near": [
+        {
+          "title": "Планкен прямой Сосна \"АВ\" 20*140*3000мм НК",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=506&page=16",
+          "rawPrice": 378,
+          "rawUnit": "шт.",
+          "stock": "Нет в наличии"
+        }
+      ]
+    },
+    {
+      "our": "Планкен прямой 20×145×6 м, сорт ABC",
+      "unit": "м²",
+      "ours": 1122,
+      "near": [
+        {
+          "title": "Планкен прямой Сосна \"С\" 20*140*6000мм",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=721&page=2",
+          "rawPrice": 844,
+          "rawUnit": "шт.",
+          "stock": "В наличии: 7 шт."
+        },
+        {
+          "title": "Планкен прямой Сосна \"АВ\" 20*140*6000мм",
+          "url": "https://terem-krym.ru/tovar/3305",
+          "rawPrice": 1156,
+          "rawUnit": "шт.",
+          "stock": "Нет в наличии"
+        }
+      ]
+    },
+    {
+      "our": "Планкен прямой 20×145×3 м, сорт AB",
+      "unit": "м²",
+      "ours": 1322,
+      "near": [
+        {
+          "title": "Планкен прямой Сосна \"АВ\" 20*140*3000мм НК",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=506&page=16",
+          "rawPrice": 378,
+          "rawUnit": "шт.",
+          "stock": "Нет в наличии"
+        }
+      ]
+    },
+    {
+      "our": "Планкен прямой 20×145×6 м, сорт AB",
+      "unit": "м²",
+      "ours": 1422,
+      "near": [
+        {
+          "title": "Планкен прямой Сосна \"С\" 20*140*6000мм",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=721&page=2",
+          "rawPrice": 844,
+          "rawUnit": "шт.",
+          "stock": "В наличии: 7 шт."
+        },
+        {
+          "title": "Планкен прямой Сосна \"АВ\" 20*140*6000мм",
+          "url": "https://terem-krym.ru/tovar/3305",
+          "rawPrice": 1156,
+          "rawUnit": "шт.",
+          "stock": "Нет в наличии"
+        }
+      ]
+    },
+    {
+      "our": "Планкен прямой 20×90 мм, длина не указана, сорт ПРИМА",
+      "unit": "м²",
+      "ours": 3128,
+      "near": [
+        {
+          "title": "Планкен прямой листвен браш.\"С-Ст\" 22*95*4000мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1796",
+          "rawPrice": 5048,
+          "rawUnit": "уп.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен прямой лиственница \"В\" 22*95*4000мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2877",
+          "rawPrice": 2731,
+          "rawUnit": "уп.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен прямой лиственница \"C\" 20*96*4000мм*8шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2966&page=4",
+          "rawPrice": 3644,
+          "rawUnit": "уп.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен прямой лиственница \"А\" 20*96*3000мм*8шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3119&page=5",
+          "rawPrice": 8059,
+          "rawUnit": "уп.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен прямой лиственница \"А\" 20*96*3500мм*8шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3020&page=5",
+          "rawPrice": 4671,
+          "rawUnit": "уп.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен прямой лиственница \"А\" 20*96*4000мм*8шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3154&page=5",
+          "rawPrice": 8816,
+          "rawUnit": "уп.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен прямой лиственница \"В\" 20*96*3000мм*8шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2963&page=7",
+          "rawPrice": 3604,
+          "rawUnit": "уп.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен прямой лиственница \"В\" 20*96*3500мм*8шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2979&page=7",
+          "rawPrice": 4205,
+          "rawUnit": "уп.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен прямой лиственница \"В\" 20*96*4000мм*8шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1900&page=7",
+          "rawPrice": 6311,
+          "rawUnit": "уп.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен прямой лиственница \"С\" 20*96*3000мм*8шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2975&page=8",
+          "rawPrice": 4390,
+          "rawUnit": "уп.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен прямой лиственница \"С\" 20*96*4000мм*8шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3036&page=8",
+          "rawPrice": 4820,
+          "rawUnit": "уп.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен прямой лиственница \"СД\" 20*96*3000мм*8шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2756&page=9",
+          "rawPrice": 1835,
+          "rawUnit": "уп.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен прямой лиственница \"СД\" 20*96*3500мм*8шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2794&page=9",
+          "rawPrice": 2142,
+          "rawUnit": "уп.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен прямой лиственница \"СД\" 20*96*4000мм*8шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2821&page=9",
+          "rawPrice": 2448,
+          "rawUnit": "уп.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен прямой лиственница \"Экстра\" 20*96*3000мм*8шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3049&page=10",
+          "rawPrice": 6244,
+          "rawUnit": "уп.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен прямой лиственница \"Экстра\" 20*96*4000мм*8шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3130&page=11",
+          "rawPrice": 11022,
+          "rawUnit": "уп.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен прямой лиственница \"Элит\" 20*96*3000мм*8шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3081&page=11",
+          "rawPrice": 7375,
+          "rawUnit": "уп.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен прямой лиственница \"Элит\" 20*96*3500мм*8шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3140&page=11",
+          "rawPrice": 8605,
+          "rawUnit": "уп.",
+          "stock": "Нет в наличии"
+        }
+      ]
+    },
+    {
+      "our": "Планкен прямой 20×90 мм, длина не указана, сорт AB",
+      "unit": "м²",
+      "ours": 2479,
+      "near": [
+        {
+          "title": "Планкен прямой листвен браш.\"С-Ст\" 22*95*4000мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1796",
+          "rawPrice": 5048,
+          "rawUnit": "уп.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен прямой лиственница \"В\" 22*95*4000мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2877",
+          "rawPrice": 2731,
+          "rawUnit": "уп.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен прямой лиственница \"C\" 20*96*4000мм*8шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2966&page=4",
+          "rawPrice": 3644,
+          "rawUnit": "уп.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен прямой лиственница \"А\" 20*96*3000мм*8шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3119&page=5",
+          "rawPrice": 8059,
+          "rawUnit": "уп.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен прямой лиственница \"А\" 20*96*3500мм*8шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3020&page=5",
+          "rawPrice": 4671,
+          "rawUnit": "уп.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен прямой лиственница \"А\" 20*96*4000мм*8шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3154&page=5",
+          "rawPrice": 8816,
+          "rawUnit": "уп.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен прямой лиственница \"В\" 20*96*3000мм*8шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2963&page=7",
+          "rawPrice": 3604,
+          "rawUnit": "уп.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен прямой лиственница \"В\" 20*96*3500мм*8шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2979&page=7",
+          "rawPrice": 4205,
+          "rawUnit": "уп.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен прямой лиственница \"В\" 20*96*4000мм*8шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1900&page=7",
+          "rawPrice": 6311,
+          "rawUnit": "уп.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен прямой лиственница \"С\" 20*96*3000мм*8шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2975&page=8",
+          "rawPrice": 4390,
+          "rawUnit": "уп.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен прямой лиственница \"С\" 20*96*4000мм*8шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3036&page=8",
+          "rawPrice": 4820,
+          "rawUnit": "уп.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен прямой лиственница \"СД\" 20*96*3000мм*8шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2756&page=9",
+          "rawPrice": 1835,
+          "rawUnit": "уп.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен прямой лиственница \"СД\" 20*96*3500мм*8шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2794&page=9",
+          "rawPrice": 2142,
+          "rawUnit": "уп.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен прямой лиственница \"СД\" 20*96*4000мм*8шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2821&page=9",
+          "rawPrice": 2448,
+          "rawUnit": "уп.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен прямой лиственница \"Экстра\" 20*96*3000мм*8шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3049&page=10",
+          "rawPrice": 6244,
+          "rawUnit": "уп.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен прямой лиственница \"Экстра\" 20*96*4000мм*8шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3130&page=11",
+          "rawPrice": 11022,
+          "rawUnit": "уп.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен прямой лиственница \"Элит\" 20*96*3000мм*8шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3081&page=11",
+          "rawPrice": 7375,
+          "rawUnit": "уп.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен прямой лиственница \"Элит\" 20*96*3500мм*8шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3140&page=11",
+          "rawPrice": 8605,
+          "rawUnit": "уп.",
+          "stock": "Нет в наличии"
+        }
+      ]
+    },
+    {
+      "our": "Планкен прямой 20×90 мм, длина не указана, сорт BC",
+      "unit": "м²",
+      "ours": 2125,
+      "near": [
+        {
+          "title": "Планкен прямой листвен браш.\"С-Ст\" 22*95*4000мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1796",
+          "rawPrice": 5048,
+          "rawUnit": "уп.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен прямой лиственница \"В\" 22*95*4000мм*6шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2877",
+          "rawPrice": 2731,
+          "rawUnit": "уп.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен прямой лиственница \"C\" 20*96*4000мм*8шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2966&page=4",
+          "rawPrice": 3644,
+          "rawUnit": "уп.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен прямой лиственница \"А\" 20*96*3000мм*8шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3119&page=5",
+          "rawPrice": 8059,
+          "rawUnit": "уп.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен прямой лиственница \"А\" 20*96*3500мм*8шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3020&page=5",
+          "rawPrice": 4671,
+          "rawUnit": "уп.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен прямой лиственница \"А\" 20*96*4000мм*8шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3154&page=5",
+          "rawPrice": 8816,
+          "rawUnit": "уп.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен прямой лиственница \"В\" 20*96*3000мм*8шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2963&page=7",
+          "rawPrice": 3604,
+          "rawUnit": "уп.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен прямой лиственница \"В\" 20*96*3500мм*8шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2979&page=7",
+          "rawPrice": 4205,
+          "rawUnit": "уп.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен прямой лиственница \"В\" 20*96*4000мм*8шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1900&page=7",
+          "rawPrice": 6311,
+          "rawUnit": "уп.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен прямой лиственница \"С\" 20*96*3000мм*8шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2975&page=8",
+          "rawPrice": 4390,
+          "rawUnit": "уп.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен прямой лиственница \"С\" 20*96*4000мм*8шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3036&page=8",
+          "rawPrice": 4820,
+          "rawUnit": "уп.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен прямой лиственница \"СД\" 20*96*3000мм*8шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2756&page=9",
+          "rawPrice": 1835,
+          "rawUnit": "уп.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен прямой лиственница \"СД\" 20*96*3500мм*8шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2794&page=9",
+          "rawPrice": 2142,
+          "rawUnit": "уп.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен прямой лиственница \"СД\" 20*96*4000мм*8шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2821&page=9",
+          "rawPrice": 2448,
+          "rawUnit": "уп.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен прямой лиственница \"Экстра\" 20*96*3000мм*8шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3049&page=10",
+          "rawPrice": 6244,
+          "rawUnit": "уп.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен прямой лиственница \"Экстра\" 20*96*4000мм*8шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3130&page=11",
+          "rawPrice": 11022,
+          "rawUnit": "уп.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен прямой лиственница \"Элит\" 20*96*3000мм*8шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3081&page=11",
+          "rawPrice": 7375,
+          "rawUnit": "уп.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Планкен прямой лиственница \"Элит\" 20*96*3500мм*8шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3140&page=11",
+          "rawPrice": 8605,
+          "rawUnit": "уп.",
+          "stock": "Нет в наличии"
+        }
+      ]
+    },
+    {
+      "our": "Планкен скошенный 20×96 мм, длина не указана, сорт AB",
+      "unit": "м²",
+      "ours": 2479,
+      "near": []
+    },
+    {
+      "our": "Планкен скошенный 20×96 мм, длина не указана, сорт BC",
+      "unit": "м²",
+      "ours": 2125,
+      "near": []
+    }
+  ]
+}
