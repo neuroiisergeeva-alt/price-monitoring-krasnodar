@@ -205,6 +205,30 @@
       "referenceWithoutStock": false,
       "change": null,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1217"
+    },
+    {
+      "item": "Блок-хаус 21×96×6 м, сорт AB",
+      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/blok-haus-el-sosna/:21:96:6:AB:main:7:",
+      "unit": "м²",
+      "ours": 1440,
+      "competitor": 1421.7687074829932,
+      "difference": 18.23129251700675,
+      "availability": "В наличии: 89 упак",
+      "referenceWithoutStock": false,
+      "change": null,
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1775"
+    },
+    {
+      "item": "Блок-хаус 28×145×6 м, сорт AB",
+      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/blok-haus-el-sosna/:28:145:6:AB:main:4:",
+      "unit": "м²",
+      "ours": 1920,
+      "competitor": 1855.4778554778554,
+      "difference": 64.52214452214457,
+      "availability": "В наличии: 1 упак",
+      "referenceWithoutStock": false,
+      "change": null,
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2001"
     }
   ],
   "errors": [

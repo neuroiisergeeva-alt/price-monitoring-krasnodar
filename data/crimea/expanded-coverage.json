@@ -1,11 +1,11 @@
 {
-  "at": "2026-10-15T10:11:32.344Z",
+  "at": "2026-10-15T10:21:06.470Z",
   "summary": [
     {
       "group": "Блок-хаус",
       "ours": 19,
-      "matched": 0,
-      "reference": 7,
+      "matched": 5,
+      "reference": 2,
       "missing": 12
     },
     {
@@ -305,15 +305,15 @@
       "group": "Блок-хаус",
       "wood": "ель/сосна",
       "unit": "м²",
-      "matches": [],
-      "references": [
+      "matches": [
         {
           "title": "Блок - хаус сосна/ель \"АВ\" 21*98(90)*6000мм*6шт",
           "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1775",
           "price": 1421.7687074829932,
-          "stock": "В наличии: 89 упак",
-          "notes": null
-        },
+          "stock": "В наличии: 89 упак"
+        }
+      ],
+      "references": [
         {
           "title": "Блок - хаус сосна/ель \"С\" 21*98(90)*6000мм*6шт",
           "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1495",
@@ -375,71 +375,66 @@
       "group": "Блок-хаус",
       "wood": "ель/сосна",
       "unit": "м²",
-      "matches": [],
-      "references": [
+      "matches": [
         {
           "title": "Блок - хаус сосна/ель \"АВ\" 28*143(135)*3000мм*5шт",
           "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3219",
           "price": 1855.4778554778554,
-          "stock": "Нет в наличии",
-          "notes": null
+          "stock": "Нет в наличии"
         }
-      ]
+      ],
+      "references": []
     },
     {
       "title": "Блок-хаус 28×145×4 м, сорт AB",
       "group": "Блок-хаус",
       "wood": "ель/сосна",
       "unit": "м²",
-      "matches": [],
-      "references": [
+      "matches": [
         {
           "title": "Блок - хаус сосна/ель \"АВ\" 28*143(135)*4000мм*5шт",
           "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3178",
           "price": 1855.594405594406,
-          "stock": "Нет в наличии",
-          "notes": null
+          "stock": "Нет в наличии"
         }
-      ]
+      ],
+      "references": []
     },
     {
       "title": "Блок-хаус 28×145×5 м, сорт AB",
       "group": "Блок-хаус",
       "wood": "ель/сосна",
       "unit": "м²",
-      "matches": [],
-      "references": [
+      "matches": [
         {
           "title": "Блок - хаус сосна/ель \"АВ\" 28*143(135)*5000мм*5шт",
           "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3224",
           "price": 1855.6643356643358,
-          "stock": "Нет в наличии",
-          "notes": null
+          "stock": "Нет в наличии"
         }
-      ]
+      ],
+      "references": []
     },
     {
       "title": "Блок-хаус 28×145×6 м, сорт AB",
       "group": "Блок-хаус",
       "wood": "ель/сосна",
       "unit": "м²",
-      "matches": [],
-      "references": [
+      "matches": [
         {
           "title": "Блок - хаус сосна/ель \"АВ\" 28*143(135)*6000мм*4шт",
           "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2001",
           "price": 1855.4778554778554,
-          "stock": "В наличии: 1 упак",
-          "notes": null
+          "stock": "В наличии: 1 упак"
         },
         {
           "title": "Блок - хаус сосна/ель \"АВ\" 28*143(135)*6000мм*5шт",
           "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2088",
           "price": 1855.710955710956,
-          "stock": "В наличии: 22 упак",
-          "notes": null
+          "stock": "В наличии: 22 упак"
         }
-      ]
+      ],
+      "references": []
     },
     {
       "title": "Блок-хаус 36×175×3 м, сорт C",
