@@ -1,0 +1,489 @@
+{
+  "at": "2026-10-15T10:46:43Z",
+  "checks": [
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1293",
+      "status": "ok",
+      "title": "Палубная доска сосна \"АВ\" 45*145*6000мм",
+      "unit": "шт.",
+      "price": 2105,
+      "stock": "В наличии: 189 шт."
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1518",
+      "status": "ok",
+      "title": "Палубная доска сосна \"АВ\" 45*195*6000мм",
+      "unit": "шт.",
+      "price": 2831,
+      "stock": "В наличии: 207 шт."
+    },
+    {
+      "url": "https://terem-krym.ru/catalog/elementy-dlya-lestnic/dub/stupeni/palubnaya-doska-sosna-av-45953000mm",
+      "status": "ok",
+      "title": "Палубная доска сосна \"АВ\" 45*95*3000мм",
+      "unit": "шт.",
+      "price": 830,
+      "stock": "В наличии: 226 шт."
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1145",
+      "status": "ok",
+      "title": "Палубная доска сосна \"АВ\" 45*95*6000мм",
+      "unit": "шт.",
+      "price": 1351,
+      "stock": "В наличии: 12 шт."
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=938",
+      "status": "ok",
+      "title": "Палубная доска сосна \"C\" 45*95*6000мм",
+      "unit": "шт.",
+      "price": 1117,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=924",
+      "status": "ok",
+      "title": "Палубная доска сосна \"АВ\" 28*120*6000мм",
+      "unit": "шт.",
+      "price": 1128,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1170",
+      "status": "ok",
+      "title": "Палубная доска сосна \"АВ\" 35*140*6000мм",
+      "unit": "шт.",
+      "price": 1799,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1185",
+      "status": "ok",
+      "title": "Палубная доска сосна \"АВ\" 45*140*6000мм",
+      "unit": "шт.",
+      "price": 1907,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1143",
+      "status": "ok",
+      "title": "Палубная доска сосна \"АВ\" 45*90*6000мм",
+      "unit": "шт.",
+      "price": 1532,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1146",
+      "status": "ok",
+      "title": "Палубная доска сосна \"С\" 45*140*6000мм",
+      "unit": "шт.",
+      "price": 1652,
+      "stock": "Нет в наличии"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1443",
+      "status": "ok",
+      "title": "Палубная доска сосна \"С\" 45*195*6000мм",
+      "unit": "шт.",
+      "price": 2498,
+      "stock": "Нет в наличии"
+    }
+  ],
+  "coverage": [
+    {
+      "our": "Палубная доска 28×96×3 м, сорт C",
+      "unit": "м²",
+      "ours": 1395,
+      "near": []
+    },
+    {
+      "our": "Палубная доска 28×96×6 м, сорт ABC",
+      "unit": "м²",
+      "ours": 1570,
+      "near": []
+    },
+    {
+      "our": "Палубная доска 28×96×3 м, сорт AB",
+      "unit": "м²",
+      "ours": 1745,
+      "near": []
+    },
+    {
+      "our": "Палубная доска 28×96×6 м, сорт AB",
+      "unit": "м²",
+      "ours": 1850,
+      "near": []
+    },
+    {
+      "our": "Палубная доска 28×120×6 м, сорт AB",
+      "unit": "м²",
+      "ours": 1924,
+      "published": {
+        "seller": "terem",
+        "group": "Палубная доска",
+        "itemId": "terem:924",
+        "title": "Палубная доска сосна \"АВ\" 28*120*6000мм",
+        "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=924",
+        "sourceUrl": "https://terem-krym.ru/catalog/doska_palubnaya",
+        "thickness": 28,
+        "width": 120,
+        "length": 6,
+        "grade": "AB",
+        "wood": "сосна",
+        "unit": "м²",
+        "price": 1566.6666666666667,
+        "formula": "1128 ₽/шт.  ÷ 6 м ÷ 0.12 м = 1566.67 ₽/м²",
+        "rawPrice": 1128,
+        "rawUnit": "шт.",
+        "pack": 1,
+        "at": "2026-10-15T10:46:43Z",
+        "promo": false,
+        "unitAmbiguous": false,
+        "stock": "Нет в наличии",
+        "edge": "обычный",
+        "construction": "не указана",
+        "fromPrice": false,
+        "sourceNotes": [
+          "Цена прочитана из текущего каталога Терем-Крым. Дата публикации цены не указана.",
+          "Цена, единица и наличие проверены по основной карточке."
+        ],
+        "sourceRow": [
+          "Палубная доска сосна \"АВ\" 28*120*6000мм",
+          "1128 ₽/шт.",
+          "0 шт. в наличии"
+        ]
+      },
+      "near": []
+    },
+    {
+      "our": "Палубная доска 28×145×6 м, сорт AB",
+      "unit": "м²",
+      "ours": 1924,
+      "near": []
+    },
+    {
+      "our": "Палубная доска 36×96×3 м, сорт C",
+      "unit": "м²",
+      "ours": 1794,
+      "near": []
+    },
+    {
+      "our": "Палубная доска 36×96×6 м, сорт ABC",
+      "unit": "м²",
+      "ours": 2019,
+      "near": []
+    },
+    {
+      "our": "Палубная доска 36×96×3 м, сорт AB",
+      "unit": "м²",
+      "ours": 2244,
+      "near": []
+    },
+    {
+      "our": "Палубная доска 36×96×6 м, сорт AB",
+      "unit": "м²",
+      "ours": 2379,
+      "near": []
+    },
+    {
+      "our": "Палубная доска 28×120×3 м, сорт C",
+      "unit": "м²",
+      "ours": 1395,
+      "near": []
+    },
+    {
+      "our": "Палубная доска 28×120×6 м, сорт ABC",
+      "unit": "м²",
+      "ours": 1570,
+      "near": [
+        {
+          "title": "Палубная доска сосна \"АВ\" 28*120*6000мм",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=924",
+          "rawPrice": 1128,
+          "rawUnit": "шт.",
+          "stock": "Нет в наличии"
+        }
+      ]
+    },
+    {
+      "our": "Палубная доска 28×145×3 м, сорт C",
+      "unit": "м²",
+      "ours": 1395,
+      "near": []
+    },
+    {
+      "our": "Палубная доска 28×145×6 м, сорт ABC",
+      "unit": "м²",
+      "ours": 1570,
+      "near": []
+    },
+    {
+      "our": "Палубная доска 40×96×2 м, сорт AB",
+      "unit": "м²",
+      "ours": 2297,
+      "near": []
+    },
+    {
+      "our": "Палубная доска 40×96×3 м, сорт AB",
+      "unit": "м²",
+      "ours": 2297,
+      "near": []
+    },
+    {
+      "our": "Палубная доска 40×96×4 м, сорт AB",
+      "unit": "м²",
+      "ours": 2297,
+      "near": []
+    },
+    {
+      "our": "Палубная доска 40×96×6 м, сорт AB",
+      "unit": "м²",
+      "ours": 2297,
+      "near": []
+    },
+    {
+      "our": "Палубная доска 40×96×6 м, сорт ABC",
+      "unit": "м²",
+      "ours": 2153,
+      "near": []
+    },
+    {
+      "our": "Палубная доска 40×120×2 м, сорт AB",
+      "unit": "м²",
+      "ours": 2297,
+      "near": []
+    },
+    {
+      "our": "Палубная доска 40×120×3 м, сорт AB",
+      "unit": "м²",
+      "ours": 2297,
+      "near": []
+    },
+    {
+      "our": "Палубная доска 40×120×4 м, сорт AB",
+      "unit": "м²",
+      "ours": 2297,
+      "near": []
+    },
+    {
+      "our": "Палубная доска 40×120×6 м, сорт ABC",
+      "unit": "м²",
+      "ours": 2153,
+      "near": []
+    },
+    {
+      "our": "Палубная доска 45×145×2 м, сорт AB",
+      "unit": "м²",
+      "ours": 2583,
+      "near": []
+    },
+    {
+      "our": "Палубная доска 45×145×3 м, сорт AB",
+      "unit": "м²",
+      "ours": 2586,
+      "near": []
+    },
+    {
+      "our": "Палубная доска 45×145×4 м, сорт AB",
+      "unit": "м²",
+      "ours": 2583,
+      "published": {
+        "seller": "terem",
+        "group": "Доска строганая",
+        "itemId": "terem:2568",
+        "title": "Доска сухая сосна \"АВ\" 45*145*4000мм (строг.профилир. ОКПД2 код 16.10.2)",
+        "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2568",
+        "sourceUrl": "https://terem-krym.ru/index.php?route=product/search&search=%D0%94%D0%BE%D1%81%D0%BA%D0%B0%20%D1%81%D1%83%D1%85%D0%B0%D1%8F",
+        "thickness": 45,
+        "width": 145,
+        "length": 4,
+        "grade": "AB",
+        "wood": "сосна",
+        "unit": "м²",
+        "price": 1446.5517241379312,
+        "formula": "839 ₽/шт.  ÷ 4 м ÷ 0.145 м = 1446.55 ₽/м²",
+        "rawPrice": 839,
+        "rawUnit": "шт.",
+        "pack": 1,
+        "at": "2026-10-15T10:11:05Z",
+        "promo": false,
+        "unitAmbiguous": false,
+        "stock": "Нет подтвержденного наличия / уведомить",
+        "edge": "обычный",
+        "construction": "цельная",
+        "fromPrice": false,
+        "sourceNotes": [
+          "Цена прочитана из текущего каталога Терем-Крым. Дата публикации цены не указана."
+        ],
+        "sourceRow": [
+          "Доска сухая сосна \"АВ\" 45*145*4000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "839 ₽/шт.",
+          "1 шт. в расчетной упаковке",
+          "0 шт по карточке"
+        ]
+      },
+      "near": []
+    },
+    {
+      "our": "Палубная доска 45×145×6 м, сорт AB",
+      "unit": "м²",
+      "ours": 2583,
+      "active": {
+        "seller": "terem",
+        "group": "Доска строганая",
+        "itemId": "terem:1317",
+        "title": "Доска сухая сосна \"АВ\" 45*145*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+        "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1317",
+        "sourceUrl": "https://terem-krym.ru/index.php?route=product/search&search=%D0%94%D0%BE%D1%81%D0%BA%D0%B0%20%D1%81%D1%83%D1%85%D0%B0%D1%8F",
+        "thickness": 45,
+        "width": 145,
+        "length": 6,
+        "grade": "AB",
+        "wood": "сосна",
+        "unit": "м²",
+        "price": 2419.5402298850577,
+        "formula": "2105 ₽/шт.  ÷ 6 м ÷ 0.145 м = 2419.54 ₽/м²",
+        "rawPrice": 2105,
+        "rawUnit": "шт.",
+        "pack": 1,
+        "at": "2026-10-15T10:11:05Z",
+        "promo": false,
+        "unitAmbiguous": false,
+        "stock": "В наличии: 269 шт",
+        "edge": "обычный",
+        "construction": "цельная",
+        "fromPrice": false,
+        "sourceNotes": [
+          "Цена прочитана из текущего каталога Терем-Крым. Дата публикации цены не указана."
+        ],
+        "sourceRow": [
+          "Доска сухая сосна \"АВ\" 45*145*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "2105 ₽/шт.",
+          "1 шт. в расчетной упаковке",
+          "269 шт по карточке"
+        ]
+      },
+      "published": {
+        "seller": "terem",
+        "group": "Доска строганая",
+        "itemId": "terem:1317",
+        "title": "Доска сухая сосна \"АВ\" 45*145*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+        "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1317",
+        "sourceUrl": "https://terem-krym.ru/index.php?route=product/search&search=%D0%94%D0%BE%D1%81%D0%BA%D0%B0%20%D1%81%D1%83%D1%85%D0%B0%D1%8F",
+        "thickness": 45,
+        "width": 145,
+        "length": 6,
+        "grade": "AB",
+        "wood": "сосна",
+        "unit": "м²",
+        "price": 2419.5402298850577,
+        "formula": "2105 ₽/шт.  ÷ 6 м ÷ 0.145 м = 2419.54 ₽/м²",
+        "rawPrice": 2105,
+        "rawUnit": "шт.",
+        "pack": 1,
+        "at": "2026-10-15T10:11:05Z",
+        "promo": false,
+        "unitAmbiguous": false,
+        "stock": "В наличии: 269 шт",
+        "edge": "обычный",
+        "construction": "цельная",
+        "fromPrice": false,
+        "sourceNotes": [
+          "Цена прочитана из текущего каталога Терем-Крым. Дата публикации цены не указана."
+        ],
+        "sourceRow": [
+          "Доска сухая сосна \"АВ\" 45*145*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "2105 ₽/шт.",
+          "1 шт. в расчетной упаковке",
+          "269 шт по карточке"
+        ]
+      },
+      "near": [
+        {
+          "title": "Палубная доска сосна \"АВ\" 45*140*6000мм",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1185",
+          "rawPrice": 1907,
+          "rawUnit": "шт.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Палубная доска сосна \"С\" 45*140*6000мм",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1146",
+          "rawPrice": 1652,
+          "rawUnit": "шт.",
+          "stock": "Нет в наличии"
+        }
+      ]
+    },
+    {
+      "our": "Палубная доска 45×145×4 м, сорт ABC",
+      "unit": "м²",
+      "ours": 2422,
+      "near": []
+    },
+    {
+      "our": "Палубная доска 45×145×6 м, сорт ABC",
+      "unit": "м²",
+      "ours": 2423,
+      "published": {
+        "seller": "terem",
+        "group": "Доска строганая",
+        "itemId": "terem:1161",
+        "title": "Доска сухая сосна \"С\" 45*145*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+        "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1161",
+        "sourceUrl": "https://terem-krym.ru/index.php?route=product/search&search=%D0%94%D0%BE%D1%81%D0%BA%D0%B0%20%D1%81%D1%83%D1%85%D0%B0%D1%8F",
+        "thickness": 45,
+        "width": 145,
+        "length": 6,
+        "grade": "C",
+        "wood": "сосна",
+        "unit": "м²",
+        "price": 2039.0804597701149,
+        "formula": "1774 ₽/шт.  ÷ 6 м ÷ 0.145 м = 2039.08 ₽/м²",
+        "rawPrice": 1774,
+        "rawUnit": "шт.",
+        "pack": 1,
+        "at": "2026-10-15T10:11:05Z",
+        "promo": false,
+        "unitAmbiguous": false,
+        "stock": "Нет подтвержденного наличия / уведомить",
+        "edge": "обычный",
+        "construction": "цельная",
+        "fromPrice": false,
+        "sourceNotes": [
+          "Цена прочитана из текущего каталога Терем-Крым. Дата публикации цены не указана."
+        ],
+        "sourceRow": [
+          "Доска сухая сосна \"С\" 45*145*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "1774 ₽/шт.",
+          "1 шт. в расчетной упаковке",
+          "0 шт по карточке"
+        ]
+      },
+      "near": [
+        {
+          "title": "Палубная доска сосна \"АВ\" 45*145*6000мм",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1293",
+          "rawPrice": 2105,
+          "rawUnit": "шт.",
+          "stock": "В наличии: 189 шт."
+        },
+        {
+          "title": "Палубная доска сосна \"АВ\" 45*140*6000мм",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1185",
+          "rawPrice": 1907,
+          "rawUnit": "шт.",
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Палубная доска сосна \"С\" 45*140*6000мм",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1146",
+          "rawPrice": 1652,
+          "rawUnit": "шт.",
+          "stock": "Нет в наличии"
+        }
+      ]
+    }
+  ]
+}

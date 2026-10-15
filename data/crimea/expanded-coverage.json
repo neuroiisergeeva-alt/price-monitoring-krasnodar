@@ -1,6 +1,20 @@
 {
-  "at": "2026-10-15T10:29:26.029Z",
+  "at": "2026-10-15T10:50:44.120Z",
   "summary": [
+    {
+      "group": "Доска строганая",
+      "ours": 41,
+      "matched": 26,
+      "reference": 4,
+      "missing": 11
+    },
+    {
+      "group": "Палубная доска",
+      "ours": 32,
+      "matched": 4,
+      "reference": 1,
+      "missing": 27
+    },
     {
       "group": "Блок-хаус",
       "ours": 19,
@@ -11,15 +25,15 @@
     {
       "group": "Доска пола",
       "ours": 37,
-      "matched": 0,
-      "reference": 20,
+      "matched": 17,
+      "reference": 3,
       "missing": 17
     },
     {
       "group": "Евровагонка",
       "ours": 25,
-      "matched": 3,
-      "reference": 11,
+      "matched": 10,
+      "reference": 4,
       "missing": 11
     },
     {
@@ -647,7 +661,14 @@
       "group": "Доска пола",
       "wood": "ель/сосна",
       "unit": "м²",
-      "matches": [],
+      "matches": [
+        {
+          "title": "Доска пола сосна/ель \"С\" 28*120(112)*3000мм*5шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2604",
+          "price": 586.1111111111111,
+          "stock": "Нет в наличии"
+        }
+      ],
       "references": [
         {
           "title": "Доска пола сосна/ель \"АВ\" 28*116(110)*3000мм*5шт",
@@ -660,13 +681,6 @@
           "title": "Доска пола сосна/ель \"АВ\" 28*120(112)*3000мм*5шт",
           "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2804",
           "price": 1268.888888888889,
-          "stock": "Нет в наличии",
-          "notes": null
-        },
-        {
-          "title": "Доска пола сосна/ель \"С\" 28*120(112)*3000мм*5шт",
-          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2604",
-          "price": 586.1111111111111,
           "stock": "Нет в наличии",
           "notes": null
         }
@@ -714,22 +728,21 @@
       "group": "Доска пола",
       "wood": "ель/сосна",
       "unit": "м²",
-      "matches": [],
-      "references": [
+      "matches": [
         {
           "title": "Доска пола сосна/ель \"АВ\" 28*116(110)*3000мм*5шт",
           "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2815",
           "price": 1428.7356321839081,
-          "stock": "Нет в наличии",
-          "notes": null
+          "stock": "Нет в наличии"
         },
         {
           "title": "Доска пола сосна/ель \"АВ\" 28*120(112)*3000мм*5шт",
           "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2804",
           "price": 1268.888888888889,
-          "stock": "Нет в наличии",
-          "notes": null
-        },
+          "stock": "Нет в наличии"
+        }
+      ],
+      "references": [
         {
           "title": "Доска пола сосна/ель \"С\" 28*120(112)*3000мм*5шт",
           "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2604",
@@ -744,33 +757,31 @@
       "group": "Доска пола",
       "wood": "ель/сосна",
       "unit": "м²",
-      "matches": [],
-      "references": [
-        {
-          "title": "Доска пола сосна/ель \"АВ\" 27*121(115)*4000мм*4шт",
-          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2854",
-          "price": 1380.6818181818182,
-          "stock": "Нет в наличии",
-          "notes": null
-        },
+      "matches": [
         {
           "title": "Доска пола сосна/ель \"АВ\" 28*116(110)*4000мм*4шт",
           "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2859",
           "price": 1428.8793103448274,
-          "stock": "Нет в наличии",
-          "notes": null
+          "stock": "Нет в наличии"
         },
         {
           "title": "Доска пола сосна/ель \"АВ\" 28*120(112)*4000мм*4шт",
           "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2791",
           "price": 1095.3125,
-          "stock": "Нет в наличии",
-          "notes": null
+          "stock": "Нет в наличии"
         },
         {
           "title": "Доска пола сосна/ель \"АВ\" 28*120(112)*4000мм*5шт",
           "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2813",
           "price": 1050.8333333333333,
+          "stock": "Нет в наличии"
+        }
+      ],
+      "references": [
+        {
+          "title": "Доска пола сосна/ель \"АВ\" 27*121(115)*4000мм*4шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2854",
+          "price": 1380.6818181818182,
           "stock": "Нет в наличии",
           "notes": null
         },
@@ -788,44 +799,53 @@
       "group": "Доска пола",
       "wood": "ель/сосна",
       "unit": "м²",
-      "matches": [],
-      "references": [
+      "matches": [
         {
           "title": "Доска пола сосна/ель \"АВ\" 28*116(110)*6000мм*4шт",
           "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2942",
           "price": 1834.7701149425288,
-          "stock": "В наличии: 58 упак",
-          "notes": null
+          "stock": "В наличии: 58 упак"
         },
         {
           "title": "Доска пола сосна/ель \"АВ\" 28*116(110)*6000мм*5шт",
           "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3031",
           "price": 1353.7356321839081,
-          "stock": "Нет в наличии",
-          "notes": null
+          "stock": "Нет в наличии"
         },
         {
           "title": "Доска пола сосна/ель \"АВ\" 28*120(112)*6000мм*4шт",
           "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3007",
           "price": 1572.9166666666667,
-          "stock": "Нет в наличии",
-          "notes": null
+          "stock": "Нет в наличии"
         },
         {
           "title": "Доска пола сосна/ель \"АВ\" 28*120(112)*6000мм*5шт",
           "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3022",
           "price": 1268.611111111111,
-          "stock": "Нет в наличии",
-          "notes": null
+          "stock": "Нет в наличии"
         }
-      ]
+      ],
+      "references": []
     },
     {
       "title": "Доска пола 28×145×3 м, сорт C",
       "group": "Доска пола",
       "wood": "ель/сосна",
       "unit": "м²",
-      "matches": [],
+      "matches": [
+        {
+          "title": "Доска пола сосна/ель \"С\" 28*143(135)*3000мм*4шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2647",
+          "price": 675.4079254079254,
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Доска пола сосна/ель \"С\" 28*143(135)*3000мм*5шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2740",
+          "price": 833.5664335664336,
+          "stock": "Нет в наличии"
+        }
+      ],
       "references": [
         {
           "title": "Доска пола сосна/ель \"АВ\" 28*143(135)*3000мм*5шт",
@@ -840,20 +860,6 @@
           "price": 1381.7016317016316,
           "stock": "Нет в наличии",
           "notes": null
-        },
-        {
-          "title": "Доска пола сосна/ель \"С\" 28*143(135)*3000мм*4шт",
-          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2647",
-          "price": 675.4079254079254,
-          "stock": "Нет в наличии",
-          "notes": null
-        },
-        {
-          "title": "Доска пола сосна/ель \"С\" 28*143(135)*3000мм*5шт",
-          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2740",
-          "price": 833.5664335664336,
-          "stock": "Нет в наличии",
-          "notes": null
         }
       ]
     },
@@ -862,7 +868,14 @@
       "group": "Доска пола",
       "wood": "ель/сосна",
       "unit": "м²",
-      "matches": [],
+      "matches": [
+        {
+          "title": "Доска пола сосна/ель \"С\" 28*143(135)*6000мм*4шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1605",
+          "price": 1157.9254079254079,
+          "stock": "В наличии: 72 упак"
+        }
+      ],
       "references": [
         {
           "title": "Доска пола сосна/ель \"АВ\" 28*143(135)*6000мм*4шт",
@@ -877,13 +890,6 @@
           "price": 1798.1351981351982,
           "stock": "В наличии: 179 упак",
           "notes": null
-        },
-        {
-          "title": "Доска пола сосна/ель \"С\" 28*143(135)*6000мм*4шт",
-          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1605",
-          "price": 1157.9254079254079,
-          "stock": "В наличии: 72 упак",
-          "notes": null
         }
       ]
     },
@@ -892,22 +898,21 @@
       "group": "Доска пола",
       "wood": "ель/сосна",
       "unit": "м²",
-      "matches": [],
-      "references": [
+      "matches": [
         {
           "title": "Доска пола сосна/ель \"АВ\" 28*143(135)*3000мм*5шт",
           "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1682",
           "price": 1797.668997668998,
-          "stock": "В наличии: 5 упак",
-          "notes": null
+          "stock": "В наличии: 5 упак"
         },
         {
           "title": "Доска пола сосна/ель \"АВ\" 28*143(135)*3000мм*4шт",
           "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2834",
           "price": 1381.7016317016316,
-          "stock": "Нет в наличии",
-          "notes": null
-        },
+          "stock": "Нет в наличии"
+        }
+      ],
+      "references": [
         {
           "title": "Доска пола сосна/ель \"С\" 28*143(135)*3000мм*4шт",
           "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2647",
@@ -929,22 +934,21 @@
       "group": "Доска пола",
       "wood": "ель/сосна",
       "unit": "м²",
-      "matches": [],
-      "references": [
+      "matches": [
         {
           "title": "Доска пола сосна/ель \"АВ\" 28*143(135)*4000мм*4шт",
           "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2895",
           "price": 1381.555944055944,
-          "stock": "Нет в наличии",
-          "notes": null
+          "stock": "Нет в наличии"
         },
         {
           "title": "Доска пола сосна/ель \"АВ\" 28*143(135)*4000мм*5шт",
           "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1876",
           "price": 1797.5524475524478,
-          "stock": "Нет в наличии",
-          "notes": null
-        },
+          "stock": "Нет в наличии"
+        }
+      ],
+      "references": [
         {
           "title": "Доска пола сосна/ель \"С\" 28*143(135)*4000мм*5шт",
           "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2725",
@@ -959,22 +963,21 @@
       "group": "Доска пола",
       "wood": "ель/сосна",
       "unit": "м²",
-      "matches": [],
-      "references": [
+      "matches": [
         {
           "title": "Доска пола сосна/ель \"АВ\" 28*143(135)*6000мм*4шт",
           "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1918",
           "price": 1790.7925407925409,
-          "stock": "В наличии: 394 упак",
-          "notes": null
+          "stock": "В наличии: 394 упак"
         },
         {
           "title": "Доска пола сосна/ель \"АВ\" 28*143(135)*6000мм*5шт",
           "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2016",
           "price": 1798.1351981351982,
-          "stock": "В наличии: 179 упак",
-          "notes": null
-        },
+          "stock": "В наличии: 179 упак"
+        }
+      ],
+      "references": [
         {
           "title": "Доска пола сосна/ель \"С\" 28*143(135)*6000мм*4шт",
           "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1605",
@@ -1029,16 +1032,15 @@
       "group": "Доска пола",
       "wood": "ель/сосна",
       "unit": "м²",
-      "matches": [],
-      "references": [
+      "matches": [
         {
           "title": "Доска пола сосна/ель \"С\" 36*120(112)*3000мм*4шт",
           "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2652",
           "price": 854.1666666666667,
-          "stock": "Нет в наличии",
-          "notes": null
+          "stock": "Нет в наличии"
         }
-      ]
+      ],
+      "references": []
     },
     {
       "title": "Доска пола 36×122×6 м, сорт ABC",
@@ -1077,51 +1079,49 @@
       "group": "Доска пола",
       "wood": "ель/сосна",
       "unit": "м²",
-      "matches": [],
-      "references": [
+      "matches": [
         {
           "title": "Доска пола сосна/ель \"АВ\" 36*120(112)*4000мм*4шт",
           "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2753",
           "price": 949.4791666666667,
-          "stock": "Нет в наличии",
-          "notes": null
+          "stock": "Нет в наличии"
         }
-      ]
+      ],
+      "references": []
     },
     {
       "title": "Доска пола 36×122×6 м, сорт AB",
       "group": "Доска пола",
       "wood": "ель/сосна",
       "unit": "м²",
-      "matches": [],
-      "references": [
+      "matches": [
         {
           "title": "Доска пола сосна/ель \"АВ\" 36*120(112)*6000мм*4шт",
           "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3046",
           "price": 1996.5277777777778,
-          "stock": "Нет в наличии",
-          "notes": null
+          "stock": "Нет в наличии"
         }
-      ]
+      ],
+      "references": []
     },
     {
       "title": "Доска пола 36×145×3 м, сорт C",
       "group": "Доска пола",
       "wood": "ель/сосна",
       "unit": "м²",
-      "matches": [],
+      "matches": [
+        {
+          "title": "Доска пола сосна/ель \"С\" 36*143(135)*3000мм*3шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2599",
+          "price": 811.9658119658119,
+          "stock": "Нет в наличии"
+        }
+      ],
       "references": [
         {
           "title": "Доска пола сосна/ель \"АВ\" 36*143(135)*3000мм*3шт",
           "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2747",
           "price": 1321.6783216783217,
-          "stock": "Нет в наличии",
-          "notes": null
-        },
-        {
-          "title": "Доска пола сосна/ель \"С\" 36*143(135)*3000мм*3шт",
-          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2599",
-          "price": 811.9658119658119,
           "stock": "Нет в наличии",
           "notes": null
         }
@@ -1132,7 +1132,20 @@
       "group": "Доска пола",
       "wood": "ель/сосна",
       "unit": "м²",
-      "matches": [],
+      "matches": [
+        {
+          "title": "Доска пола сосна/ель \"ВС\" 36*143(135)*6000мм*3шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1633",
+          "price": 1020.979020979021,
+          "stock": "Нет в наличии"
+        },
+        {
+          "title": "Доска пола сосна/ель \"С\" 36*143(135)*6000мм*3шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1601",
+          "price": 1071.8725718725718,
+          "stock": "Нет в наличии"
+        }
+      ],
       "references": [
         {
           "title": "Доска пола сосна/ель \"АВ\" 36*143(135)*6000мм*3шт",
@@ -1154,20 +1167,6 @@
           "price": 1605.1864801864801,
           "stock": "Нет в наличии",
           "notes": null
-        },
-        {
-          "title": "Доска пола сосна/ель \"ВС\" 36*143(135)*6000мм*3шт",
-          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1633",
-          "price": 1020.979020979021,
-          "stock": "Нет в наличии",
-          "notes": null
-        },
-        {
-          "title": "Доска пола сосна/ель \"С\" 36*143(135)*6000мм*3шт",
-          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1601",
-          "price": 1071.8725718725718,
-          "stock": "Нет в наличии",
-          "notes": null
         }
       ]
     },
@@ -1176,15 +1175,15 @@
       "group": "Доска пола",
       "wood": "ель/сосна",
       "unit": "м²",
-      "matches": [],
-      "references": [
+      "matches": [
         {
           "title": "Доска пола сосна/ель \"АВ\" 36*143(135)*3000мм*3шт",
           "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2747",
           "price": 1321.6783216783217,
-          "stock": "Нет в наличии",
-          "notes": null
-        },
+          "stock": "Нет в наличии"
+        }
+      ],
+      "references": [
         {
           "title": "Доска пола сосна/ель \"С\" 36*143(135)*3000мм*3шт",
           "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2599",
@@ -1199,15 +1198,15 @@
       "group": "Доска пола",
       "wood": "ель/сосна",
       "unit": "м²",
-      "matches": [],
-      "references": [
+      "matches": [
         {
           "title": "Доска пола сосна/ель \"АВ\" 36*143(135)*4000мм*3шт",
           "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2824",
           "price": 1321.0955710955711,
-          "stock": "Нет в наличии",
-          "notes": null
-        },
+          "stock": "Нет в наличии"
+        }
+      ],
+      "references": [
         {
           "title": "Доска пола сосна/ель \"С\" 36*143(135)*4000мм*3шт",
           "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2602",
@@ -1222,29 +1221,27 @@
       "group": "Доска пола",
       "wood": "ель/сосна",
       "unit": "м²",
-      "matches": [],
-      "references": [
+      "matches": [
         {
           "title": "Доска пола сосна/ель \"АВ\" 36*143(135)*6000мм*3шт",
           "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1895",
           "price": 2120.823620823621,
-          "stock": "В наличии: 365 упак",
-          "notes": null
+          "stock": "В наличии: 365 упак"
         },
         {
           "title": "Доска пола сосна/ель \"АВ\" 36*138(130)*6000мм*3шт",
           "url": "https://terem-krym.ru/tovar/2927",
           "price": 1329.3075684380033,
-          "stock": "Нет в наличии",
-          "notes": null
+          "stock": "Нет в наличии"
         },
         {
           "title": "Доска пола сосна/ель \"АВ\" 36*143(135)*6000мм*4шт",
           "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3051",
           "price": 1605.1864801864801,
-          "stock": "Нет в наличии",
-          "notes": null
-        },
+          "stock": "Нет в наличии"
+        }
+      ],
+      "references": [
         {
           "title": "Доска пола сосна/ель \"ВС\" 36*143(135)*6000мм*3шт",
           "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1633",
@@ -1286,6 +1283,1174 @@
       "references": []
     },
     {
+      "title": "Доска строганая 20×80×4 м, сорт AB",
+      "group": "Доска строганая",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*145*4000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2523",
+          "price": 1136.2068965517242,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        },
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*195*4000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2493",
+          "price": 866.6666666666666,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        }
+      ],
+      "references": []
+    },
+    {
+      "title": "Доска строганая 20×80×4 м, сорт BC",
+      "group": "Доска строганая",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Доска строганая 20×90×4 м, сорт AB",
+      "group": "Доска строганая",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*145*4000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2523",
+          "price": 1136.2068965517242,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        },
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*195*4000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2493",
+          "price": 866.6666666666666,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        }
+      ],
+      "references": []
+    },
+    {
+      "title": "Доска строганая 20×96×2 м, сорт AB",
+      "group": "Доска строганая",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*90*2000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2287",
+          "price": 594.4444444444445,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        }
+      ],
+      "references": [
+        {
+          "title": "Доска сухая сосна \"АВ\" 22*90*2000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2336",
+          "price": 1161.111111111111,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": null
+        },
+        {
+          "title": "Доска сухая сосна \"С\" 20*90*2000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2296",
+          "price": 716.6666666666667,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "title": "Доска строганая 20×96×2 м, сорт BC",
+      "group": "Доска строганая",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [
+        {
+          "title": "Доска сухая сосна \"С\" 20*90*2000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2296",
+          "price": 716.6666666666667,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        }
+      ],
+      "references": [
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*90*2000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2287",
+          "price": 594.4444444444445,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": null
+        },
+        {
+          "title": "Доска сухая сосна \"АВ\" 22*90*2000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2336",
+          "price": 1161.111111111111,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "title": "Доска строганая 20×96×3 м, сорт AB",
+      "group": "Доска строганая",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*115*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/tovar/316",
+          "price": 1228.985507246377,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        },
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*120*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2380",
+          "price": 897.2222222222223,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        },
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*140*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2405",
+          "price": 866.6666666666667,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        },
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*90*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2348",
+          "price": 933.3333333333333,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        },
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*95*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2298",
+          "price": 628.0701754385965,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        }
+      ],
+      "references": [
+        {
+          "title": "Доска сухая сосна \"АВ\" 22*90*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2377",
+          "price": 1174.074074074074,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": null
+        },
+        {
+          "title": "Доска сухая сосна \"С\" 20*90*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2305",
+          "price": 511.1111111111111,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "title": "Доска строганая 20×96×3 м, сорт BC",
+      "group": "Доска строганая",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [
+        {
+          "title": "Доска сухая сосна \"С\" 20*115*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2329",
+          "price": 634.7826086956522,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        },
+        {
+          "title": "Доска сухая сосна \"С\" 20*90*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2305",
+          "price": 511.1111111111111,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        }
+      ],
+      "references": [
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*90*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2348",
+          "price": 933.3333333333333,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": null
+        },
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*95*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2298",
+          "price": 628.0701754385965,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": null
+        },
+        {
+          "title": "Доска сухая сосна \"АВ\" 22*90*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2377",
+          "price": 1174.074074074074,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "title": "Доска строганая 20×96×6 м, сорт AB",
+      "group": "Доска строганая",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*120*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=771",
+          "price": 1376.388888888889,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        },
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*140*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2550",
+          "price": 913.0952380952381,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        },
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*190*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/tovar/2640",
+          "price": 986.842105263158,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        },
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*90*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2453",
+          "price": 866.6666666666666,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        }
+      ],
+      "references": [
+        {
+          "title": "Доска сухая сосна \"АВ\" 22*90*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2520",
+          "price": 1172.2222222222222,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "title": "Доска строганая 20×96×6 м, сорт BC",
+      "group": "Доска строганая",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*90*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2453",
+          "price": 866.6666666666666,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": null
+        },
+        {
+          "title": "Доска сухая сосна \"АВ\" 22*90*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2520",
+          "price": 1172.2222222222222,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "title": "Доска строганая 20×120×2 м, сорт AB",
+      "group": "Доска строганая",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*90*2000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2287",
+          "price": 594.4444444444445,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        }
+      ],
+      "references": []
+    },
+    {
+      "title": "Доска строганая 20×120×2 м, сорт BC",
+      "group": "Доска строганая",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [
+        {
+          "title": "Доска сухая сосна \"С\" 20*90*2000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2296",
+          "price": 716.6666666666667,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        }
+      ],
+      "references": []
+    },
+    {
+      "title": "Доска строганая 20×120×3 м, сорт AB",
+      "group": "Доска строганая",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*115*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/tovar/316",
+          "price": 1228.985507246377,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        },
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*120*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2380",
+          "price": 897.2222222222223,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        },
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*140*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2405",
+          "price": 866.6666666666667,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        },
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*90*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2348",
+          "price": 933.3333333333333,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        },
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*95*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2298",
+          "price": 628.0701754385965,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        }
+      ],
+      "references": [
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*120*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2380",
+          "price": 897.2222222222223,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Уточнить породу: сосна."
+          ]
+        },
+        {
+          "title": "Доска сухая сосна \"С\" 20*115*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2329",
+          "price": 634.7826086956522,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "title": "Доска строганая 20×120×3 м, сорт BC",
+      "group": "Доска строганая",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [
+        {
+          "title": "Доска сухая сосна \"С\" 20*115*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2329",
+          "price": 634.7826086956522,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        },
+        {
+          "title": "Доска сухая сосна \"С\" 20*90*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2305",
+          "price": 511.1111111111111,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        }
+      ],
+      "references": [
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*115*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/tovar/316",
+          "price": 1228.985507246377,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": null
+        },
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*120*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2380",
+          "price": 897.2222222222223,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш BC; Терем AB.",
+            "Уточнить породу: сосна."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Доска строганая 20×120×6 м, сорт AB",
+      "group": "Доска строганая",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*120*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=771",
+          "price": 1376.388888888889,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        },
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*140*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2550",
+          "price": 913.0952380952381,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        },
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*190*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/tovar/2640",
+          "price": 986.842105263158,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        },
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*90*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2453",
+          "price": 866.6666666666666,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        }
+      ],
+      "references": [
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*120*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=771",
+          "price": 1376.388888888889,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Уточнить породу: сосна."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Доска строганая 20×120×6 м, сорт BC",
+      "group": "Доска строганая",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*120*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=771",
+          "price": 1376.388888888889,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш BC; Терем AB.",
+            "Уточнить породу: сосна."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Доска строганая 20×145×2 м, сорт AB",
+      "group": "Доска строганая",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*90*2000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2287",
+          "price": 594.4444444444445,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        }
+      ],
+      "references": [
+        {
+          "title": "Доска сухая сосна \"АВ\" 22*140*2000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2362",
+          "price": 1121.4285714285713,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "title": "Доска строганая 20×145×2 м, сорт BC",
+      "group": "Доска строганая",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [
+        {
+          "title": "Доска сухая сосна \"С\" 20*90*2000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2296",
+          "price": 716.6666666666667,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        }
+      ],
+      "references": [
+        {
+          "title": "Доска сухая сосна \"АВ\" 22*140*2000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2362",
+          "price": 1121.4285714285713,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "title": "Доска строганая 20×145×3 м, сорт AB",
+      "group": "Доска строганая",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*115*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/tovar/316",
+          "price": 1228.985507246377,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        },
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*120*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2380",
+          "price": 897.2222222222223,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        },
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*140*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2405",
+          "price": 866.6666666666667,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        },
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*90*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2348",
+          "price": 933.3333333333333,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        },
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*95*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2298",
+          "price": 628.0701754385965,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        }
+      ],
+      "references": [
+        {
+          "title": "Доска сухая сосна \"АВ\" 22*140*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2435",
+          "price": 1121.4285714285716,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": null
+        },
+        {
+          "title": "Доска сухая сосна \"АВ\" 22*145*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2366",
+          "price": 625.2873563218391,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "title": "Доска строганая 20×145×3 м, сорт BC",
+      "group": "Доска строганая",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [
+        {
+          "title": "Доска сухая сосна \"С\" 20*115*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2329",
+          "price": 634.7826086956522,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        },
+        {
+          "title": "Доска сухая сосна \"С\" 20*90*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2305",
+          "price": 511.1111111111111,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        }
+      ],
+      "references": [
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*140*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2405",
+          "price": 866.6666666666667,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": null
+        },
+        {
+          "title": "Доска сухая сосна \"АВ\" 22*140*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2435",
+          "price": 1121.4285714285716,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": null
+        },
+        {
+          "title": "Доска сухая сосна \"АВ\" 22*145*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2366",
+          "price": 625.2873563218391,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "title": "Доска строганая 20×145×6 м, сорт AB",
+      "group": "Доска строганая",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*120*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=771",
+          "price": 1376.388888888889,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        },
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*140*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2550",
+          "price": 913.0952380952381,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        },
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*190*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/tovar/2640",
+          "price": 986.842105263158,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        },
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*90*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2453",
+          "price": 866.6666666666666,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        }
+      ],
+      "references": [
+        {
+          "title": "Доска сухая сосна \"АВ\" 21*140*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2472",
+          "price": 659.5238095238095,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": null
+        },
+        {
+          "title": "Доска сухая сосна \"АВ\" 22*140*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2566",
+          "price": 1120.2380952380952,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": null
+        },
+        {
+          "title": "Доска сухая сосна \"С\" 22*140*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2605",
+          "price": 1248.8095238095239,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "title": "Доска строганая 20×145×6 м, сорт BC",
+      "group": "Доска строганая",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*140*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2550",
+          "price": 913.0952380952381,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": null
+        },
+        {
+          "title": "Доска сухая сосна \"АВ\" 21*140*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2472",
+          "price": 659.5238095238095,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": null
+        },
+        {
+          "title": "Доска сухая сосна \"АВ\" 22*140*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2566",
+          "price": 1120.2380952380952,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": null
+        },
+        {
+          "title": "Доска сухая сосна \"С\" 22*140*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2605",
+          "price": 1248.8095238095239,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "title": "Доска строганая 20×195×3 м, сорт AB",
+      "group": "Доска строганая",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*115*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/tovar/316",
+          "price": 1228.985507246377,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        },
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*120*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2380",
+          "price": 897.2222222222223,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        },
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*140*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2405",
+          "price": 866.6666666666667,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        },
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*90*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2348",
+          "price": 933.3333333333333,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        },
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*95*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2298",
+          "price": 628.0701754385965,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        }
+      ],
+      "references": [
+        {
+          "title": "Доска сухая сосна \"С\" 21*190*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2357",
+          "price": 547.3684210526317,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "title": "Доска строганая 20×195×3 м, сорт BC",
+      "group": "Доска строганая",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [
+        {
+          "title": "Доска сухая сосна \"С\" 20*115*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2329",
+          "price": 634.7826086956522,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        },
+        {
+          "title": "Доска сухая сосна \"С\" 20*90*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2305",
+          "price": 511.1111111111111,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        }
+      ],
+      "references": [
+        {
+          "title": "Доска сухая сосна \"С\" 21*190*3000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2357",
+          "price": 547.3684210526317,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "title": "Доска строганая 20×195×6 м, сорт AB",
+      "group": "Доска строганая",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*120*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=771",
+          "price": 1376.388888888889,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        },
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*140*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2550",
+          "price": 913.0952380952381,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        },
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*190*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/tovar/2640",
+          "price": 986.842105263158,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        },
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*90*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2453",
+          "price": 866.6666666666666,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        }
+      ],
+      "references": [
+        {
+          "title": "Доска сухая сосна \"АВ\" 21*190*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2533",
+          "price": 629.8245614035088,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": null
+        },
+        {
+          "title": "Доска сухая сосна \"С\" 21*190*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2518",
+          "price": 548.2456140350878,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "title": "Доска строганая 20×195×6 м, сорт BC",
+      "group": "Доска строганая",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Доска сухая сосна \"АВ\" 20*190*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/tovar/2640",
+          "price": 986.842105263158,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": null
+        },
+        {
+          "title": "Доска сухая сосна \"АВ\" 21*190*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2533",
+          "price": 629.8245614035088,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": null
+        },
+        {
+          "title": "Доска сухая сосна \"С\" 21*190*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2518",
+          "price": 548.2456140350878,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "title": "Доска строганая 40×100×6 м, сорт AB",
+      "group": "Доска строганая",
+      "wood": "ель/сосна",
+      "unit": "шт.",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Доска строганая 40×100×6 м, сорт BC",
+      "group": "Доска строганая",
+      "wood": "ель/сосна",
+      "unit": "шт.",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Доска строганая 40×100×3 м, сорт AB",
+      "group": "Доска строганая",
+      "wood": "ель/сосна",
+      "unit": "шт.",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Доска строганая 40×100×3 м, сорт BC",
+      "group": "Доска строганая",
+      "wood": "ель/сосна",
+      "unit": "шт.",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Доска строганая 40×150×6 м, сорт AB",
+      "group": "Доска строганая",
+      "wood": "ель/сосна",
+      "unit": "шт.",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Доска строганая 40×150×6 м, сорт BC",
+      "group": "Доска строганая",
+      "wood": "ель/сосна",
+      "unit": "шт.",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Доска строганая 40×150×3 м, сорт AB",
+      "group": "Доска строганая",
+      "wood": "ель/сосна",
+      "unit": "шт.",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Доска строганая 40×150×3 м, сорт BC",
+      "group": "Доска строганая",
+      "wood": "ель/сосна",
+      "unit": "шт.",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Доска строганая 40×200×6 м, сорт AB",
+      "group": "Доска строганая",
+      "wood": "ель/сосна",
+      "unit": "шт.",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Доска строганая 40×200×6 м, сорт BC",
+      "group": "Доска строганая",
+      "wood": "ель/сосна",
+      "unit": "шт.",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Доска строганая 45×96×6 м, сорт AB",
+      "group": "Доска строганая",
+      "wood": "ель/сосна",
+      "unit": "шт.",
+      "matches": [
+        {
+          "title": "Доска сухая сосна \"АВ\" 45*90*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=998",
+          "price": 1452,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        },
+        {
+          "title": "Доска сухая сосна \"АВ\" 45*95*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1147",
+          "price": 1351,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        }
+      ],
+      "references": [
+        {
+          "title": "Доска сухая с фаской сосна \"АВ\" 45*90*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2593",
+          "price": 1054,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": null
+        },
+        {
+          "title": "Доска сухая сосна \"С\" 45*90*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2510",
+          "price": 585,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "title": "Доска строганая 45×96×6 м, сорт BC",
+      "group": "Доска строганая",
+      "wood": "ель/сосна",
+      "unit": "шт.",
+      "matches": [
+        {
+          "title": "Доска сухая сосна \"С\" 45*90*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2510",
+          "price": 585,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        }
+      ],
+      "references": [
+        {
+          "title": "Доска сухая с фаской сосна \"АВ\" 45*90*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2593",
+          "price": 1054,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": null
+        },
+        {
+          "title": "Доска сухая сосна \"АВ\" 45*90*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=998",
+          "price": 1452,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": null
+        },
+        {
+          "title": "Доска сухая сосна \"АВ\" 45*95*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1147",
+          "price": 1351,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "title": "Доска строганая 45×145×6 м, сорт AB",
+      "group": "Доска строганая",
+      "wood": "ель/сосна",
+      "unit": "шт.",
+      "matches": [
+        {
+          "title": "Доска сухая сосна \"АВ\" 45*145*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1317",
+          "price": 2105,
+          "stock": "В наличии: 269 шт"
+        }
+      ],
+      "references": [
+        {
+          "title": "Доска сухая сосна \"АВ\" 45*145*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1317",
+          "price": 2105,
+          "stock": "В наличии: 269 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Уточнить породу: сосна."
+          ]
+        },
+        {
+          "title": "Доска сухая сосна \"АВ\" 45*140*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2693",
+          "price": 1526,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": null
+        },
+        {
+          "title": "Доска сухая сосна \"С\" 45*145*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1161",
+          "price": 1774,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем C.",
+            "Уточнить породу: сосна."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Доска строганая 45×145×6 м, сорт BC",
+      "group": "Доска строганая",
+      "wood": "ель/сосна",
+      "unit": "шт.",
+      "matches": [
+        {
+          "title": "Доска сухая сосна \"С\" 45*145*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1161",
+          "price": 1774,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        }
+      ],
+      "references": [
+        {
+          "title": "Доска сухая сосна \"АВ\" 45*145*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1317",
+          "price": 2105,
+          "stock": "В наличии: 269 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш BC; Терем AB.",
+            "Уточнить породу: сосна."
+          ]
+        },
+        {
+          "title": "Доска сухая сосна \"АВ\" 45*140*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2693",
+          "price": 1526,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": null
+        },
+        {
+          "title": "Доска сухая сосна \"С\" 45*145*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1161",
+          "price": 1774,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш BC; Терем C.",
+            "Уточнить породу: сосна."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Доска строганая 45×195×6 м, сорт AB",
+      "group": "Доска строганая",
+      "wood": "ель/сосна",
+      "unit": "шт.",
+      "matches": [
+        {
+          "title": "Доска сухая сосна \"АВ\" 45*195*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1503",
+          "price": 2831,
+          "stock": "В наличии: 198 шт"
+        }
+      ],
+      "references": [
+        {
+          "title": "Доска сухая сосна \"АВ\" 45*195*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1503",
+          "price": 2831,
+          "stock": "В наличии: 198 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Уточнить породу: сосна."
+          ]
+        },
+        {
+          "title": "Доска сухая сосна \"С\" 45*195*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2779",
+          "price": 2498,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш AB; Терем C.",
+            "Уточнить породу: сосна."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Доска строганая 45×195×6 м, сорт BC",
+      "group": "Доска строганая",
+      "wood": "ель/сосна",
+      "unit": "шт.",
+      "matches": [
+        {
+          "title": "Доска сухая сосна \"С\" 45*195*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2779",
+          "price": 2498,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        }
+      ],
+      "references": [
+        {
+          "title": "Доска сухая сосна \"АВ\" 45*195*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1503",
+          "price": 2831,
+          "stock": "В наличии: 198 шт",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш BC; Терем AB.",
+            "Уточнить породу: сосна."
+          ]
+        },
+        {
+          "title": "Доска сухая сосна \"С\" 45*195*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2779",
+          "price": 2498,
+          "stock": "Нет подтвержденного наличия / уведомить",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш BC; Терем C.",
+            "Уточнить породу: сосна."
+          ]
+        }
+      ]
+    },
+    {
       "title": "Дверная коробка 0×70 мм, длина не указана, сорт НЕ УКАЗАН",
       "group": "Дверная коробка",
       "wood": "ель/сосна",
@@ -1306,7 +2471,14 @@
       "group": "Евровагонка",
       "wood": "ель/сосна",
       "unit": "м²",
-      "matches": [],
+      "matches": [
+        {
+          "title": "Евровагонка сосна/ель \"А\" 12,5*96(90)*3000мм*10шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1474",
+          "price": 813.1944444444445,
+          "stock": "В наличии: 516 упак"
+        }
+      ],
       "references": [
         {
           "title": "Евровагонка сосна/ель \"А\" 12,5*96(90)*3000мм*10шт",
@@ -1352,7 +2524,14 @@
       "group": "Евровагонка",
       "wood": "ель/сосна",
       "unit": "м²",
-      "matches": [],
+      "matches": [
+        {
+          "title": "Евровагонка сосна/ель \"А\" 12,5*96(90)*2700мм*10шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2630",
+          "price": 454.08950617283944,
+          "stock": "Нет в наличии"
+        }
+      ],
       "references": [
         {
           "title": "Евровагонка сосна/ель \"А\" 12,5*96(90)*2700мм*10шт",
@@ -1381,7 +2560,14 @@
       "group": "Евровагонка",
       "wood": "ель/сосна",
       "unit": "м²",
-      "matches": [],
+      "matches": [
+        {
+          "title": "Евровагонка сосна/ель \"А\" 12,5*96(90)*2500мм*10шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1369",
+          "price": 766.6666666666667,
+          "stock": "Нет в наличии"
+        }
+      ],
       "references": [
         {
           "title": "Евровагонка сосна/ель \"А\" 12,5*96(90)*2500мм*10шт",
@@ -1418,7 +2604,14 @@
       "group": "Евровагонка",
       "wood": "ель/сосна",
       "unit": "м²",
-      "matches": [],
+      "matches": [
+        {
+          "title": "Евровагонка сосна/ель \"А\" 12,5*96(90)*2100мм*10шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2532",
+          "price": 374.99999999999994,
+          "stock": "Нет в наличии"
+        }
+      ],
       "references": [
         {
           "title": "Евровагонка сосна/ель \"А\" 12,5*96(90)*2100мм*10шт",
@@ -1437,7 +2630,14 @@
       "group": "Евровагонка",
       "wood": "ель/сосна",
       "unit": "м²",
-      "matches": [],
+      "matches": [
+        {
+          "title": "Евровагонка сосна/ель \"А\" 12,5*96(90)*2000мм*10шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2579",
+          "price": 454.1666666666667,
+          "stock": "Нет в наличии"
+        }
+      ],
       "references": [
         {
           "title": "Евровагонка сосна/ель \"А\" 12,5*96(90)*2000мм*10шт",
@@ -1476,7 +2676,14 @@
       "group": "Евровагонка",
       "wood": "ель/сосна",
       "unit": "м²",
-      "matches": [],
+      "matches": [
+        {
+          "title": "Евровагонка сосна/ель \"А\" 12,5*96(90)*4000мм*10шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2749",
+          "price": 453.90625,
+          "stock": "Нет в наличии"
+        }
+      ],
       "references": [
         {
           "title": "Евровагонка сосна/ель \"А\" 12,5*96(90)*4000мм*10шт",
@@ -1495,7 +2702,14 @@
       "group": "Евровагонка",
       "wood": "ель/сосна",
       "unit": "м²",
-      "matches": [],
+      "matches": [
+        {
+          "title": "Евровагонка сосна/ель \"А\" 12,5*96(90)*6000мм*10шт",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2874",
+          "price": 453.81944444444446,
+          "stock": "Нет в наличии"
+        }
+      ],
       "references": [
         {
           "title": "Евровагонка сосна/ель \"А\" 12,5*96(90)*6000мм*10шт",
@@ -2698,6 +3912,376 @@
       "group": "Наличник",
       "wood": "ель/сосна",
       "unit": "пог. м",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Палубная доска 28×96×3 м, сорт C",
+      "group": "Палубная доска",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Палубная доска 28×96×6 м, сорт ABC",
+      "group": "Палубная доска",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Палубная доска 28×96×3 м, сорт AB",
+      "group": "Палубная доска",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Палубная доска 28×96×6 м, сорт AB",
+      "group": "Палубная доска",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Палубная доска 28×120×6 м, сорт AB",
+      "group": "Палубная доска",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [
+        {
+          "title": "Доска сухая сосна \"АВ\" 28*120*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1141",
+          "price": 2183.3333333333335,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        },
+        {
+          "title": "Палубная доска сосна \"АВ\" 28*120*6000мм",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=924",
+          "price": 1566.6666666666667,
+          "stock": "Нет в наличии"
+        }
+      ],
+      "references": [
+        {
+          "title": "Палубная доска сосна \"АВ\" 28*120*6000мм",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=924",
+          "price": 1566.6666666666667,
+          "stock": "Нет в наличии",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Уточнить породу: сосна."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Палубная доска 28×145×6 м, сорт AB",
+      "group": "Палубная доска",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Палубная доска 36×96×3 м, сорт C",
+      "group": "Палубная доска",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Палубная доска 36×96×6 м, сорт ABC",
+      "group": "Палубная доска",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Палубная доска 36×96×3 м, сорт AB",
+      "group": "Палубная доска",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Палубная доска 36×96×6 м, сорт AB",
+      "group": "Палубная доска",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Палубная доска 28×120×3 м, сорт C",
+      "group": "Палубная доска",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Палубная доска 28×120×6 м, сорт ABC",
+      "group": "Палубная доска",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": [
+        {
+          "title": "Палубная доска сосна \"АВ\" 28*120*6000мм",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=924",
+          "price": 1566.6666666666667,
+          "stock": "Нет в наличии",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш ABC; Терем AB.",
+            "Уточнить породу: сосна."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Палубная доска 28×145×3 м, сорт C",
+      "group": "Палубная доска",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Палубная доска 28×145×6 м, сорт ABC",
+      "group": "Палубная доска",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Палубная доска 40×96×2 м, сорт AB",
+      "group": "Палубная доска",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Палубная доска 40×96×3 м, сорт AB",
+      "group": "Палубная доска",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Палубная доска 40×96×4 м, сорт AB",
+      "group": "Палубная доска",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Палубная доска 40×96×6 м, сорт AB",
+      "group": "Палубная доска",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Палубная доска 40×96×6 м, сорт ABC",
+      "group": "Палубная доска",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Палубная доска 40×120×2 м, сорт AB",
+      "group": "Палубная доска",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Палубная доска 40×120×3 м, сорт AB",
+      "group": "Палубная доска",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Палубная доска 40×120×4 м, сорт AB",
+      "group": "Палубная доска",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Палубная доска 40×120×6 м, сорт ABC",
+      "group": "Палубная доска",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Палубная доска 45×145×2 м, сорт AB",
+      "group": "Палубная доска",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Палубная доска 45×145×3 м, сорт AB",
+      "group": "Палубная доска",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Палубная доска 45×145×4 м, сорт AB",
+      "group": "Палубная доска",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [
+        {
+          "title": "Доска сухая сосна \"АВ\" 45*145*4000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2568",
+          "price": 1446.5517241379312,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        }
+      ],
+      "references": []
+    },
+    {
+      "title": "Палубная доска 45×145×6 м, сорт AB",
+      "group": "Палубная доска",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [
+        {
+          "title": "Доска сухая сосна \"АВ\" 45*145*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1317",
+          "price": 2419.5402298850577,
+          "stock": "В наличии: 269 шт"
+        },
+        {
+          "title": "Палубная доска сосна \"АВ\" 45*145*6000мм",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1293",
+          "price": 2419.5402298850577,
+          "stock": "В наличии: 189 шт."
+        }
+      ],
+      "references": [
+        {
+          "title": "Палубная доска сосна \"АВ\" 45*145*6000мм",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1293",
+          "price": 2419.5402298850577,
+          "stock": "В наличии: 189 шт.",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Уточнить породу: сосна."
+          ]
+        },
+        {
+          "title": "Палубная доска сосна \"АВ\" 45*140*6000мм",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1185",
+          "price": 2270.2380952380954,
+          "stock": "Нет в наличии",
+          "notes": null
+        },
+        {
+          "title": "Палубная доска сосна \"С\" 45*140*6000мм",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1146",
+          "price": 1966.6666666666667,
+          "stock": "Нет в наличии",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "title": "Палубная доска 45×145×4 м, сорт ABC",
+      "group": "Палубная доска",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Палубная доска 45×145×6 м, сорт ABC",
+      "group": "Палубная доска",
+      "wood": "ель/сосна",
+      "unit": "м²",
+      "matches": [
+        {
+          "title": "Доска сухая сосна \"С\" 45*145*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1161",
+          "price": 2039.0804597701149,
+          "stock": "Нет подтвержденного наличия / уведомить"
+        }
+      ],
+      "references": [
+        {
+          "title": "Палубная доска сосна \"АВ\" 45*145*6000мм",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1293",
+          "price": 2419.5402298850577,
+          "stock": "В наличии: 189 шт.",
+          "notes": [
+            "Справочная цена: не участвует в отклонениях.",
+            "Сорт требует проверки: наш ABC; Терем AB.",
+            "Уточнить породу: сосна."
+          ]
+        },
+        {
+          "title": "Палубная доска сосна \"АВ\" 45*140*6000мм",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1185",
+          "price": 2270.2380952380954,
+          "stock": "Нет в наличии",
+          "notes": null
+        },
+        {
+          "title": "Палубная доска сосна \"С\" 45*140*6000мм",
+          "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1146",
+          "price": 1966.6666666666667,
+          "stock": "Нет в наличии",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "title": "Палубная доска 28×90 мм, длина не указана, сорт ПРИМА",
+      "group": "Палубная доска",
+      "wood": "лиственница",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Палубная доска 28×90 мм, длина не указана, сорт AB",
+      "group": "Палубная доска",
+      "wood": "лиственница",
+      "unit": "м²",
+      "matches": [],
+      "references": []
+    },
+    {
+      "title": "Палубная доска 28×90 мм, длина не указана, сорт BC",
+      "group": "Палубная доска",
+      "wood": "лиственница",
+      "unit": "м²",
       "matches": [],
       "references": []
     },
