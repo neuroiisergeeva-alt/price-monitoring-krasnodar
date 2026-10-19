@@ -1,9 +1,8 @@
 {
-  "at": "2026-10-15T10:11:05Z",
+  "at": "2026-10-19T10:33:53Z",
   "changes": [],
   "higher": [
     {
-      "group": "Балясины",
       "item": "Балясины 45×45×0.9 м, сорт A",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/balyasiny-el-sosna/:45:45:0.9:A:main:1:",
       "unit": "шт.",
@@ -12,11 +11,10 @@
       "difference": 18,
       "availability": "В наличии: 41 шт",
       "referenceWithoutStock": false,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=345"
     },
     {
-      "group": "Балясины",
       "item": "Балясины 50×50×0.9 м, сорт A",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/balyasiny-el-sosna/:50:50:0.9:A:main:1:",
       "unit": "шт.",
@@ -25,11 +23,10 @@
       "difference": 95,
       "availability": "В наличии: 7 шт",
       "referenceWithoutStock": false,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=341"
     },
     {
-      "group": "Блок-хаус",
       "item": "Блок-хаус 21×96×6 м, сорт AB",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/blok-haus-el-sosna/:21:96:6:AB:main:7:",
       "unit": "м²",
@@ -38,11 +35,10 @@
       "difference": 18.23129251700675,
       "availability": "В наличии: 89 упак",
       "referenceWithoutStock": false,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1775"
     },
     {
-      "group": "Блок-хаус",
       "item": "Блок-хаус 28×145×6 м, сорт AB",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/blok-haus-el-sosna/:28:145:6:AB:main:4:",
       "unit": "м²",
@@ -51,24 +47,22 @@
       "difference": 64.52214452214457,
       "availability": "В наличии: 1 упак",
       "referenceWithoutStock": false,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2001"
     },
     {
-      "group": "Брусок строганый",
       "item": "Брусок строганый 30×40 мм, длина не указана, сорт AB",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/brusok-stroganyj-el-sosna/:30:40:0:AB:main:1:",
       "unit": "пог. м",
       "ours": 70,
       "competitor": 69.33333333333333,
       "difference": 0.6666666666666714,
-      "availability": "В наличии: 1327 шт",
+      "availability": "В наличии: 1320 шт",
       "referenceWithoutStock": false,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=206"
     },
     {
-      "group": "Брусок строганый",
       "item": "Брусок строганый 30×50 мм, длина не указана, сорт AB",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/brusok-stroganyj-el-sosna/:30:50:0:AB:main:1:",
       "unit": "пог. м",
@@ -77,37 +71,34 @@
       "difference": 1,
       "availability": "В наличии: 165 шт",
       "referenceWithoutStock": false,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=315"
     },
     {
-      "group": "Брусок строганый",
       "item": "Брусок строганый 40×50 мм, длина не указана, сорт AB",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/brusok-stroganyj-el-sosna/:40:50:0:AB:main:1:",
       "unit": "пог. м",
       "ours": 117,
       "competitor": 115.66666666666667,
       "difference": 1.3333333333333286,
-      "availability": "В наличии: 2703 шт",
+      "availability": "В наличии: 2667 шт",
       "referenceWithoutStock": false,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=420"
     },
     {
-      "group": "Брусок строганый",
       "item": "Брусок строганый 40×50 мм, длина не указана, сорт BC",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/brusok-stroganyj-el-sosna/:40:50:0:BC:main:1:",
       "unit": "пог. м",
       "ours": 100,
       "competitor": 93.33333333333333,
       "difference": 6.666666666666671,
-      "availability": "В наличии: 2024 шт",
+      "availability": "В наличии: 2016 шт",
       "referenceWithoutStock": false,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=281"
     },
     {
-      "group": "Брусок строганый",
       "item": "Брусок строганый 50×70 мм, длина не указана, сорт AB",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/brusok-stroganyj-el-sosna/:50:70:0:AB:main:1:",
       "unit": "пог. м",
@@ -116,11 +107,10 @@
       "difference": 2.333333333333343,
       "availability": "В наличии: 757 шт",
       "referenceWithoutStock": false,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=565"
     },
     {
-      "group": "Доска пола",
       "item": "Доска пола 28×122×3 м, сорт C",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/doska-pola-el-sosna/:28:122:3:C:main:1:",
       "unit": "м²",
@@ -129,11 +119,10 @@
       "difference": 878.8888888888889,
       "availability": "Нет в наличии",
       "referenceWithoutStock": true,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2604"
     },
     {
-      "group": "Доска пола",
       "item": "Доска пола 28×122×3 м, сорт AB",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/doska-pola-el-sosna/:28:122:3:AB:main:4:",
       "unit": "м²",
@@ -142,11 +131,10 @@
       "difference": 511.1111111111111,
       "availability": "Нет в наличии",
       "referenceWithoutStock": true,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2804"
     },
     {
-      "group": "Доска пола",
       "item": "Доска пола 28×122×4 м, сорт AB",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/doska-pola-el-sosna/:28:122:4:AB:main:4:",
       "unit": "м²",
@@ -155,11 +143,10 @@
       "difference": 834.1666666666667,
       "availability": "Нет в наличии",
       "referenceWithoutStock": true,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2813"
     },
     {
-      "group": "Доска пола",
       "item": "Доска пола 28×122×6 м, сорт AB",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/doska-pola-el-sosna/:28:122:6:AB:main:4:",
       "unit": "м²",
@@ -168,11 +155,10 @@
       "difference": 616.3888888888889,
       "availability": "Нет в наличии",
       "referenceWithoutStock": true,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3022"
     },
     {
-      "group": "Доска пола",
       "item": "Доска пола 28×145×3 м, сорт C",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/doska-pola-el-sosna/:28:145:3:C:main:1:",
       "unit": "м²",
@@ -181,11 +167,10 @@
       "difference": 789.5920745920746,
       "availability": "Нет в наличии",
       "referenceWithoutStock": true,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2647"
     },
     {
-      "group": "Доска пола",
       "item": "Доска пола 28×145×6 м, сорт ABC",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/doska-pola-el-sosna/:28:145:6:ABC:main:1:",
       "unit": "м²",
@@ -194,11 +179,10 @@
       "difference": 412.07459207459215,
       "availability": "В наличии: 72 упак",
       "referenceWithoutStock": false,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1605"
     },
     {
-      "group": "Доска пола",
       "item": "Доска пола 28×145×3 м, сорт AB",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/doska-pola-el-sosna/:28:145:3:AB:main:4:",
       "unit": "м²",
@@ -207,11 +191,10 @@
       "difference": 398.29836829836836,
       "availability": "Нет в наличии",
       "referenceWithoutStock": true,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2834"
     },
     {
-      "group": "Доска пола",
       "item": "Доска пола 28×145×4 м, сорт AB",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/doska-pola-el-sosna/:28:145:4:AB:main:4:",
       "unit": "м²",
@@ -220,24 +203,22 @@
       "difference": 503.4440559440559,
       "availability": "Нет в наличии",
       "referenceWithoutStock": true,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2895"
     },
     {
-      "group": "Доска пола",
       "item": "Доска пола 28×145×6 м, сорт AB",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/doska-pola-el-sosna/:28:145:6:AB:main:4:",
       "unit": "м²",
       "ours": 1885,
       "competitor": 1790.7925407925409,
       "difference": 94.20745920745912,
-      "availability": "В наличии: 394 упак",
+      "availability": "В наличии: 393 упак",
       "referenceWithoutStock": false,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1918"
     },
     {
-      "group": "Доска пола",
       "item": "Доска пола 36×122×3 м, сорт C",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/doska-pola-el-sosna/:36:122:3:C:main:1:",
       "unit": "м²",
@@ -246,11 +227,10 @@
       "difference": 1029.8333333333333,
       "availability": "Нет в наличии",
       "referenceWithoutStock": true,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2652"
     },
     {
-      "group": "Доска пола",
       "item": "Доска пола 36×122×4 м, сорт AB",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/doska-pola-el-sosna/:36:122:4:AB:main:3:",
       "unit": "м²",
@@ -259,11 +239,10 @@
       "difference": 1474.5208333333333,
       "availability": "Нет в наличии",
       "referenceWithoutStock": true,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2753"
     },
     {
-      "group": "Доска пола",
       "item": "Доска пола 36×122×6 м, сорт AB",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/doska-pola-el-sosna/:36:122:6:AB:main:3:",
       "unit": "м²",
@@ -272,11 +251,10 @@
       "difference": 427.4722222222222,
       "availability": "Нет в наличии",
       "referenceWithoutStock": true,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3046"
     },
     {
-      "group": "Доска пола",
       "item": "Доска пола 36×145×3 м, сорт C",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/doska-pola-el-sosna/:36:145:3:C:main:1:",
       "unit": "м²",
@@ -285,11 +263,10 @@
       "difference": 1072.034188034188,
       "availability": "Нет в наличии",
       "referenceWithoutStock": true,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2599"
     },
     {
-      "group": "Доска пола",
       "item": "Доска пола 36×145×6 м, сорт ABC",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/doska-pola-el-sosna/:36:145:6:ABC:main:3:",
       "unit": "м²",
@@ -298,11 +275,10 @@
       "difference": 998.020979020979,
       "availability": "Нет в наличии",
       "referenceWithoutStock": true,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1633"
     },
     {
-      "group": "Доска пола",
       "item": "Доска пола 36×145×3 м, сорт AB",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/doska-pola-el-sosna/:36:145:3:AB:main:3:",
       "unit": "м²",
@@ -311,11 +287,10 @@
       "difference": 967.3216783216783,
       "availability": "Нет в наличии",
       "referenceWithoutStock": true,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2747"
     },
     {
-      "group": "Доска пола",
       "item": "Доска пола 36×145×4 м, сорт AB",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/doska-pola-el-sosna/:36:145:4:AB:main:3:",
       "unit": "м²",
@@ -324,11 +299,10 @@
       "difference": 1102.9044289044289,
       "availability": "Нет в наличии",
       "referenceWithoutStock": true,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2824"
     },
     {
-      "group": "Доска пола",
       "item": "Доска пола 36×145×6 м, сорт AB",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/doska-pola-el-sosna/:36:145:6:AB:main:3:",
       "unit": "м²",
@@ -337,11 +311,10 @@
       "difference": 1094.6924315619967,
       "availability": "Нет в наличии",
       "referenceWithoutStock": true,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/tovar/2927"
     },
     {
-      "group": "Доска строганая",
       "item": "Доска строганая 20×80×4 м, сорт AB",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/doska-stroganaya-el-sosna/:20:80:4:AB:main:1:",
       "unit": "м²",
@@ -350,11 +323,10 @@
       "difference": 480.20833333333337,
       "availability": "Нет подтвержденного наличия / уведомить",
       "referenceWithoutStock": true,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2493"
     },
     {
-      "group": "Доска строганая",
       "item": "Доска строганая 20×90×4 м, сорт AB",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/doska-stroganaya-el-sosna/:20:90:4:AB:main:1:",
       "unit": "м²",
@@ -363,11 +335,10 @@
       "difference": 480.55555555555554,
       "availability": "Нет подтвержденного наличия / уведомить",
       "referenceWithoutStock": true,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2493"
     },
     {
-      "group": "Доска строганая",
       "item": "Доска строганая 20×96×2 м, сорт AB",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/doska-stroganaya-el-sosna/:20:96:2:AB:main:1:",
       "unit": "м²",
@@ -376,11 +347,10 @@
       "difference": 650.3472222222223,
       "availability": "Нет подтвержденного наличия / уведомить",
       "referenceWithoutStock": true,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2287"
     },
     {
-      "group": "Доска строганая",
       "item": "Доска строганая 20×96×2 м, сорт BC",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/doska-stroganaya-el-sosna/:20:96:2:BC:main:1:",
       "unit": "м²",
@@ -389,11 +359,10 @@
       "difference": 278.1249999999999,
       "availability": "Нет подтвержденного наличия / уведомить",
       "referenceWithoutStock": true,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2296"
     },
     {
-      "group": "Доска строганая",
       "item": "Доска строганая 20×96×3 м, сорт AB",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/doska-stroganaya-el-sosna/:20:96:3:AB:main:1:",
       "unit": "м²",
@@ -402,11 +371,10 @@
       "difference": 618.4576023391813,
       "availability": "Нет подтвержденного наличия / уведомить",
       "referenceWithoutStock": true,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2298"
     },
     {
-      "group": "Доска строганая",
       "item": "Доска строганая 20×96×3 м, сорт BC",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/doska-stroganaya-el-sosna/:20:96:3:BC:main:1:",
       "unit": "м²",
@@ -415,11 +383,10 @@
       "difference": 485.41666666666674,
       "availability": "Нет подтвержденного наличия / уведомить",
       "referenceWithoutStock": true,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2305"
     },
     {
-      "group": "Доска строганая",
       "item": "Доска строганая 20×96×6 м, сорт AB",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/doska-stroganaya-el-sosna/:20:96:6:AB:main:1:",
       "unit": "м²",
@@ -428,11 +395,10 @@
       "difference": 480.55555555555577,
       "availability": "Нет подтвержденного наличия / уведомить",
       "referenceWithoutStock": true,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2453"
     },
     {
-      "group": "Доска строганая",
       "item": "Доска строганая 20×120×2 м, сорт AB",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/doska-stroganaya-el-sosna/:20:120:2:AB:main:1:",
       "unit": "м²",
@@ -441,11 +407,10 @@
       "difference": 726.388888888889,
       "availability": "Нет подтвержденного наличия / уведомить",
       "referenceWithoutStock": true,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2287"
     },
     {
-      "group": "Доска строганая",
       "item": "Доска строганая 20×120×2 м, сорт BC",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/doska-stroganaya-el-sosna/:20:120:2:BC:main:1:",
       "unit": "м²",
@@ -454,11 +419,10 @@
       "difference": 279.16666666666663,
       "availability": "Нет подтвержденного наличия / уведомить",
       "referenceWithoutStock": true,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2296"
     },
     {
-      "group": "Доска строганая",
       "item": "Доска строганая 20×120×3 м, сорт AB",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/doska-stroganaya-el-sosna/:20:120:3:AB:main:1:",
       "unit": "м²",
@@ -467,11 +431,10 @@
       "difference": 694.1520467836257,
       "availability": "Нет подтвержденного наличия / уведомить",
       "referenceWithoutStock": true,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2298"
     },
     {
-      "group": "Доска строганая",
       "item": "Доска строганая 20×120×3 м, сорт BC",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/doska-stroganaya-el-sosna/:20:120:3:BC:main:1:",
       "unit": "м²",
@@ -480,11 +443,10 @@
       "difference": 486.1111111111112,
       "availability": "Нет подтвержденного наличия / уведомить",
       "referenceWithoutStock": true,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2305"
     },
     {
-      "group": "Доска строганая",
       "item": "Доска строганая 20×120×6 м, сорт AB",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/doska-stroganaya-el-sosna/:20:120:6:AB:main:1:",
       "unit": "м²",
@@ -493,11 +455,10 @@
       "difference": 554.1666666666669,
       "availability": "Нет подтвержденного наличия / уведомить",
       "referenceWithoutStock": true,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2453"
     },
     {
-      "group": "Доска строганая",
       "item": "Доска строганая 20×145×2 м, сорт AB",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/doska-stroganaya-el-sosna/:20:145:2:AB:main:1:",
       "unit": "м²",
@@ -506,11 +467,10 @@
       "difference": 726.2452107279695,
       "availability": "Нет подтвержденного наличия / уведомить",
       "referenceWithoutStock": true,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2287"
     },
     {
-      "group": "Доска строганая",
       "item": "Доска строганая 20×145×2 м, сорт BC",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/doska-stroganaya-el-sosna/:20:145:2:BC:main:1:",
       "unit": "м²",
@@ -519,11 +479,10 @@
       "difference": 279.8850574712644,
       "availability": "Нет подтвержденного наличия / уведомить",
       "referenceWithoutStock": true,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2296"
     },
     {
-      "group": "Доска строганая",
       "item": "Доска строганая 20×145×3 м, сорт AB",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/doska-stroganaya-el-sosna/:20:145:3:AB:main:1:",
       "unit": "м²",
@@ -532,11 +491,10 @@
       "difference": 693.7689050211737,
       "availability": "Нет подтвержденного наличия / уведомить",
       "referenceWithoutStock": true,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2298"
     },
     {
-      "group": "Доска строганая",
       "item": "Доска строганая 20×145×3 м, сорт BC",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/doska-stroganaya-el-sosna/:20:145:3:BC:main:1:",
       "unit": "м²",
@@ -545,11 +503,10 @@
       "difference": 484.2911877394637,
       "availability": "Нет подтвержденного наличия / уведомить",
       "referenceWithoutStock": true,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2305"
     },
     {
-      "group": "Доска строганая",
       "item": "Доска строганая 20×145×6 м, сорт AB",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/doska-stroganaya-el-sosna/:20:145:6:AB:main:1:",
       "unit": "м²",
@@ -558,11 +515,10 @@
       "difference": 555.1724137931036,
       "availability": "Нет подтвержденного наличия / уведомить",
       "referenceWithoutStock": true,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2453"
     },
     {
-      "group": "Доска строганая",
       "item": "Доска строганая 20×195×3 м, сорт AB",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/doska-stroganaya-el-sosna/:20:195:3:AB:main:1:",
       "unit": "м²",
@@ -571,11 +527,10 @@
       "difference": 713.8101664417455,
       "availability": "Нет подтвержденного наличия / уведомить",
       "referenceWithoutStock": true,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2298"
     },
     {
-      "group": "Доска строганая",
       "item": "Доска строганая 20×195×3 м, сорт BC",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/doska-stroganaya-el-sosna/:20:195:3:BC:main:1:",
       "unit": "м²",
@@ -584,11 +539,10 @@
       "difference": 485.47008547008556,
       "availability": "Нет подтвержденного наличия / уведомить",
       "referenceWithoutStock": true,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2305"
     },
     {
-      "group": "Доска строганая",
       "item": "Доска строганая 20×195×6 м, сорт AB",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/doska-stroganaya-el-sosna/:20:195:6:AB:main:1:",
       "unit": "м²",
@@ -597,24 +551,22 @@
       "difference": 575.2136752136754,
       "availability": "Нет подтвержденного наличия / уведомить",
       "referenceWithoutStock": true,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2453"
     },
     {
-      "group": "Доска строганая",
       "item": "Доска строганая 45×145×6 м, сорт AB",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/doska-stroganaya-el-sosna/:45:145:6:AB:main:1:",
       "unit": "шт.",
       "ours": 2248,
       "competitor": 2105,
       "difference": 143,
-      "availability": "В наличии: 269 шт",
+      "availability": "В наличии: 264 шт",
       "referenceWithoutStock": false,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1317"
     },
     {
-      "group": "Доска строганая",
       "item": "Доска строганая 45×195×6 м, сорт AB",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/doska-stroganaya-el-sosna/:45:195:6:AB:main:1:",
       "unit": "шт.",
@@ -623,11 +575,10 @@
       "difference": 193,
       "availability": "В наличии: 198 шт",
       "referenceWithoutStock": false,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1503"
     },
     {
-      "group": "Евровагонка",
       "item": "Евровагонка 12.5×96×3 м, сорт AB",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/evrovagonka-el-sosna/:12.5:96:3:AB:main:10:",
       "unit": "м²",
@@ -636,11 +587,10 @@
       "difference": 12.805555555555543,
       "availability": "В наличии: 516 упак",
       "referenceWithoutStock": false,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1474"
     },
     {
-      "group": "Евровагонка",
       "item": "Евровагонка 12.5×96×2.7 м, сорт AB",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/evrovagonka-el-sosna/:12.5:96:2.7:AB:main:10:",
       "unit": "м²",
@@ -649,11 +599,10 @@
       "difference": 402.91049382716056,
       "availability": "Нет в наличии",
       "referenceWithoutStock": true,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2630"
     },
     {
-      "group": "Евровагонка",
       "item": "Евровагонка 12.5×96×2.5 м, сорт AB",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/evrovagonka-el-sosna/:12.5:96:2.5:AB:main:10:",
       "unit": "м²",
@@ -662,11 +611,10 @@
       "difference": 90.33333333333326,
       "availability": "Нет в наличии",
       "referenceWithoutStock": true,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1369"
     },
     {
-      "group": "Евровагонка",
       "item": "Евровагонка 12.5×96×2.1 м, сорт AB",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/evrovagonka-el-sosna/:12.5:96:2.1:AB:main:10:",
       "unit": "м²",
@@ -675,11 +623,10 @@
       "difference": 482.00000000000006,
       "availability": "Нет в наличии",
       "referenceWithoutStock": true,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2532"
     },
     {
-      "group": "Евровагонка",
       "item": "Евровагонка 12.5×96×2 м, сорт AB",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/evrovagonka-el-sosna/:12.5:96:2:AB:main:10:",
       "unit": "м²",
@@ -688,11 +635,10 @@
       "difference": 402.8333333333333,
       "availability": "Нет в наличии",
       "referenceWithoutStock": true,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2579"
     },
     {
-      "group": "Евровагонка",
       "item": "Евровагонка 12.5×96×4 м, сорт AB",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/evrovagonka-el-sosna/:12.5:96:4:AB:main:10:",
       "unit": "м²",
@@ -701,11 +647,10 @@
       "difference": 403.09375,
       "availability": "Нет в наличии",
       "referenceWithoutStock": true,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2749"
     },
     {
-      "group": "Евровагонка",
       "item": "Евровагонка 12.5×96×6 м, сорт AB",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/evrovagonka-el-sosna/:12.5:96:6:AB:main:10:",
       "unit": "м²",
@@ -714,11 +659,10 @@
       "difference": 434.18055555555554,
       "availability": "Нет в наличии",
       "referenceWithoutStock": true,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2874"
     },
     {
-      "group": "Евровагонка",
       "item": "Евровагонка 12.5×96×6 м, сорт ABC",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/evrovagonka-el-sosna/:12.5:96:6:ABC:main:10:",
       "unit": "м²",
@@ -727,11 +671,10 @@
       "difference": 487.28472222222223,
       "availability": "Нет в наличии",
       "referenceWithoutStock": true,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2638"
     },
     {
-      "group": "Евровагонка",
       "item": "Евровагонка 12.5×96×3 м, сорт BC",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/evrovagonka-el-sosna/:12.5:96:3:BC:main:10:",
       "unit": "м²",
@@ -740,11 +683,10 @@
       "difference": 116.15277777777771,
       "availability": "Нет в наличии",
       "referenceWithoutStock": true,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1158"
     },
     {
-      "group": "Евровагонка",
       "item": "Евровагонка 12.5×96×2 м, сорт BC",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/evrovagonka-el-sosna/:12.5:96:2:BC:main:10:",
       "unit": "м²",
@@ -753,11 +695,10 @@
       "difference": 379.5208333333333,
       "availability": "Нет в наличии",
       "referenceWithoutStock": true,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2460"
     },
     {
-      "group": "Имитация бруса",
       "item": "Имитация бруса 16×146×6 м, сорт AB",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/imitacziya-brusa-el-sosna/:16:146:6:AB:main:7:",
       "unit": "м²",
@@ -766,11 +707,10 @@
       "difference": 39.99633699633705,
       "availability": "В наличии: 217 упак",
       "referenceWithoutStock": false,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1991"
     },
     {
-      "group": "Имитация бруса",
       "item": "Имитация бруса 20×196×6 м, сорт AB",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/imitacziya-brusa-el-sosna/:20:196:6:AB:main:3:",
       "unit": "м²",
@@ -779,24 +719,22 @@
       "difference": 42.28439838802524,
       "availability": "В наличии: 2 упак",
       "referenceWithoutStock": false,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1894"
     },
     {
-      "group": "Палубная доска",
       "item": "Палубная доска 28×120×6 м, сорт AB",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/palubnaya-doska-el-sosna/:28:120:6:AB:main:1:",
       "unit": "м²",
       "ours": 1924,
       "competitor": 1566.6666666666667,
       "difference": 357.33333333333326,
-      "availability": "Нет в наличии",
+      "availability": "Нет подтвержденного наличия / уведомить",
       "referenceWithoutStock": true,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=924"
     },
     {
-      "group": "Палубная доска",
       "item": "Палубная доска 45×145×4 м, сорт AB",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/palubnaya-doska-el-sosna/:45:145:4:AB:main:1:",
       "unit": "м²",
@@ -805,24 +743,22 @@
       "difference": 1136.4482758620688,
       "availability": "Нет подтвержденного наличия / уведомить",
       "referenceWithoutStock": true,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2568"
     },
     {
-      "group": "Палубная доска",
       "item": "Палубная доска 45×145×6 м, сорт AB",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/palubnaya-doska-el-sosna/:45:145:6:AB:main:1:",
       "unit": "м²",
       "ours": 2583,
       "competitor": 2419.5402298850577,
       "difference": 163.45977011494233,
-      "availability": "В наличии: 269 шт",
+      "availability": "В наличии: 189 шт",
       "referenceWithoutStock": false,
-      "change": null,
-      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1317"
+      "change": 0,
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1293"
     },
     {
-      "group": "Палубная доска",
       "item": "Палубная доска 45×145×6 м, сорт ABC",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/palubnaya-doska-el-sosna/:45:145:6:ABC:main:1:",
       "unit": "м²",
@@ -831,11 +767,10 @@
       "difference": 383.9195402298851,
       "availability": "Нет подтвержденного наличия / уведомить",
       "referenceWithoutStock": true,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1161"
     },
     {
-      "group": "Планкен прямой",
       "item": "Планкен прямой 20×96×3 м, сорт C",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/planken-pryamoj-el-sosna/:20:96:3:C:main:1:",
       "unit": "м²",
@@ -844,11 +779,10 @@
       "difference": 56.25925925925935,
       "availability": "В наличии: 839 шт",
       "referenceWithoutStock": false,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/tovar/3699"
     },
     {
-      "group": "Планкен прямой",
       "item": "Планкен прямой 20×145×6 м, сорт ABC",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/planken-pryamoj-el-sosna/:20:145:6:ABC:main:1:",
       "unit": "м²",
@@ -857,11 +791,10 @@
       "difference": 117.23809523809518,
       "availability": "В наличии: 7 шт",
       "referenceWithoutStock": false,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=721"
     },
     {
-      "group": "Планкен прямой",
       "item": "Планкен прямой 20×145×3 м, сорт AB",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/planken-pryamoj-el-sosna/:20:145:3:AB:main:1:",
       "unit": "м²",
@@ -870,11 +803,10 @@
       "difference": 422,
       "availability": "Нет подтвержденного наличия / уведомить",
       "referenceWithoutStock": true,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=506"
     },
     {
-      "group": "Планкен прямой",
       "item": "Планкен прямой 20×145×6 м, сорт AB",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/planken-pryamoj-el-sosna/:20:145:6:AB:main:1:",
       "unit": "м²",
@@ -883,11 +815,10 @@
       "difference": 45.80952380952385,
       "availability": "Нет подтвержденного наличия / уведомить",
       "referenceWithoutStock": true,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/tovar/3305"
     },
     {
-      "group": "Планкен прямой",
       "item": "Планкен прямой 20×90 мм, длина не указана, сорт BC",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/planken-pryamoj-listvennicza/:20:90:0:BC:main:1::range:2:4",
       "unit": "м²",
@@ -896,11 +827,10 @@
       "difference": 1048.75,
       "availability": "Нет в наличии",
       "referenceWithoutStock": true,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2852"
     },
     {
-      "group": "Планкен скошенный",
       "item": "Планкен скошенный 20×96 мм, длина не указана, сорт BC",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/planken-skoshennyj-listvennicza/:20:96:0:BC:main:1::range:2:4",
       "unit": "м²",
@@ -909,46 +839,43 @@
       "difference": 935.4761904761904,
       "availability": "Нет в наличии",
       "referenceWithoutStock": true,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2837"
     },
     {
-      "group": "Рейка строганая",
       "item": "Рейка строганая 20×40 мм, длина не указана, сорт AB",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/rejka-stroganaya-el-sosna/:20:40:0:AB:main:1:",
       "unit": "пог. м",
       "ours": 49,
       "competitor": 46.333333333333336,
       "difference": 2.6666666666666643,
-      "availability": "В наличии: 2431 шт",
+      "availability": "В наличии: 2180 шт",
       "referenceWithoutStock": false,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=209"
     },
     {
-      "group": "Рейка строганая",
       "item": "Рейка строганая 20×40 мм, длина не указана, сорт BC",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/rejka-stroganaya-el-sosna/:20:40:0:BC:main:1:",
       "unit": "пог. м",
       "ours": 40,
       "competitor": 37.333333333333336,
       "difference": 2.6666666666666643,
-      "availability": "В наличии: 1544 шт",
+      "availability": "В наличии: 1527 шт",
       "referenceWithoutStock": false,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=23"
     },
     {
-      "group": "Вагонка Штиль",
       "item": "Вагонка Штиль 13×122×3 м, сорт BC",
       "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/vagonka-shtil-el-sosna/:13:122:3:BC:main:10:",
       "unit": "м²",
       "ours": 680,
       "competitor": 557.1249215317013,
       "difference": 122.87507846829874,
-      "availability": "В наличии: 526 упак",
+      "availability": "В наличии: 361 упак",
       "referenceWithoutStock": false,
-      "change": null,
+      "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1217"
     }
   ],
@@ -1026,1519 +953,16 @@
     {
       "source": "Терем — проверка каждой упаковки по карточке",
       "status": "error",
-      "rows": 621,
-      "details": "{\"verified\":619,\"errors\":[{\"url\":\"https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2818\",\"title\":\"Вагонка штиль сосна/ель \\\"АВ\\\" 13*118(110)*3000мм*10шт\",\"status\":\"error\",\"details\":\"Error: Название содержит 10 досок, но цена карточки подписана за шт; единицу нужно уточнить\"},{\"url\":\"https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2634\",\"title\":\"Планкен скошенный Сосна \\\"АВ\\\" 20*140*3000мм*5шт\",\"status\":\"error\",\"details\":\"Error: Площадь упаковки в калькуляторе 0.42 м² не соответствует 5 доскам: 2.1000 м². Требуется уточнение единицы/упаковки\"}]}"
+      "rows": 622,
+      "details": "{\"verified\":620,\"errors\":[{\"url\":\"https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2818\",\"title\":\"Вагонка штиль сосна/ель \\\"АВ\\\" 13*118(110)*3000мм*10шт\",\"status\":\"error\",\"details\":\"Error: Название содержит 10 досок, но цена карточки подписана за шт; единицу нужно уточнить\"},{\"url\":\"https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2634\",\"title\":\"Планкен скошенный Сосна \\\"АВ\\\" 20*140*3000мм*5шт\",\"status\":\"error\",\"details\":\"Error: Площадь упаковки в калькуляторе 0.42 м² не соответствует 5 доскам: 2.1000 м². Требуется уточнение единицы/упаковки\"}]}"
     }
   ],
   "pks": {
-    "at": "2026-10-15T06:29:10Z",
+    "at": "2026-10-19T10:34:08Z",
     "region": "Симферополь",
     "offers": 34,
     "priced": 29,
     "pendingUnits": 19,
     "rawMoves": []
-  },
-  "referencePrices": [
-    {
-      "group": "Балясины",
-      "item": "Балясины 45×45×0.9 м, сорт AB",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/balyasiny-el-sosna/:45:45:0.9:AB:main:1:",
-      "unit": "шт.",
-      "ours": 246,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Балясина №10 \"Витая\" хв. пород 45*45*900мм",
-        "price": 324,
-        "unit": "шт.",
-        "stock": "В наличии: 41 шт",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
-          "Уточнить породу: хвойные (порода не уточнена).",
-          "Уточнить рисунок и форму изделия."
-        ]
-      }
-    },
-    {
-      "group": "Брусок строганый",
-      "item": "Брусок строганый 30×40 мм, длина не указана, сорт BC",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/brusok-stroganyj-el-sosna/:30:40:0:BC:main:1:",
-      "unit": "пог. м",
-      "ours": 60,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Брусок сосна \"АВ\" 30*40*2000мм (профилир. ОКПД2 код 16.10.2)",
-        "price": 37.5,
-        "unit": "пог. м",
-        "stock": "Нет подтвержденного наличия / уведомить",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш BC; Терем AB.",
-          "Уточнить породу: сосна.",
-          "Наша длина не опубликована; Терем 2 м."
-        ]
-      }
-    },
-    {
-      "group": "Брусок строганый",
-      "item": "Брусок строганый 30×50 мм, длина не указана, сорт BC",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/brusok-stroganyj-el-sosna/:30:50:0:BC:main:1:",
-      "unit": "пог. м",
-      "ours": 75,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Брусок сосна \"АВ\" 30*50*4000мм (профилир. ОКПД2 код 16.10.2)",
-        "price": 40.25,
-        "unit": "пог. м",
-        "stock": "Нет подтвержденного наличия / уведомить",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш BC; Терем AB.",
-          "Уточнить породу: сосна.",
-          "Наша длина не опубликована; Терем 4 м."
-        ]
-      }
-    },
-    {
-      "group": "Брусок строганый",
-      "item": "Брусок строганый 40×60 мм, длина не указана, сорт BC",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/brusok-stroganyj-el-sosna/:40:60:0:BC:main:1:",
-      "unit": "пог. м",
-      "ours": 120,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Брусок сосна \"АВ\" 40*60*3000мм (профилир. ОКПД2 код 16.10.2)",
-        "price": 127.33333333333333,
-        "unit": "пог. м",
-        "stock": "Нет подтвержденного наличия / уведомить",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш BC; Терем AB.",
-          "Уточнить породу: сосна.",
-          "Наша длина не опубликована; Терем 3 м."
-        ]
-      }
-    },
-    {
-      "group": "Брусок строганый",
-      "item": "Брусок строганый 50×70 мм, длина не указана, сорт BC",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/brusok-stroganyj-el-sosna/:50:70:0:BC:main:1:",
-      "unit": "пог. м",
-      "ours": 174,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Брусок сосна \"АВ\" 50*70*2700мм (профилир. ОКПД2 код 16.10.2)",
-        "price": 115.18518518518518,
-        "unit": "пог. м",
-        "stock": "Нет подтвержденного наличия / уведомить",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш BC; Терем AB.",
-          "Уточнить породу: сосна.",
-          "Наша длина не опубликована; Терем 2.7 м."
-        ]
-      }
-    },
-    {
-      "group": "Доска строганая",
-      "item": "Доска строганая 20×120×6 м, сорт BC",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/doska-stroganaya-el-sosna/:20:120:6:BC:main:1:",
-      "unit": "м²",
-      "ours": 1120.8333333333335,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Доска сухая сосна \"АВ\" 20*120*6000мм (строг.профилир. ОКПД2 код 16.10.2)",
-        "price": 1376.388888888889,
-        "unit": "м²",
-        "stock": "Нет подтвержденного наличия / уведомить",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш BC; Терем AB.",
-          "Уточнить породу: сосна."
-        ]
-      }
-    },
-    {
-      "group": "Евровагонка",
-      "item": "Евровагонка 12.5×96×4 м, сорт ABC",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/evrovagonka-el-sosna/:12.5:96:4:ABC:main:10:",
-      "unit": "м²",
-      "ours": 701,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Евровагонка сосна/ель \"А\" 12,5*96(90)*4000мм*10шт",
-        "price": 453.90625,
-        "unit": "м²",
-        "stock": "Нет в наличии",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш ABC; Терем A."
-        ]
-      }
-    },
-    {
-      "group": "Евровагонка",
-      "item": "Евровагонка 12.5×96×2.7 м, сорт BC",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/evrovagonka-el-sosna/:12.5:96:2.7:BC:main:10:",
-      "unit": "м²",
-      "ours": 654,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Евровагонка сосна/ель \"В\" 12,5*96(90)*2700мм*10шт",
-        "price": 350.6944444444444,
-        "unit": "м²",
-        "stock": "Нет в наличии",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш BC; Терем B."
-        ]
-      }
-    },
-    {
-      "group": "Евровагонка",
-      "item": "Евровагонка 12.5×96×2.5 м, сорт BC",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/evrovagonka-el-sosna/:12.5:96:2.5:BC:main:10:",
-      "unit": "м²",
-      "ours": 654,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Евровагонка сосна/ель \"В\" 12,5*96(90)*2500мм*10шт",
-        "price": 498.3333333333333,
-        "unit": "м²",
-        "stock": "Нет в наличии",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш BC; Терем B."
-        ]
-      }
-    },
-    {
-      "group": "Евровагонка",
-      "item": "Евровагонка 12.5×96×2.1 м, сорт BC",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/evrovagonka-el-sosna/:12.5:96:2.1:BC:main:10:",
-      "unit": "м²",
-      "ours": 654,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Евровагонка сосна/ель \"А\" 12,5*96(90)*2100мм*10шт",
-        "price": 374.99999999999994,
-        "unit": "м²",
-        "stock": "Нет в наличии",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш BC; Терем A."
-        ]
-      }
-    },
-    {
-      "group": "Клеёный брус",
-      "item": "Клеёный брус 80×80×3 м, сорт AB",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/kleyonyj-brus-el-sosna/:80:80:3:AB:main:1:",
-      "unit": "пог. м",
-      "ours": 548,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Брус сухой клееный 80*80*3000мм",
-        "price": 661.6666666666666,
-        "unit": "пог. м",
-        "stock": "Нет подтвержденного наличия / уведомить",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
-          "Уточнить породу: не указана.",
-          "Склейка Терема: клеёная; вид склейки и сорт требуют подтверждения."
-        ]
-      }
-    },
-    {
-      "group": "Клеёный брус",
-      "item": "Клеёный брус 90×90×3 м, сорт AB",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/kleyonyj-brus-el-sosna/:90:90:3:AB:main:1:",
-      "unit": "пог. м",
-      "ours": 694,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Брус сухой клееный 90*90*3000мм",
-        "price": 837,
-        "unit": "пог. м",
-        "stock": "Нет подтвержденного наличия / уведомить",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
-          "Уточнить породу: не указана.",
-          "Склейка Терема: клеёная; вид склейки и сорт требуют подтверждения."
-        ]
-      }
-    },
-    {
-      "group": "Клеёный брус",
-      "item": "Клеёный брус 100×100×3 м, сорт AB",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/kleyonyj-brus-el-sosna/:100:100:3:AB:main:1:",
-      "unit": "пог. м",
-      "ours": 856,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Брус сухой клееный 100*100*3000мм",
-        "price": 1037,
-        "unit": "пог. м",
-        "stock": "В наличии: 12 шт",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
-          "Уточнить породу: не указана.",
-          "Склейка Терема: клеёная; вид склейки и сорт требуют подтверждения."
-        ]
-      }
-    },
-    {
-      "group": "Клеёный брус",
-      "item": "Клеёный брус 120×120×3 м, сорт AB",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/kleyonyj-brus-el-sosna/:120:120:3:AB:main:1:",
-      "unit": "пог. м",
-      "ours": 1233,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Брус сухой клееный 120*120*3000мм",
-        "price": 1641,
-        "unit": "пог. м",
-        "stock": "В наличии: 27 шт",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
-          "Уточнить породу: не указана.",
-          "Склейка Терема: клеёная; вид склейки и сорт требуют подтверждения."
-        ]
-      }
-    },
-    {
-      "group": "Лестничные площадки",
-      "item": "Лестничные площадки 40×400 мм, длина не указана, сорт AB",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/lestnichnye-ploshhadki-el-sosna/:40:400:0:AB:main:1::range:0.8:3",
-      "unit": "м²",
-      "ours": 3581,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Площадка хв. пород 40*400*3000мм",
-        "price": 3622.5,
-        "unit": "м²",
-        "stock": "Нет подтвержденного наличия / уведомить",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
-          "Уточнить породу: хвойные (порода не уточнена).",
-          "Склейка Терема: не указана; вид склейки и сорт требуют подтверждения."
-        ]
-      }
-    },
-    {
-      "group": "Лестничные площадки",
-      "item": "Лестничные площадки 40×500 мм, длина не указана, сорт AB",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/lestnichnye-ploshhadki-el-sosna/:40:500:0:AB:main:1::range:0.8:3",
-      "unit": "м²",
-      "ours": 3581,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Площадка хв. пород 40*500*2000мм",
-        "price": 4006,
-        "unit": "м²",
-        "stock": "В наличии: 12 шт",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
-          "Уточнить породу: хвойные (порода не уточнена).",
-          "Склейка Терема: не указана; вид склейки и сорт требуют подтверждения."
-        ]
-      }
-    },
-    {
-      "group": "Лестничные площадки",
-      "item": "Лестничные площадки 40×600 мм, длина не указана, сорт AB",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/lestnichnye-ploshhadki-el-sosna/:40:600:0:AB:main:1::range:0.8:3",
-      "unit": "м²",
-      "ours": 3581,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Площадка хв. пород 40*600*2000мм",
-        "price": 3969.166666666667,
-        "unit": "м²",
-        "stock": "В наличии: 12 шт",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
-          "Уточнить породу: хвойные (порода не уточнена).",
-          "Склейка Терема: не указана; вид склейки и сорт требуют подтверждения."
-        ]
-      }
-    },
-    {
-      "group": "Лестничные площадки",
-      "item": "Лестничные площадки 40×800 мм, длина не указана, сорт AB",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/lestnichnye-ploshhadki-el-sosna/:40:800:0:AB:main:1::range:0.8:3",
-      "unit": "м²",
-      "ours": 3581,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Площадка хв. пород 40*800*1000мм",
-        "price": 3620,
-        "unit": "м²",
-        "stock": "Нет подтвержденного наличия / уведомить",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
-          "Уточнить породу: хвойные (порода не уточнена).",
-          "Склейка Терема: не указана; вид склейки и сорт требуют подтверждения."
-        ]
-      }
-    },
-    {
-      "group": "Лестничные площадки",
-      "item": "Лестничные площадки 40×1000×1 м, сорт AB",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/lestnichnye-ploshhadki-el-sosna/:40:1000:1:AB:main:1:",
-      "unit": "м²",
-      "ours": 3581,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Площадка хв. пород 40*1000*1000мм",
-        "price": 4008,
-        "unit": "м²",
-        "stock": "В наличии: 1 шт",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
-          "Уточнить породу: хвойные (порода не уточнена).",
-          "Склейка Терема: не указана; вид склейки и сорт требуют подтверждения."
-        ]
-      }
-    },
-    {
-      "group": "Лестничные площадки",
-      "item": "Лестничные площадки 40×1000×1.2 м, сорт AB",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/lestnichnye-ploshhadki-el-sosna/:40:1000:1.2:AB:main:1:",
-      "unit": "м²",
-      "ours": 3581,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Площадка хв. пород 40*1000*1200мм",
-        "price": 4007.5,
-        "unit": "м²",
-        "stock": "В наличии: 6 шт",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
-          "Уточнить породу: хвойные (порода не уточнена).",
-          "Склейка Терема: не указана; вид склейки и сорт требуют подтверждения."
-        ]
-      }
-    },
-    {
-      "group": "Лестничные площадки",
-      "item": "Лестничные площадки 40×1000×1.5 м, сорт AB",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/lestnichnye-ploshhadki-el-sosna/:40:1000:1.5:AB:main:1:",
-      "unit": "м²",
-      "ours": 3581,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Площадка хв. пород 40*1000*1500мм",
-        "price": 4007.3333333333335,
-        "unit": "м²",
-        "stock": "В наличии: 7 шт",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
-          "Уточнить породу: хвойные (порода не уточнена).",
-          "Склейка Терема: не указана; вид склейки и сорт требуют подтверждения."
-        ]
-      }
-    },
-    {
-      "group": "Лестничные площадки",
-      "item": "Лестничные площадки 40×1000×2 м, сорт AB",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/lestnichnye-ploshhadki-el-sosna/:40:1000:2:AB:main:1:",
-      "unit": "м²",
-      "ours": 3581,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Площадка хв. пород 40*1000*2000мм",
-        "price": 3967.5,
-        "unit": "м²",
-        "stock": "В наличии: 19 шт",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
-          "Уточнить породу: хвойные (порода не уточнена).",
-          "Склейка Терема: не указана; вид склейки и сорт требуют подтверждения."
-        ]
-      }
-    },
-    {
-      "group": "Мебельный щит",
-      "item": "Мебельный щит 18×200 мм, длина не указана, сорт AB",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/mebelnyj-shhit-el-sosna/:18:200:0:AB:main:1::range:1.3:3",
-      "unit": "м²",
-      "ours": 1728,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Мебельный щит хв. пород 18*200*3000мм 4D",
-        "price": 2163.3333333333335,
-        "unit": "м²",
-        "stock": "В наличии: 17 шт",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
-          "Уточнить породу: хвойные (порода не уточнена).",
-          "Склейка Терема: не указана; вид склейки и сорт требуют подтверждения."
-        ]
-      }
-    },
-    {
-      "group": "Мебельный щит",
-      "item": "Мебельный щит 18×300 мм, длина не указана, сорт AB",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/mebelnyj-shhit-el-sosna/:18:300:0:AB:main:1::range:1.3:3",
-      "unit": "м²",
-      "ours": 1728,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Мебельный щит хв. пород 18*300*3000мм",
-        "price": 1957.7777777777778,
-        "unit": "м²",
-        "stock": "Нет подтвержденного наличия / уведомить",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
-          "Уточнить породу: хвойные (порода не уточнена).",
-          "Склейка Терема: не указана; вид склейки и сорт требуют подтверждения."
-        ]
-      }
-    },
-    {
-      "group": "Мебельный щит",
-      "item": "Мебельный щит 18×400 мм, длина не указана, сорт AB",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/mebelnyj-shhit-el-sosna/:18:400:0:AB:main:1::range:1.3:3",
-      "unit": "м²",
-      "ours": 1728,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Мебельный щит хв. пород 18*400*3000мм",
-        "price": 1937.5,
-        "unit": "м²",
-        "stock": "В наличии: 24 шт",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
-          "Уточнить породу: хвойные (порода не уточнена).",
-          "Склейка Терема: не указана; вид склейки и сорт требуют подтверждения."
-        ]
-      }
-    },
-    {
-      "group": "Мебельный щит",
-      "item": "Мебельный щит 18×500 мм, длина не указана, сорт AB",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/mebelnyj-shhit-el-sosna/:18:500:0:AB:main:1::range:1.3:3",
-      "unit": "м²",
-      "ours": 1728,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Мебельный щит хв. пород 18*500*3000мм",
-        "price": 1932.6666666666667,
-        "unit": "м²",
-        "stock": "В наличии: 36 шт",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
-          "Уточнить породу: хвойные (порода не уточнена).",
-          "Склейка Терема: не указана; вид склейки и сорт требуют подтверждения."
-        ]
-      }
-    },
-    {
-      "group": "Мебельный щит",
-      "item": "Мебельный щит 18×600 мм, длина не указана, сорт AB",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/mebelnyj-shhit-el-sosna/:18:600:0:AB:main:1::range:1.3:3",
-      "unit": "м²",
-      "ours": 1728,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Мебельный щит хв. пород 18*600*3000мм",
-        "price": 1938.3333333333333,
-        "unit": "м²",
-        "stock": "В наличии: 54 шт",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
-          "Уточнить породу: хвойные (порода не уточнена).",
-          "Склейка Терема: не указана; вид склейки и сорт требуют подтверждения."
-        ]
-      }
-    },
-    {
-      "group": "Наличник",
-      "item": "Наличник 0×90 мм, длина не указана, сорт НЕ УКАЗАН",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/nalichnik-derevyannyj-el-sosna/:0:90:0:НЕ УКАЗАН:main:1:",
-      "unit": "пог. м",
-      "ours": 239,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Наличник хвоя П\"90\" - 2,2м",
-        "price": 196.36363636363635,
-        "unit": "пог. м",
-        "stock": "В наличии: 123 шт",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш НЕ УКАЗАН; Терем НЕ УКАЗАН.",
-          "Уточнить породу: хвойные (порода не уточнена).",
-          "Наша толщина не опубликована; Терем 0 мм.",
-          "Наша длина не опубликована; Терем 2.2 м.",
-          "Уточнить форму погонажа; сравнение по ширине, цена за погонный метр."
-        ]
-      }
-    },
-    {
-      "group": "Наличник",
-      "item": "Наличник 0×70 мм, длина не указана, сорт НЕ УКАЗАН",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/nalichnik-derevyannyj-el-sosna/:0:70:0:НЕ УКАЗАН:main:1:",
-      "unit": "пог. м",
-      "ours": 184,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Наличник хвоя цельный Ф\"70\" - 2,2м",
-        "price": 56.36363636363636,
-        "unit": "пог. м",
-        "stock": "Нет подтвержденного наличия / уведомить",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш НЕ УКАЗАН; Терем НЕ УКАЗАН.",
-          "Уточнить породу: хвойные (порода не уточнена).",
-          "Наша толщина не опубликована; Терем 0 мм.",
-          "Наша длина не опубликована; Терем 2.2 м.",
-          "Уточнить форму погонажа; сравнение по ширине, цена за погонный метр."
-        ]
-      }
-    },
-    {
-      "group": "Палубная доска",
-      "item": "Палубная доска 28×120×6 м, сорт ABC",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/palubnaya-doska-el-sosna/:28:120:6:ABC:main:1:",
-      "unit": "м²",
-      "ours": 1570,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Палубная доска сосна \"АВ\" 28*120*6000мм",
-        "price": 1566.6666666666667,
-        "unit": "м²",
-        "stock": "Нет в наличии",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш ABC; Терем AB.",
-          "Уточнить породу: сосна."
-        ]
-      }
-    },
-    {
-      "group": "Планкен прямой",
-      "item": "Планкен прямой 20×90 мм, длина не указана, сорт ПРИМА",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/planken-pryamoj-listvennicza/:20:90:0:ПРИМА:main:1::range:2:4",
-      "unit": "м²",
-      "ours": 3128,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Планкен прямой лиственница \"СД\" 20*120*3000мм*8шт",
-        "price": 669.4444444444445,
-        "unit": "м²",
-        "stock": "Нет в наличии",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш ПРИМА; Терем НЕ УКАЗАН."
-        ]
-      }
-    },
-    {
-      "group": "Планкен прямой",
-      "item": "Планкен прямой 20×90 мм, длина не указана, сорт AB",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/planken-pryamoj-listvennicza/:20:90:0:AB:main:1::range:2:4",
-      "unit": "м²",
-      "ours": 2479,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Планкен прямой лиственница \"СД\" 20*120*3000мм*8шт",
-        "price": 669.4444444444445,
-        "unit": "м²",
-        "stock": "Нет в наличии",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН."
-        ]
-      }
-    },
-    {
-      "group": "Планкен скошенный",
-      "item": "Планкен скошенный 20×120×3 м, сорт C",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/planken-skoshennyj-el-sosna/:20:120:3:C:main:1:",
-      "unit": "м²",
-      "ours": 997,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Планкен скошенный Сосна \"АВ\" 20*120*3000мм*1шт",
-        "price": 1158.3333333333335,
-        "unit": "м²",
-        "stock": "Нет подтвержденного наличия / уведомить",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш C; Терем AB.",
-          "Уточнить породу: сосна."
-        ]
-      }
-    },
-    {
-      "group": "Планкен скошенный",
-      "item": "Планкен скошенный 20×120×6 м, сорт ABC",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/planken-skoshennyj-el-sosna/:20:120:6:ABC:main:1:",
-      "unit": "м²",
-      "ours": 1122,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Планкен скошенный Сосна \"АВ\" 20*120*6000мм*1шт",
-        "price": 1222.2222222222222,
-        "unit": "м²",
-        "stock": "Нет подтвержденного наличия / уведомить",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш ABC; Терем AB.",
-          "Уточнить породу: сосна."
-        ]
-      }
-    },
-    {
-      "group": "Планкен скошенный",
-      "item": "Планкен скошенный 20×96 мм, длина не указана, сорт AB",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/planken-skoshennyj-listvennicza/:20:96:0:AB:main:1::range:2:4",
-      "unit": "м²",
-      "ours": 2479,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Планкен скошенный лиственница \"В\" 20*140*3000мм*6шт НК",
-        "price": 691.6666666666667,
-        "unit": "м²",
-        "stock": "Нет в наличии",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш AB; Терем B."
-        ]
-      }
-    },
-    {
-      "group": "Плинтус",
-      "item": "Плинтус Евро 60 мм, сорт не указан",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/plintus-derevyannyj-el-sosna/:0:60:0:НЕ УКАЗАН:main:1::profile:Евро",
-      "unit": "пог. м",
-      "ours": 151,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Плинтус хвоя \"60\"-2,5м",
-        "price": 131.2,
-        "unit": "пог. м",
-        "stock": "В наличии: 150 шт",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш НЕ УКАЗАН; Терем НЕ УКАЗАН.",
-          "Уточнить породу: хвойные (порода не уточнена).",
-          "Наша толщина не опубликована; Терем 0 мм.",
-          "Наша длина не опубликована; Терем 2.5 м.",
-          "Уточнить форму погонажа; сравнение по ширине, цена за погонный метр."
-        ]
-      }
-    },
-    {
-      "group": "Плинтус",
-      "item": "Плинтус Евро 50 мм, сорт не указан",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/plintus-derevyannyj-el-sosna/:0:50:0:НЕ УКАЗАН:main:1::profile:Евро",
-      "unit": "пог. м",
-      "ours": 141,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Плинтус хвоя \"50\"-2,5м",
-        "price": 108.4,
-        "unit": "пог. м",
-        "stock": "В наличии: 102 шт",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш НЕ УКАЗАН; Терем НЕ УКАЗАН.",
-          "Уточнить породу: хвойные (порода не уточнена).",
-          "Наша толщина не опубликована; Терем 0 мм.",
-          "Наша длина не опубликована; Терем 2.5 м.",
-          "Уточнить форму погонажа; сравнение по ширине, цена за погонный метр."
-        ]
-      }
-    },
-    {
-      "group": "Плинтус",
-      "item": "Плинтус Гладкий/фигурный 60 мм, сорт не указан",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/plintus-derevyannyj-el-sosna/:0:60:0:НЕ УКАЗАН:main:1::profile:Гладкий/фигурный",
-      "unit": "пог. м",
-      "ours": 151,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Плинтус хвоя \"60\"-2,5м",
-        "price": 131.2,
-        "unit": "пог. м",
-        "stock": "В наличии: 150 шт",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш НЕ УКАЗАН; Терем НЕ УКАЗАН.",
-          "Уточнить породу: хвойные (порода не уточнена).",
-          "Наша толщина не опубликована; Терем 0 мм.",
-          "Наша длина не опубликована; Терем 2.5 м.",
-          "Уточнить форму погонажа; сравнение по ширине, цена за погонный метр."
-        ]
-      }
-    },
-    {
-      "group": "Плинтус",
-      "item": "Плинтус Гладкий/фигурный 50 мм, сорт не указан",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/plintus-derevyannyj-el-sosna/:0:50:0:НЕ УКАЗАН:main:1::profile:Гладкий/фигурный",
-      "unit": "пог. м",
-      "ours": 130,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Плинтус хвоя \"50\"-2,5м",
-        "price": 108.4,
-        "unit": "пог. м",
-        "stock": "В наличии: 102 шт",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш НЕ УКАЗАН; Терем НЕ УКАЗАН.",
-          "Уточнить породу: хвойные (порода не уточнена).",
-          "Наша толщина не опубликована; Терем 0 мм.",
-          "Наша длина не опубликована; Терем 2.5 м.",
-          "Уточнить форму погонажа; сравнение по ширине, цена за погонный метр."
-        ]
-      }
-    },
-    {
-      "group": "Плинтус",
-      "item": "Плинтус Гладкий/фигурный 45 мм, сорт не указан",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/plintus-derevyannyj-el-sosna/:0:45:0:НЕ УКАЗАН:main:1::profile:Гладкий/фигурный",
-      "unit": "пог. м",
-      "ours": 105,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Плинтус ольха \"45\"-1,8м",
-        "price": 100.55555555555556,
-        "unit": "пог. м",
-        "stock": "В наличии: 1 шт",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш НЕ УКАЗАН; Терем НЕ УКАЗАН.",
-          "Уточнить породу: не указана.",
-          "Наша толщина не опубликована; Терем 0 мм.",
-          "Наша длина не опубликована; Терем 1.8 м.",
-          "Уточнить форму погонажа; сравнение по ширине, цена за погонный метр."
-        ]
-      }
-    },
-    {
-      "group": "Плинтус",
-      "item": "Плинтус Гладкий/фигурный 35 мм, сорт не указан",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/plintus-derevyannyj-el-sosna/:0:35:0:НЕ УКАЗАН:main:1::profile:Гладкий/фигурный",
-      "unit": "пог. м",
-      "ours": 98,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Плинтус хвоя \"35\"-3,0м",
-        "price": 77.33333333333333,
-        "unit": "пог. м",
-        "stock": "Нет подтвержденного наличия / уведомить",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш НЕ УКАЗАН; Терем НЕ УКАЗАН.",
-          "Уточнить породу: хвойные (порода не уточнена).",
-          "Наша толщина не опубликована; Терем 0 мм.",
-          "Наша длина не опубликована; Терем 3 м.",
-          "Уточнить форму погонажа; сравнение по ширине, цена за погонный метр."
-        ]
-      }
-    },
-    {
-      "group": "Плинтус",
-      "item": "Плинтус Гладкий/фигурный 30 мм, сорт не указан",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/plintus-derevyannyj-el-sosna/:0:30:0:НЕ УКАЗАН:main:1::profile:Гладкий/фигурный",
-      "unit": "пог. м",
-      "ours": 70,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Плинтус хвоя \"30\"-2,5м",
-        "price": 71.2,
-        "unit": "пог. м",
-        "stock": "Нет подтвержденного наличия / уведомить",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш НЕ УКАЗАН; Терем НЕ УКАЗАН.",
-          "Уточнить породу: хвойные (порода не уточнена).",
-          "Наша толщина не опубликована; Терем 0 мм.",
-          "Наша длина не опубликована; Терем 2.5 м.",
-          "Уточнить форму погонажа; сравнение по ширине, цена за погонный метр."
-        ]
-      }
-    },
-    {
-      "group": "Плинтус",
-      "item": "Плинтус Гладкий/фигурный 25 мм, сорт не указан",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/plintus-derevyannyj-el-sosna/:0:25:0:НЕ УКАЗАН:main:1::profile:Гладкий/фигурный",
-      "unit": "пог. м",
-      "ours": 66,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Плинтус хвоя \"25\"-2,5м",
-        "price": 50.4,
-        "unit": "пог. м",
-        "stock": "Нет подтвержденного наличия / уведомить",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш НЕ УКАЗАН; Терем НЕ УКАЗАН.",
-          "Уточнить породу: хвойные (порода не уточнена).",
-          "Наша толщина не опубликована; Терем 0 мм.",
-          "Наша длина не опубликована; Терем 2.5 м.",
-          "Уточнить форму погонажа; сравнение по ширине, цена за погонный метр."
-        ]
-      }
-    },
-    {
-      "group": "Подоконники",
-      "item": "Подоконники 40×300 мм, длина не указана, сорт AB",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/podokonniki-el-sosna/:40:300:0:AB:main:1::range:1.3:3",
-      "unit": "м²",
-      "ours": 3581,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Подоконник хв. пород 40*300*2000мм",
-        "price": 3418.3333333333335,
-        "unit": "м²",
-        "stock": "Нет подтвержденного наличия / уведомить",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
-          "Уточнить породу: хвойные (порода не уточнена)."
-        ]
-      }
-    },
-    {
-      "group": "Подоконники",
-      "item": "Подоконники 40×400 мм, длина не указана, сорт AB",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/podokonniki-el-sosna/:40:400:0:AB:main:1::range:1.3:3",
-      "unit": "м²",
-      "ours": 3581,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Подоконник хв. пород 40*400*2000мм",
-        "price": 3783.75,
-        "unit": "м²",
-        "stock": "Нет подтвержденного наличия / уведомить",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
-          "Уточнить породу: хвойные (порода не уточнена)."
-        ]
-      }
-    },
-    {
-      "group": "Подоконники",
-      "item": "Подоконники 40×500 мм, длина не указана, сорт AB",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/podokonniki-el-sosna/:40:500:0:AB:main:1::range:1.3:3",
-      "unit": "м²",
-      "ours": 3581,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Подоконник хв. пород 40*500*2000мм",
-        "price": 3744,
-        "unit": "м²",
-        "stock": "В наличии: 7 шт",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
-          "Уточнить породу: хвойные (порода не уточнена)."
-        ]
-      }
-    },
-    {
-      "group": "Подоконники",
-      "item": "Подоконники 40×600 мм, длина не указана, сорт AB",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/podokonniki-el-sosna/:40:600:0:AB:main:1::range:1.3:3",
-      "unit": "м²",
-      "ours": 3581,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Подоконник хв. пород 40*600*3000мм",
-        "price": 3417.777777777778,
-        "unit": "м²",
-        "stock": "Нет подтвержденного наличия / уведомить",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
-          "Уточнить породу: хвойные (порода не уточнена)."
-        ]
-      }
-    },
-    {
-      "group": "Раскладка / нащельник",
-      "item": "Раскладка / нащельник 0×50 мм, длина не указана, сорт НЕ УКАЗАН",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/raskladka-nashhelnik-el-sosna/:0:50:0:НЕ УКАЗАН:main:1:",
-      "unit": "пог. м",
-      "ours": 86,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Раскладка 10*50-2,5м гл.",
-        "price": 91.2,
-        "unit": "пог. м",
-        "stock": "Нет подтвержденного наличия / уведомить",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш НЕ УКАЗАН; Терем НЕ УКАЗАН.",
-          "Уточнить породу: не указана.",
-          "Наша толщина не опубликована; Терем 10 мм.",
-          "Наша длина не опубликована; Терем 2.5 м.",
-          "Уточнить форму погонажа; сравнение по ширине, цена за погонный метр."
-        ]
-      }
-    },
-    {
-      "group": "Раскладка / нащельник",
-      "item": "Раскладка / нащельник 0×40 мм, длина не указана, сорт НЕ УКАЗАН",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/raskladka-nashhelnik-el-sosna/:0:40:0:НЕ УКАЗАН:main:1:",
-      "unit": "пог. м",
-      "ours": 77,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Раскладка 10*40-2,5м сфера",
-        "price": 62,
-        "unit": "пог. м",
-        "stock": "В наличии: 102 шт",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш НЕ УКАЗАН; Терем НЕ УКАЗАН.",
-          "Уточнить породу: не указана.",
-          "Наша толщина не опубликована; Терем 10 мм.",
-          "Наша длина не опубликована; Терем 2.5 м.",
-          "Уточнить форму погонажа; сравнение по ширине, цена за погонный метр."
-        ]
-      }
-    },
-    {
-      "group": "Раскладка / нащельник",
-      "item": "Раскладка / нащельник 0×30 мм, длина не указана, сорт НЕ УКАЗАН",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/raskladka-nashhelnik-el-sosna/:0:30:0:НЕ УКАЗАН:main:1:",
-      "unit": "пог. м",
-      "ours": 59,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Раскладка 10*30-2,5м сфера",
-        "price": 51.2,
-        "unit": "пог. м",
-        "stock": "Нет подтвержденного наличия / уведомить",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш НЕ УКАЗАН; Терем НЕ УКАЗАН.",
-          "Уточнить породу: не указана.",
-          "Наша толщина не опубликована; Терем 10 мм.",
-          "Наша длина не опубликована; Терем 2.5 м.",
-          "Уточнить форму погонажа; сравнение по ширине, цена за погонный метр."
-        ]
-      }
-    },
-    {
-      "group": "Рейка строганая",
-      "item": "Рейка строганая 20×50 мм, длина не указана, сорт BC",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/rejka-stroganaya-el-sosna/:20:50:0:BC:main:1:",
-      "unit": "пог. м",
-      "ours": 50,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Брусок сосна \"АВ\" 20*50*2000мм (профилир. ОКПД2 код 16.10.2)",
-        "price": 29,
-        "unit": "пог. м",
-        "stock": "Нет подтвержденного наличия / уведомить",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш BC; Терем AB.",
-          "Уточнить породу: сосна.",
-          "Наша длина не опубликована; Терем 2 м."
-        ]
-      }
-    },
-    {
-      "group": "Рейка строганая",
-      "item": "Рейка строганая 20×30 мм, длина не указана, сорт BC",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/rejka-stroganaya-el-sosna/:20:30:0:BC:main:1:",
-      "unit": "пог. м",
-      "ours": 28,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Брусок сосна \"АВ\" 20*30*3000мм (профилир. ОКПД2 код 16.10.2)",
-        "price": 12.333333333333334,
-        "unit": "пог. м",
-        "stock": "Нет подтвержденного наличия / уведомить",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш BC; Терем AB.",
-          "Уточнить породу: сосна.",
-          "Наша длина не опубликована; Терем 3 м."
-        ]
-      }
-    },
-    {
-      "group": "Рейка строганая",
-      "item": "Рейка строганая 15×40 мм, длина не указана, сорт BC",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/rejka-stroganaya-el-sosna/:15:40:0:BC:main:1:",
-      "unit": "пог. м",
-      "ours": 30,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Брусок сосна \"АВ\" 15*40*3000мм (профилир. ОКПД2 код 16.10.2)",
-        "price": 17.666666666666668,
-        "unit": "пог. м",
-        "stock": "Нет подтвержденного наличия / уведомить",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш BC; Терем AB.",
-          "Уточнить породу: сосна.",
-          "Наша длина не опубликована; Терем 3 м."
-        ]
-      }
-    },
-    {
-      "group": "Столбы для лестниц",
-      "item": "Столбы для лестниц 80×80×1.2 м, сорт A",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/stolby-dlya-lestnicz-el-sosna/:80:80:1.2:A:main:1:",
-      "unit": "шт.",
-      "ours": 1368,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Столб начальный №4 \"Симметрия витая\" хв. пород 80*80*1200мм",
-        "price": 1061,
-        "unit": "шт.",
-        "stock": "Нет подтвержденного наличия / уведомить",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш A; Терем НЕ УКАЗАН.",
-          "Уточнить породу: хвойные (порода не уточнена).",
-          "Уточнить рисунок и форму изделия."
-        ]
-      }
-    },
-    {
-      "group": "Столбы для лестниц",
-      "item": "Столбы для лестниц 90×90×1.2 м, сорт A",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/stolby-dlya-lestnicz-el-sosna/:90:90:1.2:A:main:1:",
-      "unit": "шт.",
-      "ours": 1686,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Столб начальный №1 \"Англия\" хв. пород 90*90*1200мм",
-        "price": 1501,
-        "unit": "шт.",
-        "stock": "В наличии: 7 шт",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш A; Терем НЕ УКАЗАН.",
-          "Уточнить породу: хвойные (порода не уточнена).",
-          "Уточнить рисунок и форму изделия."
-        ]
-      }
-    },
-    {
-      "group": "Столбы для лестниц",
-      "item": "Столбы для лестниц 90×90×1.2 м, сорт AB",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/stolby-dlya-lestnicz-el-sosna/:90:90:1.2:AB:main:1:",
-      "unit": "шт.",
-      "ours": 977,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Столб начальный №1 \"Англия\" хв. пород 90*90*1200мм",
-        "price": 1501,
-        "unit": "шт.",
-        "stock": "В наличии: 7 шт",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
-          "Уточнить породу: хвойные (порода не уточнена).",
-          "Уточнить рисунок и форму изделия."
-        ]
-      }
-    },
-    {
-      "group": "Ступени",
-      "item": "Ступени 40×300×0.9 м, сорт AB",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/stupeni-el-sosna/:40:300:0.9:AB:main:1:",
-      "unit": "шт.",
-      "ours": 967,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Ступень хв. пород 40*300*900мм",
-        "price": 1023,
-        "unit": "шт.",
-        "stock": "Нет подтвержденного наличия / уведомить",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
-          "Уточнить породу: хвойные (порода не уточнена).",
-          "Склейка Терема: не указана; вид склейки и сорт требуют подтверждения."
-        ]
-      }
-    },
-    {
-      "group": "Ступени",
-      "item": "Ступени 40×300×1 м, сорт AB",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/stupeni-el-sosna/:40:300:1:AB:main:1:",
-      "unit": "шт.",
-      "ours": 1074,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Ступень хв. пород 40*300*1000мм",
-        "price": 1123,
-        "unit": "шт.",
-        "stock": "Нет подтвержденного наличия / уведомить",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
-          "Уточнить породу: хвойные (порода не уточнена).",
-          "Склейка Терема: не указана; вид склейки и сорт требуют подтверждения."
-        ]
-      }
-    },
-    {
-      "group": "Ступени",
-      "item": "Ступени 40×300×1.1 м, сорт AB",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/stupeni-el-sosna/:40:300:1.1:AB:main:1:",
-      "unit": "шт.",
-      "ours": 1182,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Ступень хв. пород 40*300*1100мм",
-        "price": 1248,
-        "unit": "шт.",
-        "stock": "В наличии: 53 шт",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
-          "Уточнить породу: хвойные (порода не уточнена).",
-          "Склейка Терема: не указана; вид склейки и сорт требуют подтверждения."
-        ]
-      }
-    },
-    {
-      "group": "Ступени",
-      "item": "Ступени 40×300×1.2 м, сорт AB",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/stupeni-el-sosna/:40:300:1.2:AB:main:1:",
-      "unit": "шт.",
-      "ours": 1289,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Ступень хв. пород 40*300*1200мм",
-        "price": 1350,
-        "unit": "шт.",
-        "stock": "В наличии: 44 шт",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
-          "Уточнить породу: хвойные (порода не уточнена).",
-          "Склейка Терема: не указана; вид склейки и сорт требуют подтверждения."
-        ]
-      }
-    },
-    {
-      "group": "Тетива",
-      "item": "Тетива 60×300 мм, длина не указана, сорт AB",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/tetiva-el-sosna/:60:300:0:AB:main:1::range:2:4.5",
-      "unit": "пог. м",
-      "ours": 1612,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Тетива хв. пород 60*300*3000мм",
-        "price": 1923,
-        "unit": "пог. м",
-        "stock": "В наличии: 53 шт",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш AB; Терем НЕ УКАЗАН.",
-          "Уточнить породу: хвойные (порода не уточнена)."
-        ]
-      }
-    },
-    {
-      "group": "Уголок",
-      "item": "Уголок 0×60 мм, длина не указана, сорт НЕ УКАЗАН",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/ugolok-derevyannyj-el-sosna/:0:60:0:НЕ УКАЗАН:main:1:",
-      "unit": "пог. м",
-      "ours": 216,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Уголок хвоя 60*60-2500м НК",
-        "price": 0.044,
-        "unit": "пог. м",
-        "stock": "Нет подтвержденного наличия / уведомить",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш НЕ УКАЗАН; Терем НЕ УКАЗАН.",
-          "Уточнить породу: хвойные (порода не уточнена).",
-          "Наша толщина не опубликована; Терем 60 мм.",
-          "Наша длина не опубликована; Терем 2500 м.",
-          "Уточнить форму погонажа; сравнение по ширине, цена за погонный метр."
-        ]
-      }
-    },
-    {
-      "group": "Уголок",
-      "item": "Уголок 0×50 мм, длина не указана, сорт НЕ УКАЗАН",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/ugolok-derevyannyj-el-sosna/:0:50:0:НЕ УКАЗАН:main:1:",
-      "unit": "пог. м",
-      "ours": 162,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Уголок хвоя 50*50-2500м НК",
-        "price": 0.04,
-        "unit": "пог. м",
-        "stock": "Нет подтвержденного наличия / уведомить",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш НЕ УКАЗАН; Терем НЕ УКАЗАН.",
-          "Уточнить породу: хвойные (порода не уточнена).",
-          "Наша толщина не опубликована; Терем 50 мм.",
-          "Наша длина не опубликована; Терем 2500 м.",
-          "Уточнить форму погонажа; сравнение по ширине, цена за погонный метр."
-        ]
-      }
-    },
-    {
-      "group": "Уголок",
-      "item": "Уголок 0×40 мм, длина не указана, сорт НЕ УКАЗАН",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/ugolok-derevyannyj-el-sosna/:0:40:0:НЕ УКАЗАН:main:1:",
-      "unit": "пог. м",
-      "ours": 137,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Уголок хвоя 40*40-3000м НК",
-        "price": 0.06666666666666667,
-        "unit": "пог. м",
-        "stock": "Нет подтвержденного наличия / уведомить",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш НЕ УКАЗАН; Терем НЕ УКАЗАН.",
-          "Уточнить породу: хвойные (порода не уточнена).",
-          "Наша толщина не опубликована; Терем 40 мм.",
-          "Наша длина не опубликована; Терем 3000 м.",
-          "Уточнить форму погонажа; сравнение по ширине, цена за погонный метр."
-        ]
-      }
-    },
-    {
-      "group": "Уголок",
-      "item": "Уголок 0×30 мм, длина не указана, сорт НЕ УКАЗАН",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/ugolok-derevyannyj-el-sosna/:0:30:0:НЕ УКАЗАН:main:1:",
-      "unit": "пог. м",
-      "ours": 105,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Уголок хвоя 30*30-2,5м",
-        "price": 97.2,
-        "unit": "пог. м",
-        "stock": "Нет подтвержденного наличия / уведомить",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш НЕ УКАЗАН; Терем НЕ УКАЗАН.",
-          "Уточнить породу: хвойные (порода не уточнена).",
-          "Наша толщина не опубликована; Терем 30 мм.",
-          "Наша длина не опубликована; Терем 2.5 м.",
-          "Уточнить форму погонажа; сравнение по ширине, цена за погонный метр."
-        ]
-      }
-    },
-    {
-      "group": "Вагонка Штиль",
-      "item": "Вагонка Штиль 13×96×2 м, сорт AB",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/vagonka-shtil-el-sosna/:13:96:2:AB:main:10:",
-      "unit": "м²",
-      "ours": 891,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Вагонка штиль сосна/ель \"С\" 13*96(90)*2000мм*10шт",
-        "price": 208.33333333333334,
-        "unit": "м²",
-        "stock": "Нет в наличии",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш AB; Терем C."
-        ]
-      }
-    },
-    {
-      "group": "Вагонка Штиль",
-      "item": "Вагонка Штиль 13×96×6 м, сорт AB",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/vagonka-shtil-el-sosna/:13:96:6:AB:main:10:",
-      "unit": "м²",
-      "ours": 961,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Вагонка штиль сосна/ель \"А\" 13*96(90)*6000мм*10шт",
-        "price": 372.74305555555554,
-        "unit": "м²",
-        "stock": "Нет в наличии",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш AB; Терем A."
-        ]
-      }
-    },
-    {
-      "group": "Вагонка Штиль",
-      "item": "Вагонка Штиль 13×96×6 м, сорт ABC",
-      "itemId": "ours:https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/vagonka-shtil-el-sosna/:13:96:6:ABC:main:10:",
-      "unit": "м²",
-      "ours": 729,
-      "difference": null,
-      "referenceWithoutStock": false,
-      "change": null,
-      "reference": {
-        "title": "Вагонка штиль сосна/ель \"А\" 13*96(90)*6000мм*10шт",
-        "price": 372.74305555555554,
-        "unit": "м²",
-        "stock": "Нет в наличии",
-        "notes": [
-          "Справочная цена: не участвует в отклонениях.",
-          "Сорт требует проверки: наш ABC; Терем A."
-        ]
-      }
-    }
-  ]
+  }
 }
