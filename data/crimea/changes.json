@@ -1,5 +1,5 @@
 {
-  "at": "2026-10-26T10:49:34Z",
+  "at": "2026-11-02T13:10:53Z",
   "changes": [],
   "higher": [
     {
@@ -93,7 +93,7 @@
       "ours": 1417,
       "competitor": 1157.9254079254079,
       "difference": 259.07459207459215,
-      "availability": "В наличии: 66 упак",
+      "availability": "В наличии: 62 упак",
       "referenceWithoutStock": false,
       "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1605"
@@ -465,7 +465,7 @@
       "ours": 2136,
       "competitor": 2105,
       "difference": 31,
-      "availability": "В наличии: 259 шт",
+      "availability": "В наличии: 217 шт",
       "referenceWithoutStock": false,
       "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1317"
@@ -621,8 +621,8 @@
       "ours": 2583,
       "competitor": 2419.5402298850577,
       "difference": 163.45977011494233,
-      "availability": "В наличии: 14 шт",
-      "referenceWithoutStock": false,
+      "availability": "Нет подтвержденного наличия / уведомить",
+      "referenceWithoutStock": true,
       "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1293"
     },
@@ -693,7 +693,7 @@
       "ours": 49,
       "competitor": 46.333333333333336,
       "difference": 2.6666666666666643,
-      "availability": "В наличии: 2149 шт",
+      "availability": "В наличии: 1800 шт",
       "referenceWithoutStock": false,
       "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=209"
@@ -705,7 +705,7 @@
       "ours": 40,
       "competitor": 37.333333333333336,
       "difference": 2.6666666666666643,
-      "availability": "В наличии: 1477 шт",
+      "availability": "В наличии: 1036 шт",
       "referenceWithoutStock": false,
       "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=23"
@@ -717,48 +717,13 @@
       "ours": 614,
       "competitor": 557.1249215317013,
       "difference": 56.87507846829874,
-      "availability": "В наличии: 346 упак",
+      "availability": "В наличии: 473 упак",
       "referenceWithoutStock": false,
       "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1217"
     }
   ],
   "errors": [
-    {
-      "source": "https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/brusok-listvennicza/",
-      "status": "error",
-      "rows": 0,
-      "details": "На прочитанной странице нет подробной таблицы цен; требуется уточнение",
-      "title": "Брусок (лиственница)"
-    },
-    {
-      "source": "https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/kleyonyj-minibrus-el-sosna/",
-      "status": "error",
-      "rows": 0,
-      "details": "На прочитанной странице нет подробной таблицы цен; требуется уточнение",
-      "title": "Клеёный минибрус (ель/сосна)"
-    },
-    {
-      "source": "https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/lestnichnye-ploshhadki-listvennicza/",
-      "status": "error",
-      "rows": 0,
-      "details": "На прочитанной странице нет подробной таблицы цен; требуется уточнение",
-      "title": "Лестничные площадки (лиственница)"
-    },
-    {
-      "source": "https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/stupeni-listvennicza/",
-      "status": "error",
-      "rows": 0,
-      "details": "На прочитанной странице нет подробной таблицы цен; требуется уточнение",
-      "title": "Ступени (лиственница)"
-    },
-    {
-      "source": "https://xn----7sbatncqcefhpkufy2nd.xn--p1ai/products/vagonka-shtil-listvennicza/",
-      "status": "error",
-      "rows": 0,
-      "details": "На прочитанной странице нет подробной таблицы цен; требуется уточнение",
-      "title": "Вагонка Штиль (лиственница)"
-    },
     {
       "source": "https://terem-krym.ru/catalog/plintusa",
       "status": "error",
@@ -802,108 +767,11 @@
     }
   ],
   "pks": {
-    "at": "2026-10-26T10:49:50Z",
+    "at": "2026-11-02T13:11:09Z",
     "region": "Симферополь",
     "offers": 33,
     "priced": 30,
     "pendingUnits": 20,
-    "rawMoves": [
-      {
-        "title": "Брусок строганный 20*40*3000 мм сорт АВ из хвойных пород",
-        "url": "https://simferopol.pksmarket.ru/catalog/pilomaterialy/brus-strogannyy-profilirovannyy/brusok-strogannyy-20-40-3000-mm-sort-av-iz-khvoynykh-porod-15-sht-up-profilirovannyy/",
-        "before": 125,
-        "after": 127,
-        "change": 2,
-        "unit": "шт."
-      },
-      {
-        "title": "Брусок строганный 20*40*3000 мм сорт ВС из хвойных пород",
-        "url": "https://simferopol.pksmarket.ru/catalog/pilomaterialy/brus-strogannyy-profilirovannyy/brusok-strogannyy-20-40-3000-mm-sort-vs-iz-khvoynykh-porod-15-sht-up-profilirovannyy/",
-        "before": 90,
-        "after": 110,
-        "change": 20,
-        "unit": "не указана"
-      },
-      {
-        "title": "Доска строганная 20*120*3000 мм сорт АВ",
-        "url": "https://simferopol.pksmarket.ru/catalog/pilomaterialy/doska-strogannaya-profilirovannaya/doska-strogannaya-20-120-3000-mm-sort-av-profilirovannaya-5-sht-up-139-sht-m3/",
-        "before": 1785,
-        "after": 300,
-        "change": -1485,
-        "unit": "не указана"
-      },
-      {
-        "title": "Доска строганная 20*96*3000 мм сорт АВ",
-        "url": "https://simferopol.pksmarket.ru/catalog/pilomaterialy/doska-strogannaya-profilirovannaya/doska-strogannaya-20-96-3000-mm-sort-av-profilirovannaya-5sht-up-173-sht-m3/",
-        "before": 900,
-        "after": 237,
-        "change": -663,
-        "unit": "не указана"
-      },
-      {
-        "title": "Доска строганная 45*145*6000 мм сорт АВ",
-        "url": "https://simferopol.pksmarket.ru/catalog/pilomaterialy/doska-strogannaya-profilirovannaya/doska-strogannaya-45-145-6000-mm-sort-av-profilirovannaya-25-sht-m3/",
-        "before": 1840,
-        "after": 1880,
-        "change": 40,
-        "unit": "шт."
-      },
-      {
-        "title": "Доска строганная 45*195*6000 мм сорт АВ",
-        "url": "https://simferopol.pksmarket.ru/catalog/pilomaterialy/doska-strogannaya-profilirovannaya/doska-strogannaya-45-195-6000-mm-sort-av-profilirovannaya-19-sht-m3/",
-        "before": 2430,
-        "after": 2550,
-        "change": 120,
-        "unit": "шт."
-      },
-      {
-        "title": "Евровагонка 12,5*96*2000 мм сорт АВ",
-        "url": "https://simferopol.pksmarket.ru/catalog/pilomaterialy/vagonka/evrovagonka-12-5-96-2000-mm-sort-av-10-shtuk-up-1-92-m2/",
-        "before": 140,
-        "after": 520,
-        "change": 380,
-        "unit": "шт."
-      },
-      {
-        "title": "Евровагонка 12,5*96*2500 мм сорт АВ",
-        "url": "https://simferopol.pksmarket.ru/catalog/pilomaterialy/vagonka/evrovagonka-12-5-96-2500-mm-sort-av-10-shtuk-up-2-4-m2/",
-        "before": 1579,
-        "after": 1570,
-        "change": -9,
-        "unit": "не указана"
-      },
-      {
-        "title": "Евровагонка 12,5*96*2550 мм сорт С",
-        "url": "https://simferopol.pksmarket.ru/catalog/pilomaterialy/vagonka/evrovagonka-12-5-96-2550-mm-sort-s-10-shtuk-up-2-45m2/",
-        "before": 100,
-        "after": 345,
-        "change": 245,
-        "unit": "не указана"
-      },
-      {
-        "title": "Евровагонка 12,5*96*2700 мм сорт АВ",
-        "url": "https://simferopol.pksmarket.ru/catalog/pilomaterialy/vagonka/evrovagonka-12-5-96-2700-mm-sort-av-10-shtuk-up-2-59-m2/",
-        "before": 200,
-        "after": 520,
-        "change": 320,
-        "unit": "не указана"
-      },
-      {
-        "title": "Евровагонка 12,5*96*3000 мм сорт С",
-        "url": "https://simferopol.pksmarket.ru/catalog/pilomaterialy/vagonka/evrovagonka-12-5-96-3000-mm-sort-s-10-shtuk-up-2-88-m2/",
-        "before": 90,
-        "after": 345,
-        "change": 255,
-        "unit": "не указана"
-      },
-      {
-        "title": "Вагонка Штиль 13*122*3000 мм сорт АВ",
-        "url": "https://simferopol.pksmarket.ru/catalog/pilomaterialy/vagonka/vagonka-shtil-13-122-3000-mm-sort-av-10-sht-up-3-66-m2/",
-        "before": 2750,
-        "after": 2780,
-        "change": 30,
-        "unit": "уп."
-      }
-    ]
+    "rawMoves": []
   }
 }

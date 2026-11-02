@@ -1,5 +1,19 @@
 {
-  "at": "2026-10-26T10:49:56Z",
-  "moves": [],
+  "at": "2026-11-02T13:11:14Z",
+  "moves": [
+    {
+      "title": "Имитация бруса 16×145 мм · 3–6 м · AB/BC/C",
+      "before": [
+        2610,
+        5050
+      ],
+      "after": [
+        1500,
+        5050
+      ],
+      "unit": "уп.",
+      "url": "https://lesmarket43.ru/imitaciya-brusa/"
+    }
+  ],
   "errors": []
 }

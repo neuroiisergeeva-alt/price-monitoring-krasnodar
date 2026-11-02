@@ -1,5 +1,5 @@
 {
-  "at": "2026-10-26T10:49:34Z",
+  "at": "2026-11-02T13:10:53Z",
   "rows": [
     {
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2806",
@@ -27,15 +27,6 @@
       "oldPack": 6,
       "calculatedArea": 3.528,
       "declaredArea": 3.53
-    },
-    {
-      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2088",
-      "title": "Блок - хаус сосна/ель \"АВ\" 28*143(135)*6000мм*5шт",
-      "status": "ok",
-      "pack": 5,
-      "oldPack": 5,
-      "calculatedArea": 4.29,
-      "declaredArea": 4.29
     },
     {
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3179",
@@ -90,6 +81,15 @@
       "oldPack": 4,
       "calculatedArea": 3.432,
       "declaredArea": 3.43
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2088",
+      "title": "Блок - хаус сосна/ель \"АВ\" 28*143(135)*6000мм*5шт",
+      "status": "ok",
+      "pack": 5,
+      "oldPack": 5,
+      "calculatedArea": 4.29,
+      "declaredArea": 4.29
     },
     {
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1495",

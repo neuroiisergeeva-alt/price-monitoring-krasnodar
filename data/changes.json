@@ -1,7 +1,475 @@
 {
-  "at": "2026-10-26T10:44:50.107Z",
+  "at": "2026-11-02T13:03:04.762Z",
   "moves": [],
   "errors": [
+    {
+      "seller": "tech",
+      "group": "Каталог Технодрев",
+      "url": "https://krn.texnodrev.ru/store/catalog/derevo_1/",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Страниц каталога 1; карточек 0. Чтение неполное; старые наблюдения сохранены"
+    },
+    {
+      "seller": "tech",
+      "group": "Каталог Технодрев",
+      "url": "https://krn.texnodrev.ru/store/catalog/derevo_1/",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://krn.texnodrev.ru/store/catalog/derevo_1/\ncurl: (6) Could not resolve host: krn.texnodrev.ru\n"
+    },
+    {
+      "group": "Доска строганая",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/doska-stroganaya-el-sosna/",
+      "seller": "ours",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/doska-stroganaya-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+    },
+    {
+      "group": "Евровагонка",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/evrovagonka-el-sosna/",
+      "seller": "ours",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/evrovagonka-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+    },
+    {
+      "group": "Доска обрезная",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/doska-obreznaya-el-sosna/",
+      "seller": "ours",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/doska-obreznaya-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+    },
+    {
+      "group": "Доска профилированная строительная",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/doska-profilirovannaya-stroitelnaya-el-sosna/",
+      "seller": "ours",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/doska-profilirovannaya-stroitelnaya-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+    },
+    {
+      "group": "Планкен прямой",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/planken-pryamoj-el-sosna/",
+      "seller": "ours",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/planken-pryamoj-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+    },
+    {
+      "group": "Имитация бруса",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/imitacziya-brusa-el-sosna/",
+      "seller": "ours",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/imitacziya-brusa-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+    },
+    {
+      "group": "Вагонка Штиль",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/vagonka-shtil-el-sosna/",
+      "seller": "ours",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/vagonka-shtil-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+    },
+    {
+      "group": "Блок-хаус",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/blok-haus-el-sosna/",
+      "seller": "ours",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/blok-haus-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+    },
+    {
+      "group": "Скандинавская доска",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/skandinavskaya-doska-el-sosna/",
+      "seller": "ours",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/skandinavskaya-doska-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+    },
+    {
+      "group": "Доска пола",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/doska-pola-el-sosna/",
+      "seller": "ours",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/doska-pola-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+    },
+    {
+      "group": "Планкен скошенный",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/planken-skoshennyj-el-sosna/",
+      "seller": "ours",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/planken-skoshennyj-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+    },
+    {
+      "group": "Доска четверть",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/doska-chetvert-el-sosna/",
+      "seller": "ours",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/doska-chetvert-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+    },
+    {
+      "group": "Профилированный брус «Минибрус»",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/profilirovannyj-brus-minibrus-el-sosna/",
+      "seller": "ours",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/profilirovannyj-brus-minibrus-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+    },
+    {
+      "group": "Палубная доска",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/palubnaya-doska-el-sosna/",
+      "seller": "ours",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/palubnaya-doska-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+    },
+    {
+      "group": "Террасная доска Вельвет",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/terrasnaya-doska-velvet-el-sosna/",
+      "seller": "ours",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/terrasnaya-doska-velvet-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+    },
+    {
+      "group": "Профилированный брус «Лунный паз»",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/profilirovannyj-brus-lunnyj-paz-el-sosna/",
+      "seller": "ours",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/profilirovannyj-brus-lunnyj-paz-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+    },
+    {
+      "group": "Клеёный брус",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/kleyonyj-brus-el-sosna/",
+      "seller": "ours",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/kleyonyj-brus-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+    },
+    {
+      "group": "Брусок строганый",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/brusok-stroganyj-el-sosna/",
+      "seller": "ours",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/brusok-stroganyj-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+    },
+    {
+      "group": "Мебельный щит",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/mebelnyj-shhit-el-sosna/",
+      "seller": "ours",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/mebelnyj-shhit-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+    },
+    {
+      "group": "Рейка строганая",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/rejka-stroganaya-el-sosna/",
+      "seller": "ours",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/rejka-stroganaya-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+    },
+    {
+      "group": "Подоконники",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/podokonniki-el-sosna/",
+      "seller": "ours",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/podokonniki-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+    },
+    {
+      "group": "Клеёный минибрус",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/kleyonyj-minibrus-el-sosna/",
+      "seller": "ours",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/kleyonyj-minibrus-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+    },
+    {
+      "group": "Клеёная балка",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/kleyenaya-balka-el-sosna/",
+      "seller": "ours",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/kleyenaya-balka-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+    },
+    {
+      "group": "Наличник",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/nalichnik-derevyannyj-el-sosna/",
+      "seller": "ours",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/nalichnik-derevyannyj-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+    },
+    {
+      "group": "Раскладка / нащельник",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/raskladka-nashhelnik-el-sosna/",
+      "seller": "ours",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/raskladka-nashhelnik-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+    },
+    {
+      "group": "Плинтус",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/plintus-derevyannyj-el-sosna/",
+      "seller": "ours",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/plintus-derevyannyj-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+    },
+    {
+      "group": "Дверная коробка",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/dvernaya-korobka-el-sosna/",
+      "seller": "ours",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/dvernaya-korobka-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+    },
+    {
+      "group": "Уголок",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/ugolok-derevyannyj-el-sosna/",
+      "seller": "ours",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/ugolok-derevyannyj-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+    },
+    {
+      "group": "Ступени",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/stupeni-el-sosna/",
+      "seller": "ours",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/stupeni-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+    },
+    {
+      "group": "Штапик",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/shtapik-derevyannyj-el-sosna/",
+      "seller": "ours",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/shtapik-derevyannyj-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+    },
+    {
+      "group": "Полог",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/polog-osina/",
+      "seller": "ours",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/polog-osina/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+    },
+    {
+      "group": "Евровагонка",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/evrovagonka-osina/",
+      "seller": "ours",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/evrovagonka-osina/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+    },
+    {
+      "group": "Тетива",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/tetiva-el-sosna/",
+      "seller": "ours",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/tetiva-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+    },
+    {
+      "group": "Подступенники",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/podstupenniki-el-sosna/",
+      "seller": "ours",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/podstupenniki-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+    },
+    {
+      "group": "Лестничные площадки",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/lestnichnye-ploshhadki-el-sosna/",
+      "seller": "ours",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/lestnichnye-ploshhadki-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+    },
+    {
+      "group": "Поручни",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/poruchni-el-sosna/",
+      "seller": "ours",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/poruchni-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+    },
+    {
+      "group": "Столбы для лестниц",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/stolby-dlya-lestnicz-el-sosna/",
+      "seller": "ours",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/stolby-dlya-lestnicz-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+    },
+    {
+      "group": "Балясины",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/balyasiny-el-sosna/",
+      "seller": "ours",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/balyasiny-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+    },
+    {
+      "group": "Планкен скошенный",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/planken-skoshennyj-listvennicza/",
+      "seller": "ours",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/planken-skoshennyj-listvennicza/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+    },
+    {
+      "group": "Террасная доска Вельвет",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/terrasnaya-doska-velvet-listvennicza/",
+      "seller": "ours",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/terrasnaya-doska-velvet-listvennicza/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+    },
+    {
+      "group": "Планкен прямой",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/planken-pryamoj-listvennicza/",
+      "seller": "ours",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/planken-pryamoj-listvennicza/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+    },
+    {
+      "group": "Доска обрезная",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/doska-obreznaya-listvennicza/",
+      "seller": "ours",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/doska-obreznaya-listvennicza/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+    },
+    {
+      "group": "Палубная доска",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/palubnaya-doska-listvennicza/",
+      "seller": "ours",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/palubnaya-doska-listvennicza/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+    },
+    {
+      "group": "Доска пола",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/doska-pola-listvennicza/",
+      "seller": "ours",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/doska-pola-listvennicza/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+    },
+    {
+      "group": "Вагонка Штиль",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/vagonka-shtil-listvennicza/",
+      "seller": "ours",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/vagonka-shtil-listvennicza/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+    },
+    {
+      "group": "Ступени",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/stupeni-listvennicza/",
+      "seller": "ours",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/stupeni-listvennicza/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+    },
+    {
+      "group": "Мебельный щит",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/mebelnyj-shhit-listvennicza/",
+      "seller": "ours",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/mebelnyj-shhit-listvennicza/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+    },
+    {
+      "group": "Лестничные площадки",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/lestnichnye-ploshhadki-listvennicza/",
+      "seller": "ours",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/lestnichnye-ploshhadki-listvennicza/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+    },
+    {
+      "seller": "les",
+      "group": "Евровагонка",
+      "url": "https://www.les-kraft.ru/catalog/k-9401331-vagonka_yevro",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401331-vagonka_yevro\ncurl: (22) The requested URL returned error: 403\n"
+    },
+    {
+      "seller": "les",
+      "group": "Вагонка Штиль",
+      "url": "https://www.les-kraft.ru/catalog/k-9401337-vagonka_shtil",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401337-vagonka_shtil\ncurl: (22) The requested URL returned error: 403\n"
+    },
     {
       "seller": "les",
       "group": "Имитация бруса",
@@ -19,42 +487,6 @@
       "count": 0,
       "complete": false,
       "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401340-blok_khaus\ncurl: (22) The requested URL returned error: 403\n"
-    },
-    {
-      "seller": "les",
-      "group": "Вагонка Штиль",
-      "url": "https://www.les-kraft.ru/catalog/k-9401337-vagonka_shtil",
-      "ok": false,
-      "count": 0,
-      "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401337-vagonka_shtil\ncurl: (22) The requested URL returned error: 403\n"
-    },
-    {
-      "seller": "les",
-      "group": "Евровагонка",
-      "url": "https://www.les-kraft.ru/catalog/k-9401331-vagonka_yevro",
-      "ok": false,
-      "count": 0,
-      "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401331-vagonka_yevro\ncurl: (22) The requested URL returned error: 403\n"
-    },
-    {
-      "seller": "les",
-      "group": "Доска строганая",
-      "url": "https://www.les-kraft.ru/catalog/k-9401377-doska_strogannaya",
-      "ok": false,
-      "count": 0,
-      "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401377-doska_strogannaya\ncurl: (22) The requested URL returned error: 403\n"
-    },
-    {
-      "seller": "les",
-      "group": "Планкен скошенный",
-      "url": "https://www.les-kraft.ru/catalog/k-9401343-planken",
-      "ok": false,
-      "count": 0,
-      "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401343-planken\ncurl: (22) The requested URL returned error: 403\n"
     },
     {
       "seller": "les",
@@ -76,30 +508,21 @@
     },
     {
       "seller": "les",
-      "group": "Доска обрезная",
-      "url": "https://www.les-kraft.ru/catalog/k-9401387-pilomaterial",
+      "group": "Планкен скошенный",
+      "url": "https://www.les-kraft.ru/catalog/k-9401343-planken",
       "ok": false,
       "count": 0,
       "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401387-pilomaterial\ncurl: (22) The requested URL returned error: 403\n"
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401343-planken\ncurl: (22) The requested URL returned error: 403\n"
     },
     {
       "seller": "les",
-      "group": "Клеёный брус",
-      "url": "https://www.les-kraft.ru/catalog/k-9401382-kleyeny_brus_sosna_yel",
+      "group": "Доска строганая",
+      "url": "https://www.les-kraft.ru/catalog/k-9401377-doska_strogannaya",
       "ok": false,
       "count": 0,
       "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401382-kleyeny_brus_sosna_yel\ncurl: (22) The requested URL returned error: 403\n"
-    },
-    {
-      "seller": "les",
-      "group": "Мебельный щит",
-      "url": "https://www.les-kraft.ru/catalog/k-9401385-mebelny_shchit_sosna_yel",
-      "ok": false,
-      "count": 0,
-      "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401385-mebelny_shchit_sosna_yel\ncurl: (22) The requested URL returned error: 403\n"
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401377-doska_strogannaya\ncurl: (22) The requested URL returned error: 403\n"
     },
     {
       "seller": "les",
@@ -112,30 +535,30 @@
     },
     {
       "seller": "les",
-      "group": "Плинтус",
-      "url": "https://www.les-kraft.ru/catalog/k-9401347-plintusa",
+      "group": "Доска обрезная",
+      "url": "https://www.les-kraft.ru/catalog/k-9401387-pilomaterial",
       "ok": false,
       "count": 0,
       "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401347-plintusa\ncurl: (22) The requested URL returned error: 403\n"
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401387-pilomaterial\ncurl: (22) The requested URL returned error: 403\n"
     },
     {
       "seller": "les",
-      "group": "Раскладка / нащельник",
-      "url": "https://www.les-kraft.ru/catalog/k-9401349-pritvory_raskladki",
+      "group": "Мебельный щит",
+      "url": "https://www.les-kraft.ru/catalog/k-9401385-mebelny_shchit_sosna_yel",
       "ok": false,
       "count": 0,
       "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401349-pritvory_raskladki\ncurl: (22) The requested URL returned error: 403\n"
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401385-mebelny_shchit_sosna_yel\ncurl: (22) The requested URL returned error: 403\n"
     },
     {
       "seller": "les",
-      "group": "Уголок",
-      "url": "https://www.les-kraft.ru/catalog/k-9401348-ugolki",
+      "group": "Клеёный брус",
+      "url": "https://www.les-kraft.ru/catalog/k-9401382-kleyeny_brus_sosna_yel",
       "ok": false,
       "count": 0,
       "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401348-ugolki\ncurl: (22) The requested URL returned error: 403\n"
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401382-kleyeny_brus_sosna_yel\ncurl: (22) The requested URL returned error: 403\n"
     },
     {
       "seller": "les",
@@ -148,12 +571,48 @@
     },
     {
       "seller": "les",
+      "group": "Плинтус",
+      "url": "https://www.les-kraft.ru/catalog/k-9401347-plintusa",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401347-plintusa\ncurl: (22) The requested URL returned error: 403\n"
+    },
+    {
+      "seller": "les",
+      "group": "Уголок",
+      "url": "https://www.les-kraft.ru/catalog/k-9401348-ugolki",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401348-ugolki\ncurl: (22) The requested URL returned error: 403\n"
+    },
+    {
+      "seller": "les",
+      "group": "Раскладка / нащельник",
+      "url": "https://www.les-kraft.ru/catalog/k-9401349-pritvory_raskladki",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401349-pritvory_raskladki\ncurl: (22) The requested URL returned error: 403\n"
+    },
+    {
+      "seller": "les",
       "group": "Штапик",
       "url": "https://www.les-kraft.ru/catalog/k-9401350-shtapik",
       "ok": false,
       "count": 0,
       "complete": false,
       "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401350-shtapik\ncurl: (22) The requested URL returned error: 403\n"
+    },
+    {
+      "seller": "les",
+      "group": "Дверная коробка",
+      "url": "https://www.les-kraft.ru/catalog/k-9401410-korobochny_pogonazh",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401410-korobochny_pogonazh\ncurl: (22) The requested URL returned error: 403\n"
     },
     {
       "seller": "les",
@@ -174,22 +633,31 @@
       "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401403-polok\ncurl: (22) The requested URL returned error: 403\n"
     },
     {
-      "seller": "les",
-      "group": "Дверная коробка",
-      "url": "https://www.les-kraft.ru/catalog/k-9401410-korobochny_pogonazh",
+      "group": "Брусок строганый",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/brusok-listvennicza/",
+      "seller": "ours",
       "ok": false,
       "count": 0,
       "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401410-korobochny_pogonazh\ncurl: (22) The requested URL returned error: 403\n"
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/brusok-listvennicza/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+    },
+    {
+      "group": "Брус строганый",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/brus-listvennicza/",
+      "seller": "ours",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/brus-listvennicza/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
     },
     {
       "seller": "les",
-      "group": "Столбы для лестниц",
-      "url": "https://www.les-kraft.ru/catalog/k-9401399-stolby_zakhodnyye",
+      "group": "Поручни",
+      "url": "https://www.les-kraft.ru/catalog/k-9401397-poruchni_podbalyasenniki",
       "ok": false,
       "count": 0,
       "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401399-stolby_zakhodnyye\ncurl: (22) The requested URL returned error: 403\n"
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401397-poruchni_podbalyasenniki\ncurl: (22) The requested URL returned error: 403\n"
     },
     {
       "seller": "les",
@@ -211,12 +679,12 @@
     },
     {
       "seller": "les",
-      "group": "Поручни",
-      "url": "https://www.les-kraft.ru/catalog/k-9401397-poruchni_podbalyasenniki",
+      "group": "Столбы для лестниц",
+      "url": "https://www.les-kraft.ru/catalog/k-9401399-stolby_zakhodnyye",
       "ok": false,
       "count": 0,
       "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401397-poruchni_podbalyasenniki\ncurl: (22) The requested URL returned error: 403\n"
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401399-stolby_zakhodnyye\ncurl: (22) The requested URL returned error: 403\n"
     },
     {
       "seller": "les",
@@ -244,24 +712,6 @@
       "count": 0,
       "complete": false,
       "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401402-vagonka\ncurl: (22) The requested URL returned error: 403\n"
-    },
-    {
-      "seller": "tech",
-      "group": "Каталог Технодрев",
-      "url": "https://krn.texnodrev.ru/store/catalog/derevo_1/",
-      "ok": false,
-      "count": 0,
-      "complete": false,
-      "reason": "Страниц каталога 30; карточек 66. Чтение неполное; старые наблюдения сохранены"
-    },
-    {
-      "seller": "tech",
-      "group": "Каталог Технодрев",
-      "url": "https://krn.texnodrev.ru/store/catalog/derevo_1/",
-      "ok": false,
-      "count": 0,
-      "complete": false,
-      "reason": "Не прочитан полный каталог"
     },
     {
       "seller": "les-file",
