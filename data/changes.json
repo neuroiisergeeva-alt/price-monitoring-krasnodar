@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-02T13:03:04.762Z",
+  "at": "2026-11-09T13:35:26.345Z",
   "moves": [],
   "errors": [
     {
@@ -27,16 +27,7 @@
       "ok": false,
       "count": 0,
       "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/doska-stroganaya-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
-    },
-    {
-      "group": "Евровагонка",
-      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/evrovagonka-el-sosna/",
-      "seller": "ours",
-      "ok": false,
-      "count": 0,
-      "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/evrovagonka-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/doska-stroganaya-el-sosna/\ncurl: (28) Connection timed out after 25000 milliseconds\n"
     },
     {
       "group": "Доска обрезная",
@@ -45,7 +36,7 @@
       "ok": false,
       "count": 0,
       "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/doska-obreznaya-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/doska-obreznaya-el-sosna/\ncurl: (28) Connection timed out after 25001 milliseconds\n"
     },
     {
       "group": "Доска профилированная строительная",
@@ -54,25 +45,16 @@
       "ok": false,
       "count": 0,
       "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/doska-profilirovannaya-stroitelnaya-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/doska-profilirovannaya-stroitelnaya-el-sosna/\ncurl: (28) Connection timed out after 25000 milliseconds\n"
     },
     {
-      "group": "Планкен прямой",
-      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/planken-pryamoj-el-sosna/",
+      "group": "Евровагонка",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/evrovagonka-el-sosna/",
       "seller": "ours",
       "ok": false,
       "count": 0,
       "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/planken-pryamoj-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
-    },
-    {
-      "group": "Имитация бруса",
-      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/imitacziya-brusa-el-sosna/",
-      "seller": "ours",
-      "ok": false,
-      "count": 0,
-      "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/imitacziya-brusa-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/evrovagonka-el-sosna/\ncurl: (28) Connection timed out after 25001 milliseconds\n"
     },
     {
       "group": "Вагонка Штиль",
@@ -81,7 +63,16 @@
       "ok": false,
       "count": 0,
       "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/vagonka-shtil-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/vagonka-shtil-el-sosna/\ncurl: (28) Connection timed out after 25000 milliseconds\n"
+    },
+    {
+      "group": "Имитация бруса",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/imitacziya-brusa-el-sosna/",
+      "seller": "ours",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/imitacziya-brusa-el-sosna/\ncurl: (28) Connection timed out after 25000 milliseconds\n"
     },
     {
       "group": "Блок-хаус",
@@ -90,25 +81,16 @@
       "ok": false,
       "count": 0,
       "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/blok-haus-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/blok-haus-el-sosna/\ncurl: (28) Connection timed out after 25000 milliseconds\n"
     },
     {
-      "group": "Скандинавская доска",
-      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/skandinavskaya-doska-el-sosna/",
+      "group": "Планкен прямой",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/planken-pryamoj-el-sosna/",
       "seller": "ours",
       "ok": false,
       "count": 0,
       "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/skandinavskaya-doska-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
-    },
-    {
-      "group": "Доска пола",
-      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/doska-pola-el-sosna/",
-      "seller": "ours",
-      "ok": false,
-      "count": 0,
-      "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/doska-pola-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/planken-pryamoj-el-sosna/\ncurl: (28) Connection timed out after 25000 milliseconds\n"
     },
     {
       "group": "Планкен скошенный",
@@ -117,7 +99,7 @@
       "ok": false,
       "count": 0,
       "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/planken-skoshennyj-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/planken-skoshennyj-el-sosna/\ncurl: (28) Connection timed out after 25002 milliseconds\n"
     },
     {
       "group": "Доска четверть",
@@ -126,25 +108,25 @@
       "ok": false,
       "count": 0,
       "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/doska-chetvert-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/doska-chetvert-el-sosna/\ncurl: (28) Connection timed out after 25001 milliseconds\n"
     },
     {
-      "group": "Профилированный брус «Минибрус»",
-      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/profilirovannyj-brus-minibrus-el-sosna/",
+      "group": "Скандинавская доска",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/skandinavskaya-doska-el-sosna/",
       "seller": "ours",
       "ok": false,
       "count": 0,
       "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/profilirovannyj-brus-minibrus-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/skandinavskaya-doska-el-sosna/\ncurl: (28) Connection timed out after 25001 milliseconds\n"
     },
     {
-      "group": "Палубная доска",
-      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/palubnaya-doska-el-sosna/",
+      "group": "Доска пола",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/doska-pola-el-sosna/",
       "seller": "ours",
       "ok": false,
       "count": 0,
       "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/palubnaya-doska-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/doska-pola-el-sosna/\ncurl: (28) Connection timed out after 25002 milliseconds\n"
     },
     {
       "group": "Террасная доска Вельвет",
@@ -153,7 +135,7 @@
       "ok": false,
       "count": 0,
       "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/terrasnaya-doska-velvet-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/terrasnaya-doska-velvet-el-sosna/\ncurl: (28) Connection timed out after 25002 milliseconds\n"
     },
     {
       "group": "Профилированный брус «Лунный паз»",
@@ -162,16 +144,25 @@
       "ok": false,
       "count": 0,
       "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/profilirovannyj-brus-lunnyj-paz-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/profilirovannyj-brus-lunnyj-paz-el-sosna/\ncurl: (28) Connection timed out after 25000 milliseconds\n"
     },
     {
-      "group": "Клеёный брус",
-      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/kleyonyj-brus-el-sosna/",
+      "group": "Палубная доска",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/palubnaya-doska-el-sosna/",
       "seller": "ours",
       "ok": false,
       "count": 0,
       "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/kleyonyj-brus-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/palubnaya-doska-el-sosna/\ncurl: (28) Connection timed out after 25002 milliseconds\n"
+    },
+    {
+      "group": "Профилированный брус «Минибрус»",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/profilirovannyj-brus-minibrus-el-sosna/",
+      "seller": "ours",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/profilirovannyj-brus-minibrus-el-sosna/\ncurl: (28) Connection timed out after 25001 milliseconds\n"
     },
     {
       "group": "Брусок строганый",
@@ -180,16 +171,7 @@
       "ok": false,
       "count": 0,
       "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/brusok-stroganyj-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
-    },
-    {
-      "group": "Мебельный щит",
-      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/mebelnyj-shhit-el-sosna/",
-      "seller": "ours",
-      "ok": false,
-      "count": 0,
-      "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/mebelnyj-shhit-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/brusok-stroganyj-el-sosna/\ncurl: (28) Connection timed out after 25000 milliseconds\n"
     },
     {
       "group": "Рейка строганая",
@@ -198,7 +180,25 @@
       "ok": false,
       "count": 0,
       "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/rejka-stroganaya-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/rejka-stroganaya-el-sosna/\ncurl: (28) Connection timed out after 25000 milliseconds\n"
+    },
+    {
+      "group": "Мебельный щит",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/mebelnyj-shhit-el-sosna/",
+      "seller": "ours",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/mebelnyj-shhit-el-sosna/\ncurl: (28) Connection timed out after 25001 milliseconds\n"
+    },
+    {
+      "group": "Клеёный брус",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/kleyonyj-brus-el-sosna/",
+      "seller": "ours",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/kleyonyj-brus-el-sosna/\ncurl: (28) Connection timed out after 25000 milliseconds\n"
     },
     {
       "group": "Подоконники",
@@ -207,7 +207,7 @@
       "ok": false,
       "count": 0,
       "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/podokonniki-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/podokonniki-el-sosna/\ncurl: (28) Connection timed out after 25001 milliseconds\n"
     },
     {
       "group": "Клеёный минибрус",
@@ -216,7 +216,7 @@
       "ok": false,
       "count": 0,
       "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/kleyonyj-minibrus-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/kleyonyj-minibrus-el-sosna/\ncurl: (28) Connection timed out after 25000 milliseconds\n"
     },
     {
       "group": "Клеёная балка",
@@ -225,7 +225,7 @@
       "ok": false,
       "count": 0,
       "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/kleyenaya-balka-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/kleyenaya-balka-el-sosna/\ncurl: (28) Connection timed out after 25000 milliseconds\n"
     },
     {
       "group": "Наличник",
@@ -234,16 +234,7 @@
       "ok": false,
       "count": 0,
       "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/nalichnik-derevyannyj-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
-    },
-    {
-      "group": "Раскладка / нащельник",
-      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/raskladka-nashhelnik-el-sosna/",
-      "seller": "ours",
-      "ok": false,
-      "count": 0,
-      "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/raskladka-nashhelnik-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/nalichnik-derevyannyj-el-sosna/\ncurl: (28) Connection timed out after 25000 milliseconds\n"
     },
     {
       "group": "Плинтус",
@@ -252,16 +243,7 @@
       "ok": false,
       "count": 0,
       "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/plintus-derevyannyj-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
-    },
-    {
-      "group": "Дверная коробка",
-      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/dvernaya-korobka-el-sosna/",
-      "seller": "ours",
-      "ok": false,
-      "count": 0,
-      "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/dvernaya-korobka-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/plintus-derevyannyj-el-sosna/\ncurl: (28) Connection timed out after 25002 milliseconds\n"
     },
     {
       "group": "Уголок",
@@ -270,16 +252,25 @@
       "ok": false,
       "count": 0,
       "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/ugolok-derevyannyj-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/ugolok-derevyannyj-el-sosna/\ncurl: (28) Connection timed out after 25002 milliseconds\n"
     },
     {
-      "group": "Ступени",
-      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/stupeni-el-sosna/",
+      "group": "Дверная коробка",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/dvernaya-korobka-el-sosna/",
       "seller": "ours",
       "ok": false,
       "count": 0,
       "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/stupeni-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/dvernaya-korobka-el-sosna/\ncurl: (28) Connection timed out after 25000 milliseconds\n"
+    },
+    {
+      "group": "Раскладка / нащельник",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/raskladka-nashhelnik-el-sosna/",
+      "seller": "ours",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/raskladka-nashhelnik-el-sosna/\ncurl: (28) Connection timed out after 25001 milliseconds\n"
     },
     {
       "group": "Штапик",
@@ -288,7 +279,7 @@
       "ok": false,
       "count": 0,
       "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/shtapik-derevyannyj-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/shtapik-derevyannyj-el-sosna/\ncurl: (28) Connection timed out after 25000 milliseconds\n"
     },
     {
       "group": "Полог",
@@ -297,7 +288,7 @@
       "ok": false,
       "count": 0,
       "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/polog-osina/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/polog-osina/\ncurl: (28) Connection timed out after 25000 milliseconds\n"
     },
     {
       "group": "Евровагонка",
@@ -306,25 +297,16 @@
       "ok": false,
       "count": 0,
       "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/evrovagonka-osina/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/evrovagonka-osina/\ncurl: (28) Connection timed out after 25001 milliseconds\n"
     },
     {
-      "group": "Тетива",
-      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/tetiva-el-sosna/",
+      "group": "Ступени",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/stupeni-el-sosna/",
       "seller": "ours",
       "ok": false,
       "count": 0,
       "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/tetiva-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
-    },
-    {
-      "group": "Подступенники",
-      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/podstupenniki-el-sosna/",
-      "seller": "ours",
-      "ok": false,
-      "count": 0,
-      "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/podstupenniki-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/stupeni-el-sosna/\ncurl: (28) Connection timed out after 25001 milliseconds\n"
     },
     {
       "group": "Лестничные площадки",
@@ -333,7 +315,7 @@
       "ok": false,
       "count": 0,
       "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/lestnichnye-ploshhadki-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/lestnichnye-ploshhadki-el-sosna/\ncurl: (28) Connection timed out after 25000 milliseconds\n"
     },
     {
       "group": "Поручни",
@@ -342,16 +324,25 @@
       "ok": false,
       "count": 0,
       "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/poruchni-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/poruchni-el-sosna/\ncurl: (28) Connection timed out after 25000 milliseconds\n"
     },
     {
-      "group": "Столбы для лестниц",
-      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/stolby-dlya-lestnicz-el-sosna/",
+      "group": "Тетива",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/tetiva-el-sosna/",
       "seller": "ours",
       "ok": false,
       "count": 0,
       "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/stolby-dlya-lestnicz-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/tetiva-el-sosna/\ncurl: (28) Connection timed out after 25000 milliseconds\n"
+    },
+    {
+      "group": "Подступенники",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/podstupenniki-el-sosna/",
+      "seller": "ours",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/podstupenniki-el-sosna/\ncurl: (28) Connection timed out after 25001 milliseconds\n"
     },
     {
       "group": "Балясины",
@@ -360,16 +351,16 @@
       "ok": false,
       "count": 0,
       "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/balyasiny-el-sosna/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/balyasiny-el-sosna/\ncurl: (28) Connection timed out after 25000 milliseconds\n"
     },
     {
-      "group": "Планкен скошенный",
-      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/planken-skoshennyj-listvennicza/",
+      "group": "Столбы для лестниц",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/stolby-dlya-lestnicz-el-sosna/",
       "seller": "ours",
       "ok": false,
       "count": 0,
       "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/planken-skoshennyj-listvennicza/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/stolby-dlya-lestnicz-el-sosna/\ncurl: (28) Connection timed out after 25000 milliseconds\n"
     },
     {
       "group": "Террасная доска Вельвет",
@@ -378,7 +369,16 @@
       "ok": false,
       "count": 0,
       "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/terrasnaya-doska-velvet-listvennicza/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/terrasnaya-doska-velvet-listvennicza/\ncurl: (28) Connection timed out after 25000 milliseconds\n"
+    },
+    {
+      "group": "Планкен скошенный",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/planken-skoshennyj-listvennicza/",
+      "seller": "ours",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/planken-skoshennyj-listvennicza/\ncurl: (28) Connection timed out after 25000 milliseconds\n"
     },
     {
       "group": "Планкен прямой",
@@ -387,7 +387,7 @@
       "ok": false,
       "count": 0,
       "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/planken-pryamoj-listvennicza/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/planken-pryamoj-listvennicza/\ncurl: (28) Connection timed out after 25002 milliseconds\n"
     },
     {
       "group": "Доска обрезная",
@@ -396,7 +396,7 @@
       "ok": false,
       "count": 0,
       "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/doska-obreznaya-listvennicza/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/doska-obreznaya-listvennicza/\ncurl: (28) Connection timed out after 25001 milliseconds\n"
     },
     {
       "group": "Палубная доска",
@@ -405,7 +405,7 @@
       "ok": false,
       "count": 0,
       "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/palubnaya-doska-listvennicza/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/palubnaya-doska-listvennicza/\ncurl: (28) Connection timed out after 25002 milliseconds\n"
     },
     {
       "group": "Доска пола",
@@ -414,7 +414,7 @@
       "ok": false,
       "count": 0,
       "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/doska-pola-listvennicza/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/doska-pola-listvennicza/\ncurl: (28) Connection timed out after 25000 milliseconds\n"
     },
     {
       "group": "Вагонка Штиль",
@@ -423,7 +423,7 @@
       "ok": false,
       "count": 0,
       "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/vagonka-shtil-listvennicza/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/vagonka-shtil-listvennicza/\ncurl: (28) Connection timed out after 25000 milliseconds\n"
     },
     {
       "group": "Ступени",
@@ -432,16 +432,7 @@
       "ok": false,
       "count": 0,
       "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/stupeni-listvennicza/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
-    },
-    {
-      "group": "Мебельный щит",
-      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/mebelnyj-shhit-listvennicza/",
-      "seller": "ours",
-      "ok": false,
-      "count": 0,
-      "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/mebelnyj-shhit-listvennicza/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/stupeni-listvennicza/\ncurl: (28) Connection timed out after 25000 milliseconds\n"
     },
     {
       "group": "Лестничные площадки",
@@ -450,7 +441,16 @@
       "ok": false,
       "count": 0,
       "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/lestnichnye-ploshhadki-listvennicza/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/lestnichnye-ploshhadki-listvennicza/\ncurl: (28) Connection timed out after 25001 milliseconds\n"
+    },
+    {
+      "group": "Мебельный щит",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/mebelnyj-shhit-listvennicza/",
+      "seller": "ours",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/mebelnyj-shhit-listvennicza/\ncurl: (28) Connection timed out after 25001 milliseconds\n"
     },
     {
       "seller": "les",
@@ -472,15 +472,6 @@
     },
     {
       "seller": "les",
-      "group": "Имитация бруса",
-      "url": "https://www.les-kraft.ru/catalog/k-9401339-imitatsiya_brusa",
-      "ok": false,
-      "count": 0,
-      "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401339-imitatsiya_brusa\ncurl: (22) The requested URL returned error: 403\n"
-    },
-    {
-      "seller": "les",
       "group": "Блок-хаус",
       "url": "https://www.les-kraft.ru/catalog/k-9401340-blok_khaus",
       "ok": false,
@@ -490,12 +481,12 @@
     },
     {
       "seller": "les",
-      "group": "Доска пола",
-      "url": "https://www.les-kraft.ru/catalog/k-9401341-doska_pola",
+      "group": "Имитация бруса",
+      "url": "https://www.les-kraft.ru/catalog/k-9401339-imitatsiya_brusa",
       "ok": false,
       "count": 0,
       "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401341-doska_pola\ncurl: (22) The requested URL returned error: 403\n"
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401339-imitatsiya_brusa\ncurl: (22) The requested URL returned error: 403\n"
     },
     {
       "seller": "les",
@@ -505,6 +496,15 @@
       "count": 0,
       "complete": false,
       "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401342-terrasnaya_doska\ncurl: (22) The requested URL returned error: 403\n"
+    },
+    {
+      "seller": "les",
+      "group": "Доска пола",
+      "url": "https://www.les-kraft.ru/catalog/k-9401341-doska_pola",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401341-doska_pola\ncurl: (22) The requested URL returned error: 403\n"
     },
     {
       "seller": "les",
@@ -526,21 +526,21 @@
     },
     {
       "seller": "les",
-      "group": "Рейка строганая",
-      "url": "https://www.les-kraft.ru/catalog/k-9401372-reyka_brusok_strogannaya",
-      "ok": false,
-      "count": 0,
-      "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401372-reyka_brusok_strogannaya\ncurl: (22) The requested URL returned error: 403\n"
-    },
-    {
-      "seller": "les",
       "group": "Доска обрезная",
       "url": "https://www.les-kraft.ru/catalog/k-9401387-pilomaterial",
       "ok": false,
       "count": 0,
       "complete": false,
       "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401387-pilomaterial\ncurl: (22) The requested URL returned error: 403\n"
+    },
+    {
+      "seller": "les",
+      "group": "Рейка строганая",
+      "url": "https://www.les-kraft.ru/catalog/k-9401372-reyka_brusok_strogannaya",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401372-reyka_brusok_strogannaya\ncurl: (22) The requested URL returned error: 403\n"
     },
     {
       "seller": "les",
@@ -562,21 +562,21 @@
     },
     {
       "seller": "les",
-      "group": "Наличник",
-      "url": "https://www.les-kraft.ru/catalog/k-9401346-nalichniki",
-      "ok": false,
-      "count": 0,
-      "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401346-nalichniki\ncurl: (22) The requested URL returned error: 403\n"
-    },
-    {
-      "seller": "les",
       "group": "Плинтус",
       "url": "https://www.les-kraft.ru/catalog/k-9401347-plintusa",
       "ok": false,
       "count": 0,
       "complete": false,
       "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401347-plintusa\ncurl: (22) The requested URL returned error: 403\n"
+    },
+    {
+      "seller": "les",
+      "group": "Наличник",
+      "url": "https://www.les-kraft.ru/catalog/k-9401346-nalichniki",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401346-nalichniki\ncurl: (22) The requested URL returned error: 403\n"
     },
     {
       "seller": "les",
@@ -616,15 +616,6 @@
     },
     {
       "seller": "les",
-      "group": "Ступени",
-      "url": "https://www.les-kraft.ru/catalog/k-9401392-stupeni",
-      "ok": false,
-      "count": 0,
-      "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401392-stupeni\ncurl: (22) The requested URL returned error: 403\n"
-    },
-    {
-      "seller": "les",
       "group": "Полог",
       "url": "https://www.les-kraft.ru/catalog/k-9401403-polok",
       "ok": false,
@@ -633,22 +624,13 @@
       "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401403-polok\ncurl: (22) The requested URL returned error: 403\n"
     },
     {
-      "group": "Брусок строганый",
-      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/brusok-listvennicza/",
-      "seller": "ours",
+      "seller": "les",
+      "group": "Ступени",
+      "url": "https://www.les-kraft.ru/catalog/k-9401392-stupeni",
       "ok": false,
       "count": 0,
       "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/brusok-listvennicza/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
-    },
-    {
-      "group": "Брус строганый",
-      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/brus-listvennicza/",
-      "seller": "ours",
-      "ok": false,
-      "count": 0,
-      "complete": false,
-      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/brus-listvennicza/\ncurl: (6) Could not resolve host: xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai\n"
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401392-stupeni\ncurl: (22) The requested URL returned error: 403\n"
     },
     {
       "seller": "les",
@@ -714,12 +696,56 @@
       "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/catalog/k-9401402-vagonka\ncurl: (22) The requested URL returned error: 403\n"
     },
     {
+      "group": "Клеёный брус",
+      "url": "https://les-dvm.ru/catalog/detail/brus-kleenyy-konstruktsionnyy-khvoy-90-150-150-600/",
+      "seller": "dvm",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://les-dvm.ru/catalog/detail/brus-kleenyy-konstruktsionnyy-khvoy-90-150-150-600/\ncurl: (22) The requested URL returned error: 503\n"
+    },
+    {
+      "group": "Профилированный брус «Лунный паз»",
+      "url": "https://les-dvm.ru/catalog/detail/lunnyy-paz-khvoya-42kh95-115/",
+      "seller": "dvm",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://les-dvm.ru/catalog/detail/lunnyy-paz-khvoya-42kh95-115/\ncurl: (22) The requested URL returned error: 503\n"
+    },
+    {
+      "group": "Брусок строганый",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/brusok-listvennicza/",
+      "seller": "ours",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/brusok-listvennicza/\ncurl: (28) Connection timed out after 25002 milliseconds\n"
+    },
+    {
+      "group": "Брус строганый",
+      "url": "https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/brus-listvennicza/",
+      "seller": "ours",
+      "ok": false,
+      "count": 0,
+      "complete": false,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://xn----7sbabaxdwcwfeiwfkdyffqm6s.xn--p1ai/products/brus-listvennicza/\ncurl: (28) Connection timed out after 25001 milliseconds\n"
+    },
+    {
       "seller": "les-file",
       "group": "Excel Лескрафт",
       "url": "https://www.les-kraft.ru/prices",
       "ok": false,
       "count": 0,
       "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://www.les-kraft.ru/prices\ncurl: (22) The requested URL returned error: 403\n"
+    },
+    {
+      "seller": "dvm-file",
+      "group": "PDF Деревообработчик",
+      "url": "https://les-dvm.ru/documents/",
+      "ok": false,
+      "count": 0,
+      "reason": "Command failed: curl --silent --show-error --fail --location --max-time 25 --user-agent Mozilla/5.0 (compatible; LumberPriceMonitor/1.0) https://les-dvm.ru/documents/\ncurl: (22) The requested URL returned error: 503\n"
     }
   ]
 }

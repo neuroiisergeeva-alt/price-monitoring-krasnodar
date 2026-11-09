@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-02T13:10:53Z",
+  "at": "2026-11-09T13:51:39Z",
   "rows": [
     {
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2806",
@@ -101,6 +101,24 @@
       "declaredArea": 3.53
     },
     {
+      "url": "https://terem-krym.ru/dlya-otdelki-sten/vagonka/kedr/vagonka-kedr-av-151184000mm10sht",
+      "title": "Вагонка Кедр \"АВ\" 15*118*4000мм*10шт",
+      "status": "ok",
+      "pack": 10,
+      "oldPack": 10,
+      "calculatedArea": 4.72,
+      "declaredArea": 4.72
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2006",
+      "title": "Вагонка лиственница \"А\" 15*118(110)*3500мм*10шт",
+      "status": "ok",
+      "pack": 10,
+      "oldPack": 10,
+      "calculatedArea": 4.13,
+      "declaredArea": 4.13
+    },
+    {
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2101",
       "title": "Вагонка лиственница \"А\" 15*118(110)*4000мм*10шт",
       "status": "ok",
@@ -108,6 +126,24 @@
       "oldPack": 10,
       "calculatedArea": 4.72,
       "declaredArea": 4.72
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2008",
+      "title": "Вагонка лиственница \"А\" 15*136(130)*3500мм*9шт",
+      "status": "ok",
+      "pack": 9,
+      "oldPack": 9,
+      "calculatedArea": 4.284,
+      "declaredArea": 4.28
+    },
+    {
+      "url": "https://terem-krym.ru/catalog/vagonka/listvennica/vagonka-listvennitsa-a-1563573500mm4sht",
+      "title": "Вагонка лиственница \"А\" 15*63(57)*3500мм*4шт",
+      "status": "ok",
+      "pack": 4,
+      "oldPack": 4,
+      "calculatedArea": 0.882,
+      "declaredArea": 0.88
     },
     {
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3103",
@@ -155,6 +191,33 @@
       "declaredArea": 4.72
     },
     {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1929",
+      "title": "Вагонка лиственница \"В\" 15*136(130)*3500мм*9шт",
+      "status": "ok",
+      "pack": 9,
+      "oldPack": 9,
+      "calculatedArea": 4.284,
+      "declaredArea": 4.28
+    },
+    {
+      "url": "https://terem-krym.ru/catalog/vagonka/listvennica/vagonka-listvennitsa-v-1596903500mm3sht",
+      "title": "Вагонка лиственница \"В\" 15*96(90)*3500мм*3шт",
+      "status": "ok",
+      "pack": 3,
+      "oldPack": 3,
+      "calculatedArea": 1.008,
+      "declaredArea": 1
+    },
+    {
+      "url": "https://terem-krym.ru/catalog/vagonka/listvennica/vagonka-listvennitsa-v-1596903500mm4sht",
+      "title": "Вагонка лиственница \"В\" 15*96(90)*3500мм*4шт",
+      "status": "ok",
+      "pack": 4,
+      "oldPack": 4,
+      "calculatedArea": 1.344,
+      "declaredArea": 1.34
+    },
+    {
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2980",
       "title": "Вагонка лиственница \"С\" 15*118(110)*3000мм*10шт",
       "status": "ok",
@@ -200,6 +263,15 @@
       "declaredArea": 4.9
     },
     {
+      "url": "https://terem-krym.ru/catalog/vagonka/listvennica/vagonka-listvennitsa-s-1563573500mm12sht",
+      "title": "Вагонка лиственница \"С\" 15*63(57)*3500мм*12шт",
+      "status": "ok",
+      "pack": 12,
+      "oldPack": 12,
+      "calculatedArea": 2.646,
+      "declaredArea": 2.65
+    },
+    {
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2031",
       "title": "Вагонка лиственница \"Экстра\" 15*118(110)*3000мм*10шт",
       "status": "ok",
@@ -227,6 +299,15 @@
       "declaredArea": 4.72
     },
     {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3138",
+      "title": "Вагонка лиственница \"Экстра\" 15*136(130)*3500мм*9шт",
+      "status": "ok",
+      "pack": 9,
+      "oldPack": 9,
+      "calculatedArea": 4.284,
+      "declaredArea": 4.28
+    },
+    {
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2145",
       "title": "Вагонка лиственница \"Экстра\" 15*136(130)*4000мм*9шт",
       "status": "ok",
@@ -236,6 +317,33 @@
       "declaredArea": 4.9
     },
     {
+      "url": "https://terem-krym.ru/catalog/vagonka/listvennica/vagonka-listvennitsa-ekstra-1563573500mm16sht",
+      "title": "Вагонка лиственница \"Экстра\" 15*63(57)*3500мм*16шт",
+      "status": "ok",
+      "pack": 16,
+      "oldPack": 16,
+      "calculatedArea": 3.528,
+      "declaredArea": 3.53
+    },
+    {
+      "url": "https://terem-krym.ru/catalog/vagonka/listvennica/vagonka-listvennitsa-ekstra-1563573500mm20sht",
+      "title": "Вагонка лиственница \"Экстра\" 15*63(57)*3500мм*20шт",
+      "status": "ok",
+      "pack": 20,
+      "oldPack": 20,
+      "calculatedArea": 4.41,
+      "declaredArea": 4.41
+    },
+    {
+      "url": "https://terem-krym.ru/catalog/vagonka/listvennica/vagonka-listvennitsa-ekstra-1563573500mm8sht",
+      "title": "Вагонка лиственница \"Экстра\" 15*63(57)*3500мм*8шт",
+      "status": "ok",
+      "pack": 8,
+      "oldPack": 8,
+      "calculatedArea": 1.764,
+      "declaredArea": 1.76
+    },
+    {
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3125",
       "title": "Вагонка лиственница \"Экстра\" 15*96(90)*3500мм*10шт",
       "status": "ok",
@@ -243,6 +351,24 @@
       "oldPack": 10,
       "calculatedArea": 3.36,
       "declaredArea": 3.36
+    },
+    {
+      "url": "https://terem-krym.ru/catalog/vagonka/listvennica/vagonka-listvennitsa-ekstra-1596903500mm9sht",
+      "title": "Вагонка лиственница \"Экстра\" 15*96(90)*3500мм*9шт",
+      "status": "ok",
+      "pack": 9,
+      "oldPack": 9,
+      "calculatedArea": 3.024,
+      "declaredArea": 3.02
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3173",
+      "title": "Вагонка лиственница \"Элит\" 15*118(110)*3500мм*10шт",
+      "status": "ok",
+      "pack": 10,
+      "oldPack": 10,
+      "calculatedArea": 4.13,
+      "declaredArea": 4.13
     },
     {
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2140",
@@ -263,6 +389,12 @@
       "declaredArea": 4.9
     },
     {
+      "url": "https://terem-krym.ru/catalog/vagonka/listvennica/vagonka-listvennitsa-elit-1563573500mm6sht",
+      "title": "Вагонка лиственница \"Элит\" 15*63(57)*3500мм*6шт",
+      "status": "error",
+      "details": "Error: Площадь упаковки в калькуляторе 1.3 м² не соответствует 6 доскам: 1.3230 м². Требуется уточнение единицы/упаковки"
+    },
+    {
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2170",
       "title": "Вагонка лиственница \"Элит\" 15*96(90)*4000мм*10шт",
       "status": "ok",
@@ -270,6 +402,15 @@
       "oldPack": 10,
       "calculatedArea": 3.84,
       "declaredArea": 3.84
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1320",
+      "title": "Вагонка штиль сосна/ель \"АВ\" 13*118(110)*2000мм*9шт",
+      "status": "ok",
+      "pack": 9,
+      "oldPack": 9,
+      "calculatedArea": 2.124,
+      "declaredArea": 2.12
     },
     {
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1370",
@@ -461,15 +602,6 @@
       "declaredArea": 3.54
     },
     {
-      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2006",
-      "title": "Вагонка лиственница \"А\" 15*118(110)*3500мм*10шт",
-      "status": "ok",
-      "pack": 10,
-      "oldPack": 10,
-      "calculatedArea": 4.13,
-      "declaredArea": 4.13
-    },
-    {
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3023",
       "title": "Вагонка лиственница \"А\" 15*136(130)*2000мм*9шт",
       "status": "ok",
@@ -495,15 +627,6 @@
       "oldPack": 9,
       "calculatedArea": 3.672,
       "declaredArea": 3.67
-    },
-    {
-      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2008",
-      "title": "Вагонка лиственница \"А\" 15*136(130)*3500мм*9шт",
-      "status": "ok",
-      "pack": 9,
-      "oldPack": 9,
-      "calculatedArea": 4.284,
-      "declaredArea": 4.28
     },
     {
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2211",
@@ -621,15 +744,6 @@
       "oldPack": 9,
       "calculatedArea": 3.672,
       "declaredArea": 3.67
-    },
-    {
-      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1929",
-      "title": "Вагонка лиственница \"В\" 15*136(130)*3500мм*9шт",
-      "status": "ok",
-      "pack": 9,
-      "oldPack": 9,
-      "calculatedArea": 4.284,
-      "declaredArea": 4.28
     },
     {
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2983",
@@ -812,15 +926,6 @@
       "declaredArea": 3.67
     },
     {
-      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3138",
-      "title": "Вагонка лиственница \"Экстра\" 15*136(130)*3500мм*9шт",
-      "status": "ok",
-      "pack": 9,
-      "oldPack": 9,
-      "calculatedArea": 4.284,
-      "declaredArea": 4.28
-    },
-    {
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3026",
       "title": "Вагонка лиственница \"Экстра\" 15*96(90)*2500мм*10шт",
       "status": "ok",
@@ -846,15 +951,6 @@
       "oldPack": 10,
       "calculatedArea": 3.54,
       "declaredArea": 3.54
-    },
-    {
-      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3173",
-      "title": "Вагонка лиственница \"Элит\" 15*118(110)*3500мм*10шт",
-      "status": "ok",
-      "pack": 10,
-      "oldPack": 10,
-      "calculatedArea": 4.13,
-      "declaredArea": 4.13
     },
     {
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3144",
@@ -1188,15 +1284,6 @@
       "oldPack": 10,
       "calculatedArea": 2.36,
       "declaredArea": 2.36
-    },
-    {
-      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1320",
-      "title": "Вагонка штиль сосна/ель \"АВ\" 13*118(110)*2000мм*9шт",
-      "status": "ok",
-      "pack": 9,
-      "oldPack": 9,
-      "calculatedArea": 2.124,
-      "declaredArea": 2.12
     },
     {
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2631",
@@ -2789,6 +2876,15 @@
       "declaredArea": 1.8
     },
     {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3070",
+      "title": "Палубная доска лиственница \"В\" 25*120*4000мм*5шт",
+      "status": "ok",
+      "pack": 5,
+      "oldPack": 5,
+      "calculatedArea": 2.4,
+      "declaredArea": 2.4
+    },
+    {
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2982",
       "title": "Палубная доска лиственница \"В\" 25*140*3000мм*5шт",
       "status": "ok",
@@ -2834,15 +2930,6 @@
       "declaredArea": 1.8
     },
     {
-      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3027",
-      "title": "Палубная доска лиственница \"С\" 25*140*3000мм*5шт",
-      "status": "ok",
-      "pack": 5,
-      "oldPack": 5,
-      "calculatedArea": 2.1,
-      "declaredArea": 2.1
-    },
-    {
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1812",
       "title": "Палубная доска лиственница \"С\" 25*140*3500мм*5шт",
       "status": "ok",
@@ -2886,6 +2973,15 @@
       "oldPack": 5,
       "calculatedArea": 2.1,
       "declaredArea": 2.1
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3126",
+      "title": "Палубная доска лиственница \"Экстра\" 25*120*4000мм*5шт",
+      "status": "ok",
+      "pack": 5,
+      "oldPack": 5,
+      "calculatedArea": 2.4,
+      "declaredArea": 2.4
     },
     {
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3082",
@@ -3140,15 +3236,6 @@
       "declaredArea": 2.1
     },
     {
-      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3070",
-      "title": "Палубная доска лиственница \"В\" 25*120*4000мм*5шт",
-      "status": "ok",
-      "pack": 5,
-      "oldPack": 5,
-      "calculatedArea": 2.4,
-      "declaredArea": 2.4
-    },
-    {
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2731",
       "title": "Палубная доска лиственница \"В\" 25*140*1000мм*5шт",
       "status": "ok",
@@ -3302,6 +3389,15 @@
       "declaredArea": 2.03
     },
     {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3027",
+      "title": "Палубная доска лиственница \"С\" 25*140*3000мм*5шт",
+      "status": "ok",
+      "pack": 5,
+      "oldPack": 5,
+      "calculatedArea": 2.1,
+      "declaredArea": 2.1
+    },
+    {
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2939",
       "title": "Палубная доска лиственница \"С\" 35*140*2500мм*4шт",
       "status": "ok",
@@ -3372,15 +3468,6 @@
       "oldPack": 5,
       "calculatedArea": 1.5,
       "declaredArea": 1.5
-    },
-    {
-      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3126",
-      "title": "Палубная доска лиственница \"Экстра\" 25*120*4000мм*5шт",
-      "status": "ok",
-      "pack": 5,
-      "oldPack": 5,
-      "calculatedArea": 2.4,
-      "declaredArea": 2.4
     },
     {
       "url": "https://terem-krym.ru/tovar/994",
@@ -3878,6 +3965,15 @@
       "declaredArea": 2.52
     },
     {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3067",
+      "title": "Планкен прямой лиственница \"В\" 20*120*4000мм*6шт",
+      "status": "ok",
+      "pack": 6,
+      "oldPack": 6,
+      "calculatedArea": 2.88,
+      "declaredArea": 2.88
+    },
+    {
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1922",
       "title": "Планкен прямой лиственница \"В\" 20*140*3500мм*6шт",
       "status": "ok",
@@ -3941,6 +4037,15 @@
       "declaredArea": 1.8
     },
     {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3162",
+      "title": "Планкен прямой лиственница \"Экстра\" 20*120*4000мм*6шт",
+      "status": "ok",
+      "pack": 6,
+      "oldPack": 6,
+      "calculatedArea": 2.88,
+      "declaredArea": 2.88
+    },
+    {
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2173",
       "title": "Планкен прямой лиственница \"Экстра\" 20*140*4000мм*6шт",
       "status": "ok",
@@ -3948,6 +4053,33 @@
       "oldPack": 6,
       "calculatedArea": 3.36,
       "declaredArea": 3.36
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3171",
+      "title": "Планкен прямой лиственница \"Элит\" 20*120*4000мм*6шт",
+      "status": "ok",
+      "pack": 6,
+      "oldPack": 6,
+      "calculatedArea": 2.88,
+      "declaredArea": 2.88
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2137",
+      "title": "Планкен прямой лиственница \"Элит\" 20*140*4000мм*6шт",
+      "status": "ok",
+      "pack": 6,
+      "oldPack": 6,
+      "calculatedArea": 3.36,
+      "declaredArea": 3.36
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3310",
+      "title": "Планкен скошенный лиственница \"А\" 20*120*3500мм*6шт",
+      "status": "ok",
+      "pack": 6,
+      "oldPack": 6,
+      "calculatedArea": 2.52,
+      "declaredArea": 2.52
     },
     {
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3227",
@@ -3977,6 +4109,42 @@
       "declaredArea": 3.36
     },
     {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3309",
+      "title": "Планкен скошенный лиственница \"А\" 20*60*3500мм*12шт",
+      "status": "ok",
+      "pack": 12,
+      "oldPack": 12,
+      "calculatedArea": 2.52,
+      "declaredArea": 2.52
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3307",
+      "title": "Планкен скошенный лиственница \"А\" 20*65*3500мм*8шт",
+      "status": "ok",
+      "pack": 8,
+      "oldPack": 8,
+      "calculatedArea": 1.82,
+      "declaredArea": 1.82
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3312",
+      "title": "Планкен скошенный лиственница \"А\" 20*70*3500мм*12шт",
+      "status": "ok",
+      "pack": 12,
+      "oldPack": 12,
+      "calculatedArea": 2.94,
+      "declaredArea": 2.94
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3303",
+      "title": "Планкен скошенный лиственница \"В\" 20*120*3500мм*5шт",
+      "status": "ok",
+      "pack": 5,
+      "oldPack": 5,
+      "calculatedArea": 2.1,
+      "declaredArea": 2.1
+    },
+    {
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3225",
       "title": "Планкен скошенный лиственница \"В\" 20*120*4000мм*6шт",
       "status": "ok",
@@ -3984,6 +4152,15 @@
       "oldPack": 6,
       "calculatedArea": 2.88,
       "declaredArea": 2.88
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3306",
+      "title": "Планкен скошенный лиственница \"В\" 20*140*3500мм*5шт",
+      "status": "ok",
+      "pack": 5,
+      "oldPack": 5,
+      "calculatedArea": 2.45,
+      "declaredArea": 2.45
     },
     {
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1912",
@@ -4004,6 +4181,30 @@
       "declaredArea": 3.36
     },
     {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3299",
+      "title": "Планкен скошенный лиственница \"В\" 20*60*3500мм*6шт",
+      "status": "ok",
+      "pack": 6,
+      "oldPack": 6,
+      "calculatedArea": 1.26,
+      "declaredArea": 1.26
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3305",
+      "title": "Планкен скошенный лиственница \"В\" 20*65*3500мм*10шт",
+      "status": "error",
+      "details": "Error: Площадь упаковки в калькуляторе 2.3 м² не соответствует 10 доскам: 2.2750 м². Требуется уточнение единицы/упаковки"
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3313",
+      "title": "Планкен скошенный лиственница \"В\" 20*70*3500мм*10шт",
+      "status": "ok",
+      "pack": 10,
+      "oldPack": 10,
+      "calculatedArea": 2.45,
+      "declaredArea": 2.45
+    },
+    {
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1823",
       "title": "Планкен скошенный лиственница \"С\" 20*140*4000мм*6шт",
       "status": "ok",
@@ -4022,6 +4223,15 @@
       "declaredArea": 2.88
     },
     {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2163",
+      "title": "Планкен скошенный лиственница \"Экстра\" 20*140*3500мм*6шт",
+      "status": "ok",
+      "pack": 6,
+      "oldPack": 6,
+      "calculatedArea": 2.94,
+      "declaredArea": 2.94
+    },
+    {
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2150",
       "title": "Планкен скошенный лиственница \"Экстра\" 20*140*4000мм*6шт",
       "status": "ok",
@@ -4029,6 +4239,60 @@
       "oldPack": 6,
       "calculatedArea": 3.36,
       "declaredArea": 3.36
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3315",
+      "title": "Планкен скошенный лиственница \"Экстра\" 20*60*3500мм*12шт",
+      "status": "ok",
+      "pack": 12,
+      "oldPack": 12,
+      "calculatedArea": 2.52,
+      "declaredArea": 2.52
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3298",
+      "title": "Планкен скошенный лиственница \"Экстра\" 20*60*3500мм*3шт",
+      "status": "ok",
+      "pack": 3,
+      "oldPack": 3,
+      "calculatedArea": 0.63,
+      "declaredArea": 0.63
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3316",
+      "title": "Планкен скошенный лиственница \"Экстра\" 20*65*3500мм*12шт",
+      "status": "ok",
+      "pack": 12,
+      "oldPack": 12,
+      "calculatedArea": 2.73,
+      "declaredArea": 2.73
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3294",
+      "title": "Планкен скошенный лиственница \"Экстра\" 20*65*3500мм*2шт",
+      "status": "ok",
+      "pack": 2,
+      "oldPack": 2,
+      "calculatedArea": 0.455,
+      "declaredArea": 0.46
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3317",
+      "title": "Планкен скошенный лиственница \"Экстра\" 20*70*3500мм*12шт",
+      "status": "ok",
+      "pack": 12,
+      "oldPack": 12,
+      "calculatedArea": 2.94,
+      "declaredArea": 2.94
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3308",
+      "title": "Планкен скошенный лиственница \"Экстра\" 20*70*3500мм*6шт",
+      "status": "ok",
+      "pack": 6,
+      "oldPack": 6,
+      "calculatedArea": 1.47,
+      "declaredArea": 1.47
     },
     {
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2109",
@@ -4342,15 +4606,6 @@
       "status": "ok",
       "pack": 8,
       "oldPack": 8,
-      "calculatedArea": 2.88,
-      "declaredArea": 2.88
-    },
-    {
-      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3067",
-      "title": "Планкен прямой лиственница \"В\" 20*120*4000мм*6шт",
-      "status": "ok",
-      "pack": 6,
-      "oldPack": 6,
       "calculatedArea": 2.88,
       "declaredArea": 2.88
     },
@@ -4751,15 +5006,6 @@
       "declaredArea": 2.52
     },
     {
-      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3162",
-      "title": "Планкен прямой лиственница \"Экстра\" 20*120*4000мм*6шт",
-      "status": "ok",
-      "pack": 6,
-      "oldPack": 6,
-      "calculatedArea": 2.88,
-      "declaredArea": 2.88
-    },
-    {
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3079",
       "title": "Планкен прямой лиственница \"Экстра\" 20*120*4000мм*8шт",
       "status": "ok",
@@ -4848,24 +5094,6 @@
       "oldPack": 8,
       "calculatedArea": 2.88,
       "declaredArea": 2.88
-    },
-    {
-      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3171",
-      "title": "Планкен прямой лиственница \"Элит\" 20*120*4000мм*6шт",
-      "status": "ok",
-      "pack": 6,
-      "oldPack": 6,
-      "calculatedArea": 2.88,
-      "declaredArea": 2.88
-    },
-    {
-      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2137",
-      "title": "Планкен прямой лиственница \"Элит\" 20*140*4000мм*6шт",
-      "status": "ok",
-      "pack": 6,
-      "oldPack": 6,
-      "calculatedArea": 3.36,
-      "declaredArea": 3.36
     },
     {
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3090",
@@ -5154,15 +5382,6 @@
       "oldPack": 6,
       "calculatedArea": 2.52,
       "declaredArea": 2.52
-    },
-    {
-      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2163",
-      "title": "Планкен скошенный лиственница \"Экстра\" 20*140*3500мм*6шт",
-      "status": "ok",
-      "pack": 6,
-      "oldPack": 6,
-      "calculatedArea": 2.94,
-      "declaredArea": 2.94
     },
     {
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3136",

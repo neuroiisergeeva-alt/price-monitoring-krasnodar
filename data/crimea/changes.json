@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-02T13:10:53Z",
+  "at": "2026-11-09T13:51:39Z",
   "changes": [],
   "higher": [
     {
@@ -93,7 +93,7 @@
       "ours": 1417,
       "competitor": 1157.9254079254079,
       "difference": 259.07459207459215,
-      "availability": "В наличии: 62 упак",
+      "availability": "В наличии: 58 упак",
       "referenceWithoutStock": false,
       "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1605"
@@ -465,7 +465,7 @@
       "ours": 2136,
       "competitor": 2105,
       "difference": 31,
-      "availability": "В наличии: 217 шт",
+      "availability": "В наличии: 186 шт",
       "referenceWithoutStock": false,
       "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1317"
@@ -621,8 +621,8 @@
       "ours": 2583,
       "competitor": 2419.5402298850577,
       "difference": 163.45977011494233,
-      "availability": "Нет подтвержденного наличия / уведомить",
-      "referenceWithoutStock": true,
+      "availability": "В наличии: 14 шт",
+      "referenceWithoutStock": false,
       "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1293"
     },
@@ -693,7 +693,7 @@
       "ours": 49,
       "competitor": 46.333333333333336,
       "difference": 2.6666666666666643,
-      "availability": "В наличии: 1800 шт",
+      "availability": "В наличии: 1682 шт",
       "referenceWithoutStock": false,
       "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=209"
@@ -705,7 +705,7 @@
       "ours": 40,
       "competitor": 37.333333333333336,
       "difference": 2.6666666666666643,
-      "availability": "В наличии: 1036 шт",
+      "availability": "В наличии: 804 шт",
       "referenceWithoutStock": false,
       "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=23"
@@ -717,27 +717,13 @@
       "ours": 614,
       "competitor": 557.1249215317013,
       "difference": 56.87507846829874,
-      "availability": "В наличии: 473 упак",
+      "availability": "В наличии: 470 упак",
       "referenceWithoutStock": false,
       "change": 0,
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1217"
     }
   ],
   "errors": [
-    {
-      "source": "https://terem-krym.ru/catalog/plintusa",
-      "status": "error",
-      "pages": 1,
-      "rows": 0,
-      "details": "https://terem-krym.ru/catalog/plintusa: HTTP Error 404: Not Found"
-    },
-    {
-      "source": "https://terem-krym.ru/catalog/ugolki_naruzhnie",
-      "status": "error",
-      "pages": 1,
-      "rows": 0,
-      "details": "https://terem-krym.ru/catalog/ugolki_naruzhnie: HTTP Error 404: Not Found"
-    },
     {
       "source": "https://terem-krym.ru/index.php?route=product/search&search=%D0%94%D0%BE%D1%81%D0%BA%D0%B0%20%D0%BF%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0%D1%8F",
       "status": "error",
@@ -762,12 +748,12 @@
     {
       "source": "Терем — проверка каждой упаковки по карточке",
       "status": "error",
-      "rows": 623,
-      "details": "{\"verified\":621,\"errors\":[{\"url\":\"https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2818\",\"title\":\"Вагонка штиль сосна/ель \\\"АВ\\\" 13*118(110)*3000мм*10шт\",\"status\":\"error\",\"details\":\"Error: Название содержит 10 досок, но цена карточки подписана за шт; единицу нужно уточнить\"},{\"url\":\"https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2634\",\"title\":\"Планкен скошенный Сосна \\\"АВ\\\" 20*140*3000мм*5шт\",\"status\":\"error\",\"details\":\"Error: Площадь упаковки в калькуляторе 0.42 м² не соответствует 5 доскам: 2.1000 м². Требуется уточнение единицы/упаковки\"}]}"
+      "rows": 648,
+      "details": "{\"verified\":644,\"errors\":[{\"url\":\"https://terem-krym.ru/catalog/vagonka/listvennica/vagonka-listvennitsa-elit-1563573500mm6sht\",\"title\":\"Вагонка лиственница \\\"Элит\\\" 15*63(57)*3500мм*6шт\",\"status\":\"error\",\"details\":\"Error: Площадь упаковки в калькуляторе 1.3 м² не соответствует 6 доскам: 1.3230 м². Требуется уточнение единицы/упаковки\"},{\"url\":\"https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2818\",\"title\":\"Вагонка штиль сосна/ель \\\"АВ\\\" 13*118(110)*3000мм*10шт\",\"status\":\"error\",\"details\":\"Error: Название содержит 10 досок, но цена карточки подписана за шт; единицу нужно уточнить\"},{\"url\":\"https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=3305\",\"title\":\"Планкен скошенный лиственница \\\"В\\\" 20*65*3500мм*10шт\",\"status\":\"error\",\"details\":\"Error: Площадь упаковки в калькуляторе 2.3 м² не соответствует 10 доскам: 2.2750 м². Требуется уточнение единицы/упаковки\"},{\"url\":\"https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2634\",\"title\":\"Планкен скошенный Сосна \\\"АВ\\\" 20*140*3000мм*5шт\",\"status\":\"error\",\"details\":\"Error: Площадь упаковки в калькуляторе 0.42 м² не соответствует 5 доскам: 2.1000 м². Требуется уточнение единицы/упаковки\"}]}"
     }
   ],
   "pks": {
-    "at": "2026-11-02T13:11:09Z",
+    "at": "2026-11-09T13:51:54Z",
     "region": "Симферополь",
     "offers": 33,
     "priced": 30,
