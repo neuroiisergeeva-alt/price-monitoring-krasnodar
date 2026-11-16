@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-09T13:51:39Z",
+  "at": "2026-11-16T13:24:27Z",
   "rows": [
     {
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2806",
@@ -402,15 +402,6 @@
       "oldPack": 10,
       "calculatedArea": 3.84,
       "declaredArea": 3.84
-    },
-    {
-      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1320",
-      "title": "Вагонка штиль сосна/ель \"АВ\" 13*118(110)*2000мм*9шт",
-      "status": "ok",
-      "pack": 9,
-      "oldPack": 9,
-      "calculatedArea": 2.124,
-      "declaredArea": 2.12
     },
     {
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1370",
@@ -1284,6 +1275,15 @@
       "oldPack": 10,
       "calculatedArea": 2.36,
       "declaredArea": 2.36
+    },
+    {
+      "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=1320",
+      "title": "Вагонка штиль сосна/ель \"АВ\" 13*118(110)*2000мм*9шт",
+      "status": "ok",
+      "pack": 9,
+      "oldPack": 9,
+      "calculatedArea": 2.124,
+      "declaredArea": 2.12
     },
     {
       "url": "https://terem-krym.ru/index.php?route=product%2Fproduct&product_id=2631",
